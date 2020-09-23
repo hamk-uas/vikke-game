@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c09d8cd5454d694990f6bd9dc01d641, type: 3}
+  m_Name: Lukkarin Puustelli
+  m_EditorClassIdentifier: 
+  locationStorySprite: {fileID: 21300000, guid: 14bde513d48df86478906d05c2984864,
+    type: 3}
+  task: {fileID: 11400000, guid: 2e157269597c0134aad9cb32583cbd9f, type: 2}
+  address: "Pilpalantie 97, Loppi,\u202F12700"
+  latitude: 60.710377
+  longitude: 24.432003
+  fiTitle: "Tarina Kaakkom\xE4en pirusta j\xE4ttil\xE4isen hahmossa"
+  fiPlace: Lukkarin Puustelli
+  fiText: "Lopen pit\xE4j\xE4n Topenon kyl\xE4n takamailla on Kaakkom\xE4ki \u2013niminen
+    vuori. Vuoren luolissa kansan kertoman mukaan asui piru j\xE4ttil\xE4isen muodossa.
+    \r\n\r\nKun Lopelle rakennettiin ensimm\xE4ist\xE4 kirkkoa, piru oli tavalla,
+    jos toisellakin koettanut h\xE4irit\xE4 kirkon rakentamista. Kun kirkonkelloilla
+    kutsuttiin seurakuntalaisia kirkkoon, j\xE4ttil\xE4inen hermostui kellojen metelist\xE4.
+    Sen oli kuultu huutavan: \u201DEi saa en\xE4\xE4 rauhaa, kun Santa Pirjo pauhaa\u201D.
+    J\xE4ttil\xE4inen nimitti kirkon kelloja Santa Pirjoksi. \r\n\r\nKun kelloja
+    soitettiin er\xE4\xE4n\xE4 pyh\xE4aamuna, j\xE4ttil\xE4inen raivostui, sieppasi
+    kallion lohkareen Kaakkom\xE4en vuoresta ja heitti sen kellotapulia kohti. Vaan
+    lohkare menikin kirkon ohi ja putosi Loppij\xE4rveen. Siit\xE4 koko pit\xE4j\xE4n
+    karja sairastui ja paljon el\xE4imi\xE4 kuoli. \r\n\r\nJ\xE4ttil\xE4inen oli
+    n\xE4et sanonut kivest\xE4: \u201DNiin kauan kuin se vedess\xE4 makaa, tuo se
+    onnettomuutta\u201D. Kyl\xE4l\xE4iset vipusivat kiven kallionkielekkeelle, ja
+    karjaonni palautui.\r"
+  enTitle: Story of the Devil in the form of a giant
+  enPlace: House of the parish clerk
+  enText: "In the backwoods of the Topeno Village in Loppi, you will find a place
+    called Kaakko Hill. The story goes that the devil used to live in the caves of
+    the hill, disguised as a giant. \r\n\r\nWhen the first church was being built
+    in Loppi, the devil did everything he could to disrupt the work. The sound of
+    the church bells tolling, calling people to service, annoyed the giant. People
+    had heard him scream: \u201CSaint Pirjo does not give me peace, she tolls the
+    bells that tease me!\u201D The giant used to call the church bells \u201CSaint
+    Pirjo\u201D. \r\n\r\nWhen the bells tolled one Sunday morning, the giant flew
+    into a rage, grabbed a huge boulder off of Kaakko Hill and tossed it towards
+    the belfry. But he missed it, and the boulder fell into Loppi lake, causing the
+    cattle in the whole area to become sick, and many animals were lost. \r\n\r\nThe
+    giant had cursed the stone: \u201CAs long as it is in the water, it will mean
+    bad luck.\u201D The people of the village hoisted the boulder on to a projecting
+    rock, and their cattle were no longer possessed.\r"

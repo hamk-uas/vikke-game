@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c09d8cd5454d694990f6bd9dc01d641, type: 3}
+  m_Name: Torronsuo
+  m_EditorClassIdentifier: 
+  locationStorySprite: {fileID: 21300000, guid: 320c7ee1177ce7f449a12a2c7259acc2,
+    type: 3}
+  task: {fileID: 11400000, guid: e99f8e88e379fa846a68f46d1c6467c0, type: 2}
+  address: 30100 Tammela
+  latitude: 60.7312
+  longitude: 23.63265
+  fiTitle: "Retkell\xE4"
+  fiPlace: Torronsuo
+  fiText: "Aaltosen perhe seisoo pitkospuilla Torronsuon laitamailla.\r\n\u201DTied\xE4ttek\xF6s,
+    ett\xE4 t\xE4m\xE4 on Suomen syvin suo ja t\xE4\xE4ll\xE4 on keitaita, kermittej\xE4,
+    kuljuja ja allikoita\u201D, kertoo is\xE4-Aaltonen. \r\nLapset, Liisa ja Leevi,
+    ovat vallan ihmeiss\xE4\xE4n. \r\n\u201DMit\xE4 ne sellaiset el\xE4imet ovat,
+    ei kai ne pure?\u201D\r\nAaltosen perhe kulkee Torronsuolla ev\xE4sreput sel\xE4ss\xE4\xE4n.
+    On aurinkoinen p\xE4iv\xE4 ja suolla hehkuvat jo monet ruskan v\xE4rit. \xC4iti-Aaltosta
+    naurattaa lasten kysymys.\r\n\u201DEiv\xE4t ne ole el\xE4imi\xE4 ollenkaan. Ne
+    ovat suon erilaista maastoa. Tuossa, miss\xE4 kasvaa varpuja ja puita, on kermi.
+    Se on kuivempi kohta. Kulju on kosteampaa ja allikossa on vett\xE4. N\xE4ettek\xF6?
+    \u201D\r\n\u201DHauskoja sanoja\u201D, toteaa Leevi ja Liisa pohtii oitis, ett\xE4
+    nep\xE4 ovat oivallisia tietokilpailusanoja.\r\nVastaan tulee toinenkin perhe,
+    mutta kaikki mahtuvat ohittamaan toisensa pitkospuilla.\r\n\u201DT\xE4\xE4ll\xE4
+    on paljon lintuja ja hy\xF6nteisi\xE4 ja kasveja, joita on vain t\xE4\xE4ll\xE4.
+    Siksi me kuljemme t\xE4\xE4ll\xE4 pitkospuita pitkin, ett\xE4 luonto saa olla
+    rauhassa. Talvella t\xE4\xE4ll\xE4 on hienot ladut ja voimme tulla hiiht\xE4m\xE4\xE4n,
+    vaikka kuutamoisena y\xF6n\xE4.\u201D\r\n\u201DSe vasta olisi j\xE4nn\xE4\xE4\u201D,
+    toteavat Liisa ja Leevi.\r"
+  enTitle: On a day trip
+  enPlace: Torronsuo
+  enText: "The Aaltonen family is on the duckboards on the edge of the Torronsuo
+    bog.\r\n\u201CDid you know that this is the deepest bog in Finland, and you will
+    find lagg zones, kermis, kolks and flarks here,\u201D the father explains. \r\nThe
+    kids, Liisa and Leevi are puzzled. \r\n\"What are they? Animals? I hope they
+    don\u2019t bite!\u201D\r\nThe Aaltonen family is on day trip at the bog. It is
+    a sunny day, and beautiful autumn colours are blazing. The mother finds the children\u2019s
+    question funny.\r\n\"No, those are not animals. They are the various terrain
+    types you can find on a raised bog like this. Over there is a kermi, the hummock
+    that grows sprigs and trees. It is a drier area of land. The flarks are wetter,
+    and the ponds are called kolks. Can you see?\u201D\r\n\"Funny words\", Leevi
+    says and Liisa immediately points out that these would make great questions for
+    a quiz show.\r\nThey meet another family on the duckboard trail, but there is
+    enough room to pass each other.\r\n\"There are many birds, insects and plants
+    that live here only. The duckboard trails are used to protect them. In winter,
+    wonderful skiing tracks run through the area. We could come here to do some cross-country
+    skiing, maybe on a moon-lit night.\u201D\r\n\"That would be fun,\u201D Liisa
+    and Leevi agree.\r"

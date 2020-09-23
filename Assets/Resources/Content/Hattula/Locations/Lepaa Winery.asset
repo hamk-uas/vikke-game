@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c09d8cd5454d694990f6bd9dc01d641, type: 3}
+  m_Name: Lepaa Winery
+  m_EditorClassIdentifier: 
+  locationStorySprite: {fileID: 21300000, guid: 1b91ee23ffcd57e4aa2d0b0bd3cdf35a,
+    type: 3}
+  task: {fileID: 11400000, guid: ed5650daf9ad26b43afa98e6a55f5022, type: 2}
+  address: Viinitilantie 12, 14610 Lepaa
+  latitude: 61.11409
+  longitude: 24.343096
+  fiTitle: Lepaan kaunis Anna
+  fiPlace: Lepaan viinitila
+  fiText: "Elettiin Kalmarin Unionin aikaa. Lepaan Kartanon kaunis tyt\xE4r Anna
+    oli tullut ik\xE4\xE4n, jolloin vanhemmat pohtivat kuka olisi sopiva aviomies
+    tytt\xE4relle.\r\nHe kutsuivat Lepaan kartanolle H\xE4meen linnan linnaherran
+    Niilo Olavinpojan. Niilo Olavinpoika oli hyvin hiljainen ja ujo nuori mies ja
+    h\xE4n kutsui mukaansa Maunu Tawastin. Tawast kuului pappissukuun ja kuten tiedet\xE4\xE4n,
+    h\xE4n ei tietenk\xE4\xE4n saanut edes katsoa toista sukupuolta.\r\n\r\nNuoret
+    miehet viettiv\xE4t kes\xE4\xE4 Lepaalla, mutta ei k\xE4ynyt niin kuin vanhemmat
+    toivoivat. Anna tunsi vetovoimaa Maunua kohtaan ja pian tunteet olivat molemminpuolisia.
+    Viel\xE4 seuraavan kes\xE4nkin nuoret miehet tulivat Lepaalle. Maunu ja Anna
+    rakastuivat toisiinsa. Haikein mielin Maunu palasi kotikulmilleen ja pohti miten
+    h\xE4n nyt toimisi. H\xE4nest\xE4 oltiin vihkim\xE4ss\xE4 piispaa ja silloin
+    h\xE4n ei saisi menn\xE4 naimisiin. H\xE4n oli halunnut piispanvihkimyst\xE4
+    koko ik\xE4ns\xE4, mutta miten h\xE4n saisi my\xF6s kauniin Lepaan Annan omakseen.\r\n\r\nH\xE4n
+    p\xE4\xE4tyi julmaan tekoon: h\xE4n muurautti Annan vanhaan kellariin ja sai
+    sek\xE4 piispan vihkimyksen, ett\xE4 Annan syd\xE4men.\r"
+  enTitle: The Beautiful Anna of Lepaa
+  enPlace: Lepaa Winery
+  enText: "It was the time of the Kalmar Union. Lepaa Manor\u2019s daughter, the
+    beautiful Anna, had come of age, and her parents had started to look for an appropriate
+    husband for her.\n\nThey invited the castellan of the H\xE4me Castle, Niilo,
+    son of Olavi, for a visit at the Lepaa Manor. Niilo was a very quiet and shy
+    young man, so he asked his friend Maunu Tawast to join him. Tawast came from
+    a long line of clergymen and he was not even supposed to glance at the opposite
+    sex.\n\nThe young men spent the summer in Lepaa, but the outcome was not the
+    one the parents had hoped. Anna was attracted to Maunu and the feelings soon
+    became mutual. The young men returned to Lepaa the following summer, and Maunu
+    and Anna fell in love. Maunu was feeling wistful when he returned home, wondering
+    what he should do. He was soon to become a bishop and after that could no longer
+    marry. He had waited to become a bishop all his life, but he also wanted the
+    beautiful Anna of Lepaa as his own."

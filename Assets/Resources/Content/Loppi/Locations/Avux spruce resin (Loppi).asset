@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c09d8cd5454d694990f6bd9dc01d641, type: 3}
+  m_Name: Avux spruce resin (Loppi)
+  m_EditorClassIdentifier: 
+  locationStorySprite: {fileID: 21300000, guid: 105da23dadfd6df48bc9da5bb9cf4a35,
+    type: 3}
+  task: {fileID: 11400000, guid: 7b72fbe9b70d8014d865bc0832089403, type: 2}
+  address: "Verkatehdas, Viipurintie 4, 13200 H\xE4meenlinna"
+  latitude: 61.08999
+  longitude: 24.1286
+  fiTitle: Luonnosta viisautta
+  fiPlace: Kuusenpihka Avux
+  fiText: "Mets\xE4ss\xE4 kulkee poika koiransa kanssa. Poika pohtii mist\xE4 l\xF6yt\xE4isiv\xE4t
+    apua kyl\xE4\xE4 vaivanneeseen keripukkiin. Kuljettuaan he t\xF6rm\xE4\xE4v\xE4t
+    juomaa keitt\xE4v\xE4\xE4n vaeltajaan. Juoman avulla voi matkustaa ajassa ja
+    menneisyydest\xE4 voi l\xF6yty\xE4 ratkaisu.\r\n\t\r\nPoika ja koira maistavat
+    juomaa. \xC4kki\xE4 he huomaavat siirtyneens\xE4 paikkaan, jossa n\xE4kyy pirttej\xE4
+    ja hevosk\xE4rryj\xE4. He n\xE4kev\xE4t miehen rapsuttamassa jotain puun pinnasta.
+    \r\n\u201DMik\xE4 vuosi nyt on\u201D, poika kysyy miehelt\xE4.\r\n\u201DNyt on
+    vuosi 1821 ja olemme H\xE4meenlinnassa\u201D, mies vastaa ihmetellen.\r\nMies
+    kertoo olevansa ker\xE4\xE4m\xE4ss\xE4 pihkaa ja opiskelevansa apteekkariksi
+    H\xE4meenlinnan torin apteekissa.\r\n\u201DAutatko meit\xE4, kun kyl\xE4\xE4mme
+    riivaa keripukki\u201D, kysyy poika.\r\nMies neuvoo ker\xE4\xE4m\xE4\xE4n yrttej\xE4
+    ja pihkaa, keitt\xE4m\xE4\xE4n niist\xE4 uutetta ja juottamaan sit\xE4 kaikille
+    kyl\xE4l\xE4isille. \r\nPoika kiitt\xE4\xE4 miest\xE4 ja juo vaeltajan antaman
+    taikajuoman. Samassa he ovat palanneet menneest\xE4 ajasta ja ker\xE4\xE4v\xE4t
+    miehen neuvomia aineita.\t\r\n\r\nPoika tarkastaa l\xF6yt\xE4m\xE4ns\xE4 yrtit
+    Flora Fennica kirjasta ja havahtuu, ett\xE4 mies mets\xE4ss\xE4h\xE4n oli Elias
+    L\xF6nnrot.\r"
+  enTitle: Wisdom from nature
+  enPlace: Avux spruce resin
+  enText: "A boy is walking in the forest with his dog. He is looking for a cure
+    for the scurvy ravaging his village. They see a vagabond who is making a mixture.
+    The mixture makes it possible to travel in time \u2013 maybe they can find a
+    solution in the past?\r\n\t\r\nThe boy and the dog taste the drink. Suddenly
+    they realise they have travelled to a new place where they can see houses and
+    carriages. A man is scraping something off a tree trunk. \r\n\"What year is it
+    now?\" the boy asks the man.\r\n\"It is 1821 and we are in H\xE4meenlinna\",
+    the puzzled man responds.\r\nHe explains that he is collecting spruce resin and
+    he is studying to become an apothecary at the H\xE4meenlinna pharmacy in the
+    market square.\r\n\"Can you help us?\u201D the boy asks. \u201CThere is scurvy
+    in our village.\u201D\t\r\nThe man advises him to collect herbs and resin, to
+    make an extract out of them and make everyone in the village drink it. The boy
+    says his thanks to the man and drinks the potion given to him by the vagabond.
+    He has instantly returned from the past and starts collecting the ingredients
+    pointed out by the man.\t\r\n\r\nThe boy checks all the herbs he finds in the
+    Flora Fennica textbook and realises that he had actually met Elias L\xF6nnrot
+    in the forest.\r"

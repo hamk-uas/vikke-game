@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c09d8cd5454d694990f6bd9dc01d641, type: 3}
+  m_Name: Hakoinen Hill Fort
+  m_EditorClassIdentifier: 
+  locationStorySprite: {fileID: 21300000, guid: 066f782081b225d4ab536ee47122723e,
+    type: 3}
+  task: {fileID: 11400000, guid: a90fb17ea9bb9374b90f069a00cc1e29, type: 2}
+  address: Hamppulantie 106, 14240 Janakkala
+  latitude: 60.877647
+  longitude: 24.587044
+  fiTitle: Turvassa
+  fiPlace: Hakoisten linnavuori
+  fiText: "Hakoisten linnassa valmistauduttiin innolla Ilmari Kustaanpojan keksim\xE4\xE4n
+    viestiin, kun yht\xE4kki\xE4 vartiomies portilta teki h\xE4lytyksen. Vartiop\xE4\xE4llikk\xF6
+    Tapio Untamoisenpoika juoksi portille ja n\xE4ki ihmisjoukon olevan tulossa.
+    Yksi joukon nuorukaisista juoksi edell\xE4. \r\n\r\n\u201DAvatkaa portti pian,
+    kyl\xE4\xE4mme l\xE4hestyv\xE4t rosvojoukot!\u201D Nuorukainen huusi h\xE4diss\xE4\xE4n.
+    \r\n\r\nTapio mietti tovin, voisiko t\xE4m\xE4 olla juoni, mutta ihmisjoukossa
+    erottui monia naisia lapsineen. \r\n\r\n\u201DPortti auki!\u201D Tapio komensi
+    ja joukko rynni sis\xE4\xE4n. \r\n\r\nTapio puhutti nuorukaista. \r\n\r\n\u201DOliko
+    niit\xE4 paljon? Taistelitteko?\u201D  \r\n\r\n\u201DMiehet j\xE4iv\xE4t mets\xE4\xE4n
+    piiloon odottamaan taistellakseen. Naiset, lapset ja vanhukset ovat t\xE4ss\xE4.
+    Emme n\xE4hneet ry\xF6st\xE4ji\xE4, n\xE4imme vain tiedustelijan, mutta emme
+    saaneet sit\xE4 pirulaista kiinni. Pidimme kyll\xE4 kauheaa meteli\xE4, ett\xE4
+    uskoi meit\xE4 olevan paljon. Ulisimme n\xE4lk\xE4\xE4 ja tauteja, etteiv\xE4t
+    uskaltaisi tulla.\u201D \r\n\r\n\u201DL\xE4het\xE4mme oman tiedustelijan matkaan.
+    Nyt olette turvassa. T\xE4t\xE4 linnavuorta ei niin vain valloiteta\u201D, Tapio
+    uhkui."
+  enTitle: Safety
+  enPlace: Hakoinen Hill Fort
+  enText: "The Hakoinen Hill Fort was buzzing with preparations forward the relay
+    that was the idea of Ilmari, son of Kustaa. Suddenly, the guard signalled a warning.
+    Tapio, son of Untamoinen, who was the head of the guards, ran to the gates and
+    saw that a crowd was advancing. A young man was running ahead of the others.\n\n\u201COpen
+    the gates, soon! Raiders are approaching our village!\u201D the young man yelled
+    in alarm.\n\nFor a brief moment, Tapio wondered if this could be a trick, but
+    he could see a number of women with children among the crowd.\n\n\"Open the gate!\"
+    Tapio commanded, and the crowd stormed in.\n\nTapio spoke to the young man.\n\n\"Were
+    there many? Did you fight them?\u201D\n\n\"The men hid in the forest and waited
+    to fight. Here are the women, children and the old people. We did not see the
+    raiders, only a scout, but we failed to catch him. We did make a terrible noise,
+    so that he would think we were numerous. We complained about hunger and ailments
+    so that they would leave us alone.\u201D\n\n\u201CWe will send out our own scout.
+    You are now safe. This hill fort is difficult to conquer\u201D, Tapio exuded
+    with confidence."

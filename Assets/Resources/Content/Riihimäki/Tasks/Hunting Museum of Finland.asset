@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a820a2ca58514144ab9f50b01a6196da, type: 3}
+  m_Name: Hunting Museum of Finland
+  m_EditorClassIdentifier: 
+  taskviewSprite: {fileID: 21300000, guid: 915c7b1b6fbae7b4ab04b439c3591fa0, type: 3}
+  answers:
+  - otso
+  isARTask: 0
+  fiTitle: "Suomen Mets\xE4stysmuseo"
+  fiText: "Entisajan suomalaiset uskoivat, ett\xE4 karhu ja ihminen ovat sukulaisia.
+    Karhun oikea nimi oli tabu, jonka \xE4\xE4neen lausuminen saattoi aiheuttaa vihaa
+    karhun ja ihmisen v\xE4lill\xE4. Siksi esimerkiksi karhua mets\xE4stett\xE4ess\xE4
+    k\xE4ytettiin kiertoilmauksia, joita tunnettiin useita satoja. Er\xE4s niist\xE4
+    on oheisessa kuvassa esiintyv\xE4 nelikirjaiminen sana, joka on my\xF6s Mets\xE4stysmuseon
+    yhden perusn\xE4yttelyosion nimi. (vinkki: karhun synonyymi ja miehen nimi)"
+  enTitle: The Hunting Museum of Finland
+  enText: The ancient Finns believed that bears and humans are relatives. The real
+    name of the bear was a taboo and uttering it aloud could cause hatred among the
+    bear and man. Thus, various euphemisms, which were known by the hundred, were
+    used instead for example in bear hunting. One of them can be found in this picture.
+    This four-letter word is also the name of one permanent exhibition in The Hunting
+    Museum of Finland.

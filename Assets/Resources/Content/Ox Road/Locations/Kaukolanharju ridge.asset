@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c09d8cd5454d694990f6bd9dc01d641, type: 3}
+  m_Name: Kaukolanharju ridge
+  m_EditorClassIdentifier: 
+  locationStorySprite: {fileID: 21300000, guid: 25884211296a20843924f9e74fd5eada,
+    type: 3}
+  task: {fileID: 11400000, guid: 521ca4380f0748b42bb082cee22e5b30, type: 2}
+  address: Saaren kansanpuisto, 31300 Tammela
+  latitude: 60.77569
+  longitude: 23.833984
+  fiTitle: Koskettavaa kauneutta
+  fiPlace: Kaukolanharju
+  fiText: "Albert Edelfelt poistaa kankaan maalaustelineell\xE4 olevan taulun p\xE4\xE4lt\xE4.
+    H\xE4nen yst\xE4v\xE4ns\xE4 ja tuttavansa ovat tulleet katsomaan uutta taulua
+    ja kohahtavat.\r\n\u201COnko t\xE4llainen paikka olemassa?\u201D\r\n\u201DKyll\xE4\u201D,
+    Albert vakuuttaa, \u201Dty\xF6n nimi on Kaukolanharju auringonlaskun aikaan.
+    Paikka on Tammelassa. Harju on Tammelan Pyh\xE4j\xE4rven ja Kuivaj\xE4rven v\xE4liss\xE4
+    ja maisemassa on jotain uskomatonta, se on suomalainen maisema metsineen, m\xE4kineen,
+    j\xE4rvineen\u2026\u201D\r\nAlbert puhuu niin, ett\xE4 kuulijat tuntevat jo siirtyv\xE4ns\xE4
+    Kaukolanharjulle ja katselevansa maisemaa, joka on yksi kauneimmista.\r\n\u201DEn
+    min\xE4 ole ainut taitelija, joka maiseman on l\xF6yt\xE4nyt. Magnus von Wright
+    ja Robert Ekman ja ties kuinka moni muu on Tammelaan l\xF6yt\xE4neet. Min\xE4
+    vietin kesi\xE4ni Saaren kartanossa ja kaikki se kauneus on tehnyt minuun l\xE4htem\xE4tt\xF6m\xE4n
+    vaikutuksen. Nouskaa Kaukolanharjulle, eik\xE4 mik\xE4\xE4n en\xE4\xE4 ole niin
+    kuin ennen. Sellainen kauneus koskettaa sielua.\u201D\r"
+  enTitle: Touching beauty
+  enPlace: Kaukolanharju ridge
+  enText: "Albert Edelfelt unveils the painting on the easel. His friends and acquaintances
+    have come to see a new painting, and now the crowd stirs in excitement.\r\n\u201CDoes
+    a place like this really exist?\u201D\r\n\"Yes, it does,\u201D Albert assures
+    them: \u201Cthe work is entitled Kaukola Ridge at Sunset and the location is
+    in Tammela, a ridge between the Pyh\xE4j\xE4rvi and Kuivaj\xE4rvi lakes. The
+    view there is amazing, a true Finnish landscape with forests, hills and lakes...\u201D\r\nAlbert
+    describes the place so vividly that the listeners feel they are at the Kaukola
+    Ridge looking at one of the most beautiful views that exists.\r\n\u201CI am not
+    the only artist who has found this view. Magnus von Wright, Robert Ekman and
+    many more have found Tammela. I used to spend my summers at the Saari Mansion
+    and all that beauty has made an indelible impression to me. Once you climb the
+    Kaukola Ridge, life will not be the same. Such beauty touches your soul.\u201D\r"

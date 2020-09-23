@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c09d8cd5454d694990f6bd9dc01d641, type: 3}
+  m_Name: Tenhola Hill Fort
+  m_EditorClassIdentifier: 
+  locationStorySprite: {fileID: 21300000, guid: 7537414dd5386c046a3c547fefdbd35c,
+    type: 3}
+  task: {fileID: 11400000, guid: 68013ce5760e07343abe1b0d0e2a9928, type: 2}
+  address: 13720 Hattula
+  latitude: 61.096764
+  longitude: 24.287657
+  fiTitle: "Vainotulet vai mets\xE4palo?"
+  fiPlace: Tenholan Linnavuori
+  fiText: "Tenholan linnavuorella oli rauhallista. Vahvan hirsiaidan raoista t\xE4hystelev\xE4
+    vartiomies Joutti katseli Vanajaveden rauhallisia maisemia. H\xE4n oli kuullut,
+    ett\xE4 H\xE4meen linnasta oli viestijuoksukilpailu l\xE4htenyt liikkeelle. H\xE4n
+    ei sellaiseen joukkueeseen kelvannut, kun oli edellisiss\xE4 turnajaisissa loukannut
+    jalkansa. Mutta vartioon h\xE4n kelpasi ja odotti innokkaana ensimm\xE4isi\xE4
+    kilpailijoita n\xE4kyv\xE4ksi mets\xE4polulta. Vaan hyvin oli rauhallista, ei
+    liikett\xE4 mist\xE4\xE4n. Elokuun aurinkokin porotti p\xE4\xE4koppaa ja jostain
+    tuli nen\xE4\xE4n herkullinen kypsyv\xE4n lihan tuoksu.\n\n\rLinnavuorella oli
+    monta asumusta, ja miehi\xE4 useampi kymmenen. El\xE4m\xE4 oli aika mukavaa,
+    mutta joskus sit\xE4 kyll\xE4 olisi kaivannut kunnon mittel\xF6it\xE4 ry\xF6stelevien
+    novgorodilaisten kanssa.   \r\n\r\nIlta alkoi h\xE4m\xE4rty\xE4 v\xE4hitellen
+    ja kohta vartiovuoro jo p\xE4\xE4ttyisi. Joutti p\xE4\xE4tti jaloitella ja kiert\xE4\xE4
+    hirsiaitaa aina silloin t\xE4ll\xF6in pys\xE4htyen ja t\xE4hyst\xE4en. Mit\xE4?
+    Mets\xE4n takaa n\xE4kyi savua. Vainovalkeaako siell\xE4 poltetaan? Uhkaako vihollinen
+    vai palaako mets\xE4? Joutille tuli kiire, nyt on juostava hakemaan apua."
+  enTitle: Warning beacons or a forest fire?
+  enPlace: Tenhola Hill Fort
+  enText: "It was peaceful on the Tenhola Hill Fort. Joutti, the watchman, was peeking
+    through the gaps of a sturdy log fence and admiring the peaceful Vanajavesi Lake
+    landscape. He had heard that a relay had taken off from the H\xE4me Castle. He
+    was not fit for a running team after his leg had been injured in a tourney. But
+    he could keep watch and he was eagerly looking forward to spotting the first
+    contestants on the paths in the woods. No such luck \u2013 all was quiet, and
+    he was not able to detect any movement. The August sun was blazing down on his
+    head and the delicious smell of stewing meat wafted to his nose.\n\nThere were
+    many dwellings on the hill fort, and several dozen men. Life was not too bad,
+    but sometimes you really longed for a chance to measure your strengths against
+    Novgorod raiders.\n\nIt was getting dark, and the end of his watch turn was near.
+    Joutti decided to stretch his legs and walk around the log fence, stopping every
+    now and then to look out. What was that? Smoke was rising somewhere behind the
+    forest. Were they burning warning fires? Was there an enemy threat or was it
+    a forest fire? Joutti had to hurry for help."

@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56a04c58f8da67246b528c1b0a0e4f98, type: 3}
+  m_Name: Military History
+  m_EditorClassIdentifier: 
+  storytellingSprite: {fileID: 21300000, guid: 527423f4ca8c8a0489486b687fc4ebf5, type: 3}
+  locationMapSprite: {fileID: 21300000, guid: 87c0ee5eafeb20147ab48e514db9753d, type: 3}
+  locations:
+  - {fileID: 11400000, guid: afbeb8d9fe62d2042a3ded23492fe327, type: 2}
+  - {fileID: 11400000, guid: 98d6d27797343d840839f43cfe54f32f, type: 2}
+  - {fileID: 11400000, guid: e08e82d09901d6c478d8a52572ad1bbf, type: 2}
+  - {fileID: 11400000, guid: 78fef35657bfd0f44ab3c9a78fbde849, type: 2}
+  - {fileID: 11400000, guid: c0ff69d1c44a4b74fa2b4c8f3b76f8e1, type: 2}
+  fiTitle: Salattu viesti
+  fiDesc: Sotahistoria
+  fiIntroText: "On saapunut salakielinen pitk\xE4 viesti; muona- ja huoltokuorma
+    on saapumassa. Mutta minne? Salakielinen viesti pit\xE4\xE4 avata, eik\xE4 edes
+    matolaatikko auta. L\xE4hetys pit\xE4\xE4 vastaanottaa, purkaa ja piilottaa nopeasti,
+    on siis t\xE4rke\xE4\xE4 selvitt\xE4\xE4 mihin se saapuu. Viesti on kaiken avain.\r\n\r\nKapteeni
+    Marttinen kutsuu parhaat miehet apuun ja antaa m\xE4\xE4r\xE4yksen, ett\xE4 kukaan
+    ei lep\xE4\xE4 ennenkuin viesti on saatu purettua.  \r\n\r\nMiehet puurtavat
+    kummallisten tarinoiden parissa etsien vihjeit\xE4 ja rakentavat erilaisia teorioita
+    mahdollisesta paikasta. Tarinat viev\xE4t heid\xE4t kummallisiin paikkoihin ja
+    ajassa taaksep\xE4in kauas historiaan ja jonkin matkaa tulevaisuuteenkin.  \r\n\r\nLopulta
+    kapteeni Marttinen p\xE4\xE4tt\xE4\xE4 l\xE4hett\xE4\xE4 miehi\xE4 kaikkiin niihin
+    paikkoihin, joita tarinoissa mainitaan. L\xF6ytyv\xE4tk\xF6 vihjeet ajoissa?
+    Saadaanko huoltokuorma turvallisesti perille?\r"
+  fiOutroText: "Miehet palaavat kapteeni Marttisen luokse. Heill\xE4 jokaisella on
+    tietoja paikoista, miss\xE4 ovat k\xE4yneet, mutta niist\xE4 j\xE4rkev\xE4n kokonaisuuden
+    yhteensovittaminen vie aikaa. Varsinkin, kun kaikki puhuvat yht\xE4 aikaa ja
+    ovat tiet\xE4vin\xE4\xE4n mit\xE4 seuraavaksi pit\xE4\xE4 tehd\xE4. \r\n\r\nSamantien
+    juoksee l\xE4hetti kapteeni Marttisen luokse ja toimistoon tulee t\xE4ydellinen
+    hiljaisuus.\r\n\u201DKiitos, en tarvitse herroja en\xE4\xE4, voitte poistua\u201D,
+    sanoo Marttinen jykev\xE4ll\xE4 \xE4\xE4nell\xE4\xE4n ja h\xE4mmennys kasvoillaan
+    kaikki poistuvat varmoina siit\xE4, ett\xE4 kuorma on menetetty.\r\n\r\nPime\xE4n
+    laskeuduttua kapteeni Marttinen l\xE4htee valitun joukon johdossa, mukana on
+    useita hevosrattaita ja muutama kuorma-auto. Kapteeni antaa l\xE4ht\xF6k\xE4skyn,
+    kaikki seuraavat h\xE4nt\xE4.\r\n\r\nKapteeni Marttinen on tyytyv\xE4inen. Huoltokuorma
+    on saapunut perille ilman h\xE4iri\xF6t\xE4. Hiukan h\xE4nt\xE4 harmittaa, ettei
+    h\xE4n heti tajunnut. Ensimm\xE4inen viesti oli vain h\xE4m\xE4yst\xE4 vihollisen
+    takia, toinen viesti oli selke\xE4 ja huoltojuna on saapunut H\xE4meenlinnan
+    asemalle pimeyden turvin.\r"
+  enTitle: Encrypted message
+  enDesc: Military History
+  enIntroText: "A long, coded message has arrived: a shipment of provisions and supplies
+    will arrive. But where will it be unloaded? The message has to be decoded, and
+    the cipher machine is not helping. The goods have to be received, unloaded and
+    hidden quickly, so it is important to find out their arrival point. The message
+    is a key to all this.\r\nCaptain Marttinen asks the best men to help him and
+    orders no-one to rest until the message has been decoded.  \r\n\r\nThe men are
+    working on the peculiar stories, looking for a clue and coming up with different
+    theories on the location. The stories take them to strange locations, long back
+    in time, some even into the future.  \r\n\r\nFinally, Captain Marttinen decides
+    to send men to all the places mentioned in the stories. Will they find the clues
+    in time? Will the supplies be safely delivered?\r"
+  enOutroText: "The men return to Captain Marttinen. They each have information about
+    the places they visited, but combining them into an intelligible big picture
+    takes time. Especially with everyone speaking at the same time and pretending
+    to know what to do next. \r\n\r\nIn the same instant, a messenger arrives to
+    Captain Marttinen and the office falls completely silent.\r\n\"Thank you, I no
+    longer need you, gentlemen, you can leave, Marttinen says in a firm voice, his
+    face confused. Everyone leaves the room certain that the delivery has been lost.\r\n\r\nAfter
+    dark, Captain Marttinen leads his selected group out with several horse carriages
+    and some trucks. The Captain gives the order to set off, and everyone follows
+    him.\r\n\r\nCaptain Marttinen is happy. The delivery has been safely received.
+    He is slightly annoyed that he did not get it right away. The first message was
+    intended to mislead the enemy, but the second one was straightforward, and the
+    train with supplies had arrived at H\xE4meenlinna train station in the dark.\r"

@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c09d8cd5454d694990f6bd9dc01d641, type: 3}
+  m_Name: Church of St Laurence (Janakkala)
+  m_EditorClassIdentifier: 
+  locationStorySprite: {fileID: 21300000, guid: d5b51eccf1f42804d922ede887b0700a,
+    type: 3}
+  task: {fileID: 11400000, guid: 2358e6a24236e2c4899279ac5d1b31e1, type: 2}
+  address: Hakoistentie 345, 14240 Janakkala
+  latitude: 60.893497
+  longitude: 24.595592
+  fiTitle: Ilmarin paluu
+  fiPlace: "Pyh\xE4n Laurin kirkko"
+  fiText: "Rankka ty\xF6 ja pitk\xE4 el\xE4m\xE4 n\xE4kyiv\xE4t 61-vuotiaan miehen
+    kasvoilla syvin\xE4 uurteina ja liikkuminen oli varsin hidasta ja vaivalloista.
+    Ilmari oli kuitenkin viel\xE4 kerran halunnut tulla sunnuntaina jumalanpalvelukseen.\r\n\r\nIlmari
+    istui kirkon penkiss\xE4 ja muisteli, kuinka h\xE4n syyskuussa 1520 oli nuorena
+    miehen\xE4 osallistunut kirkon vihkijumalanpalvelukseen. Viel\xE4 tuolloin h\xE4n
+    ei tiennyt, ett\xE4 h\xE4net siell\xE4 my\xF6hemmin kastettaisiin ja siit\xE4
+    tulisi h\xE4nelle t\xE4rke\xE4 pyh\xE4 paikka.\r\n\r\nIlmari n\xE4ki omien k\xE4siens\xE4
+    j\xE4ljen tiilest\xE4 holvatussa sis\xE4katossa, mutta oli h\xE4n ollut mukana
+    tekem\xE4ss\xE4 niin pohjoispuolen sakaristoa kuin etel\xE4puolen asehuonetta.\r\n\r\nIlmaria
+    edelleen puistatti kirkon rakennuttajan kohtalo. Jo ennen kirkon vihkimist\xE4
+    mies oli mestattu H\xE4meenlinnassa. Aikaisemmin Ilmaria oli kirkossa usein jopa
+    pelottanut, esimerkiksi puolitoistametriseen puuristiin k\xE4sist\xE4 ja jaloista
+    naulattu mies oli tuntunut hyvin oudolta. \r\nNyt h\xE4n tiesi, ett\xE4 se oli
+    Jeesus Kristus.\r"
+  enTitle: Ilmari returns
+  enPlace: Church of St Laurence
+  enText: "Hard work and long life were reflected in the deep furrows of the 61-year-old
+    man\u2019s face. His movements were slow and difficult. Ilmari had wanted to
+    come to the church once more on a Sunday.\r\nHe was sitting in the pew and thought
+    back to 1520 when he, still a young man, had attended the consecration service
+    of the church. Back then, he did not know that he would later receive baptism
+    there and it would become such an important holy place for him.\r\n\r\nIlmari
+    saw the marks of his own hands in the arches of the ceiling. He had also been
+    there to build the sacristy on the north side and the armoury on the south.\r\n\r\nIlmari
+    still shivered when he thought of the fate of the church builder. He had been
+    beheaded in H\xE4meenlinna even before the church had been consecrated. At a
+    time, Ilmari had been intimidated when he entered the church, and the male figure
+    nailed to the five-foot wooden cross, had looked peculiar. \r\nNow he knew that
+    it was Jesus Christ.\r"

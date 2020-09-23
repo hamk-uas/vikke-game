@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c09d8cd5454d694990f6bd9dc01d641, type: 3}
+  m_Name: Prison
+  m_EditorClassIdentifier: 
+  locationStorySprite: {fileID: 21300000, guid: 33629b18571973d4b921cf22a547a93b,
+    type: 3}
+  task: {fileID: 11400000, guid: 21fabba03299dc946a4600027f4ce176, type: 2}
+  address: "Kustaa III:n katu 8, 13100 H\xE4meenlinna"
+  latitude: 61.002983
+  longitude: 24.459377
+  fiTitle: "Isontalon Antti H\xE4meenlinnassa"
+  fiPlace: Vankila
+  fiText: "Er\xE4s H\xE4meenlinnan vankilan kuuluisimmista vangeista on Suomen legendaarisin
+    rosvop\xE4\xE4llikk\xF6 ja puukkojunkkari, alah\xE4rm\xE4l\xE4inen Antti Isotalo.\r\n\r\nPuukkojunkkarit
+    eli h\xE4jyt olivat hurjaa sakkia, joita samalla ihailtiin. Lauluista tuttu Isontalon
+    Antti oli rikollisesta urastaan huolimatta merkkihenkil\xF6 kotiseudullaan Etel\xE4-Pohjanmaalla.
+    H\xE4nen rikosrekisterist\xE4\xE4n l\xF6ytyi pahoinpitelyj\xE4, varkauksia ja
+    viinanpolttoa. Lopulta Antti tuomittiin kuolemaan puukolla tehdyst\xE4 taposta.\r\n\r\nAntin
+    onneksi senaatti kuitenkin armahti h\xE4net vuonna 1870. Tuomio lievennettiin
+    raippojen ja sakon lis\xE4ksi 12 vuodeksi kuritushuonetta. T\xE4t\xE4 rangaistusta
+    h\xE4net tuotiin k\xE4rsim\xE4\xE4n nykyiseen Vankilamuseoon.\r\n\r\nVankeusaikanaan
+    Isoo-Antti tunnettiin reiluna miehen\xE4, joka osallistui vankity\xF6n\xE4 Kaupunginpuistossa
+    yh\xE4 seisovan huvimajan rakentamiseen ja veti vankilanjohtajan lapsia pulkassa.\r\n\r\nAntti
+    kiisti syyllisyytens\xE4 murhaan, mutta muuten piti rangaistustaan kohtuullisena.
+    My\xF6hemmin h\xE4n palasi kotiseudulleen ja eli siell\xE4 arvostettuna miehen\xE4.\r"
+  enTitle: "Antti Isotalo in H\xE4meenlinna"
+  enPlace: Prison
+  enText: "The most legendary robber chief and Puukkojunkkari gang leader, Antti
+    Isotalo from Southern Ostrobothnia, was one of the most famous prisoners held
+    at the H\xE4me Castle during its prison years.\r\n\r\nThe gangs were known for
+    terrible knife-fights, but people also looked up to them. Isotalo is still famous
+    for songs written about him, and at his own time, he was a prominent figure in
+    his home region despite his criminal career. Assaults, thefts and moonshine distilling
+    were listed on his criminal record. In the end, he was sentenced to death for
+    committing manslaughter by stabbing someone.\r\n\r\n\r\nLuckily for Antti, the
+    Senate pardoned him in 1870. His sentence was mitigated to 12 years in the penitentiary,
+    a whipping and a fine. He served his sentence in the facilities that now host
+    the Prison Museum.\r\n\r\nDuring his time in the prison, Antti was known as a
+    fair man who took part in building the gazebo still standing in the Kaupunginpuisto
+    Park in H\xE4meenlinna. He also used to pull the prison governor\u2019s children
+    around in a sled in winter time.\r\n\r\nAntti pleaded not guilty to murder but
+    thought that his punishment was in other respects reasonable. He later returned
+    to his home region and lived there as a distinguished man.\r"

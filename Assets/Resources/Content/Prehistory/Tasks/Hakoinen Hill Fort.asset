@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a820a2ca58514144ab9f50b01a6196da, type: 3}
+  m_Name: Hakoinen Hill Fort
+  m_EditorClassIdentifier: 
+  taskviewSprite: {fileID: 21300000, guid: 88871107dad716c438dd11161f0c5474, type: 3}
+  answers:
+  - 2
+  - two
+  - kaksi
+  isARTask: 0
+  fiTitle: Hakoisten linnavuori
+  fiText: "Seisovat ylv\xE4\xE4n\xE4 taivasta vasten sodista ja rosvoista selvinnyt
+    yhdess\xE4. Turvallisesti katsovat vuorelta alas. Mut sulta kysyn m\xE4 t\xE4n.
+    Onko ylv\xE4it\xE4 yst\xE4vi\xE4 kaksi vaiko enemm\xE4n? (vihje: vastaa numerolla)"
+  enTitle: Hakoinen Hill Fort
+  enText: 'Standing so proudly against the sky. Survived from the wars and bad guys.
+    Safely watching down the hill. But I ask you, if they are standing still. If
+    they are, how many? Two or more there standing proudly? (hint: answer with a
+    number)'

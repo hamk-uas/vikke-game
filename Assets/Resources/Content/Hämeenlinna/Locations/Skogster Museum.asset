@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c09d8cd5454d694990f6bd9dc01d641, type: 3}
+  m_Name: Skogster Museum
+  m_EditorClassIdentifier: 
+  locationStorySprite: {fileID: 21300000, guid: 900bd0f3192bc8f4e9a88bbc6c4f48d9,
+    type: 3}
+  task: {fileID: 11400000, guid: a138a647108e3214394cf31077c81afb, type: 2}
+  address: "Raatihuoneenkatu 8, 13100 H\xE4meenlinna"
+  latitude: 60.996807
+  longitude: 24.468287
+  fiTitle: Kaupungin muisti
+  fiPlace: Museo Skogster
+  fiText: "Joskus ajatellaan, ett\xE4 taloilla tai esineill\xE4 on muisti. \r\n\r\nSkogsterin
+    liiketalo kirkon kulmalla on ainakin n\xE4hnyt kaiken merkitt\xE4v\xE4n kaupungissa
+    tapahtuneen viimeisen reilun sadan vuoden ajalla. Hauska ajatella, ett\xE4 siell\xE4
+    toimii nyt ihan oikeastikin kaupungin muisti eli kaupungin ja maakunnan oma museo.\r\n\r\nMuseon
+    kokoelmat ovat yht\xE4 vanhoja kuin talokin, eli reilut sata vuotta. Museon esineiden
+    muisti ulottuu kuitenkin kauemmas. Vanhimmat niist\xE4 ovat n\xE4hneet kaupungin
+    alkuper\xE4isell\xE4 paikallaan vanhan linnan vieress\xE4, Ruotsin ja Ven\xE4j\xE4n
+    vallan, pari suurta tulipaloa ja suurten n\xE4lk\xE4vuosien h\xE4d\xE4n. \r\n\r\nJotkin
+    muistot ovat yksityisempi\xE4 kertoen syntym\xE4st\xE4 ja kuolemasta, juhlista
+    ja arjesta. Kaikkea ei voi n\xE4hd\xE4 ja muistaa kerralla, eik\xE4 museonkaan
+    muistibiteist\xE4 n\xE4ytteill\xE4 ole kerrallaan kuin murto-osa. Mit\xE4h\xE4n
+    ihmett\xE4 siell\xE4 nyt esitell\xE4\xE4n?\r"
+  enTitle: "The city\u2019s memory"
+  enPlace: Skogster Museum
+  enText: "People sometimes think that buildings or items have a memory. \r\n\r\nThe
+    Skogster building located next to the church has witnessed all the important
+    events in the city in the last hundred years or so. It is a delightful thought
+    that the actual \u201Cmemory of the city\u201D, the City and Regional Museum,
+    are now located in this former trading house.\r\n\r\nThe museum collections are
+    as old as the building, i.e., a little over a century. The memory of the exhibits
+    does, however, stretch much farther. The oldest exhibits have seen the town in
+    its original location, next to the old castle, as well as the Swedish and Russian
+    times, the big fires and the distress of the famine years. \r\n\r\nSome memories
+    are of the more private kind: stories of birth and death, festivities and daily
+    life. You cannot see or remember everything at once, and only a fraction of the
+    memories of the museum are exhibited at one time. I wonder what is on exhibit
+    right now?\r"

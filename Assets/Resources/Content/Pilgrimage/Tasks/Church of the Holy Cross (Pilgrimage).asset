@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a820a2ca58514144ab9f50b01a6196da, type: 3}
+  m_Name: Church of the Holy Cross (Pilgrimage)
+  m_EditorClassIdentifier: 
+  taskviewSprite: {fileID: 21300000, guid: e8d57507e3a087248995d7bb1fb3369b, type: 3}
+  answers:
+  - 6
+  - kuusi
+  - six
+  isARTask: 0
+  fiTitle: "Pyh\xE4n ristin kirkko"
+  fiText: "Hattulan Pyh\xE4n Ristin kirkko on my\xF6s kansainv\xE4lisestikin tunnettu
+    pyhiinvaelluskohde 1400-luvulta. Se on H\xE4meen vanhin kirkko. Kirkon katossa
+    on takorautainen kynttelikk\xF6. Kuinka monta kynttil\xE4\xE4 kynttelik\xF6ss\xE4
+    on? (vinkki: katso video kirkosta osoitteesta <link=\"https://www.youtube.com/watch?v=3V73cPNstiE\"><color=\"blue\"><u>https://www.youtube.com/watch?v=3V73cPNstiE</u></color></link>)"
+  enTitle: Church of the Holy Cross
+  enText: "Hattula\u2019s Holy Cross Church is also internationally known pilgrimage
+    destination from the 15th Century. It is the oldest church in H\xE4me. Inside
+    the church is a chandelier made of wrought iron. How many candles are there in
+    the chandelier? (hint: view a video of the church by visiting <link=\"https://www.youtube.com/watch?v=3V73cPNstiE\"><color=\"blue\"><u>https://www.youtube.com/watch?v=3V73cPNstiE</u></color></link>)"

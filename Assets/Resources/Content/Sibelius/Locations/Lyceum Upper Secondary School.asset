@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c09d8cd5454d694990f6bd9dc01d641, type: 3}
+  m_Name: Lyceum Upper Secondary School
+  m_EditorClassIdentifier: 
+  locationStorySprite: {fileID: 21300000, guid: 5f0612cac10ea9b45a15431baabcbf8a,
+    type: 3}
+  task: {fileID: 11400000, guid: dab780f89afffad4fbf2c1ee52e575e8, type: 2}
+  address: "Lukiokatu 6-8, 13100 H\xE4meenlinna"
+  latitude: 60.998985
+  longitude: 24.46672
+  fiTitle: "Kummituksia k\xE4yt\xE4vill\xE4"
+  fiPlace: "Lyseon lukio, H\xE4meenlinna"
+  fiText: "Joulukuinen iltap\xE4iv\xE4 alkoi h\xE4m\xE4rty\xE4. Lyseon lukion ikkunoista
+    tuli k\xE4yt\xE4v\xE4lle en\xE4\xE4 aavistuksen valoa. \r\n\u201DKaikki muut
+    ovat jo menneet, nopeesti nyt\u201D, hoputti Anni Mirvaa. Tyt\xF6t olivat aloittaneet
+    lukion syksyll\xE4 ja jykev\xE4 kivirakennus her\xE4tti kunnioituksen lis\xE4ksi
+    aavistuksen pelkoa. Kiersiv\xE4th\xE4n koulun k\xE4yt\xE4vill\xE4 sitke\xE4sti
+    huhut kummittelevista, entisist\xE4 oppilaista. \r\nKoulu perustettiin jo 1873
+    ja sit\xE4 olivat k\xE4yneet monet kuuluisat ihmiset, kuten Jean Sibelius ja
+    J. K. Paasikivi, E. N. Set\xE4l\xE4, ja Eino Leino.\r\n\u201DViel\xE4k\xF6 uskot
+    kummituksiin? Neh\xE4n oli ihan hyviksi\xE4, Sibelius ja Eino Leino\u201D, Mirva
+    sanoi muistaen vain kaksi.\r\n\u201DJoo, mutta kyll\xE4 m\xE4 silti pel\xE4styisin.
+    Ainakin jos Irwin k\xE4velis vastaan\u201D, Anni jatkoi vakavalla naamalla, \u201Dkyll\xE4
+    s\xE4kin kalpenisit, jos Sibelius tulis vastaan viulunsa kanssa.\u201D\r\n\r\nSamassa
+    jostain kauempaa alkoi kuulua viulun soittoa. Tyt\xF6t vilkaisivat toisiaan ja
+    sadan metrin enn\xE4tyksi\xE4 hipoen juoksivat kohti ulko-ovea. Musiikkiluokassa
+    opettaja testasi viuluja koulun orkesterin harjoituksia varten, mutta sit\xE4
+    eiv\xE4t tyt\xF6t tienneet.\r"
+  enTitle: Ghosts roam the hallways
+  enPlace: Lyceum Upper Secondary School
+  enText: "A December afternoon was growing dark, with only a little light coming
+    in the windows to the hallways of the Lyceum school building. \r\n\"All the others
+    have gone, hurry up\", Anni told Mirva. The girls had started upper secondary
+    school in the autumn and they thought the massive stone building was both majestic
+    and a bit scary. There were rumours of old students of the school haunting the
+    hallways. \r\nThe school had been established in 1873, and its famous alumni
+    included Jean Sibelius, the Finnish president J. K. Paasikivi, professor E. N.
+    Set\xE4l\xE4 and poet Eino Leino.\r\n\"Do you still believe in ghosts? These
+    were the good guys, Sibelius and Leino,\u201D Mirva says, as she only comes up
+    with two names.\r\n\"I\u2019d still be scared. At least if it was Irwin, the
+    singer\", Anni continued looking serious: \u201Cand so would you, if you saw
+    Sibelius approach us with his violin.\u201D\r\n\r\nJust as she said that, they
+    heard the sound of a violin somewhere. The girls looked at each other and dashed
+    towards the exit, breaking their personal sprint records. In the music class,
+    a teacher was trying out the violins before the orchestra practice. But the girls
+    did not know this.\r"

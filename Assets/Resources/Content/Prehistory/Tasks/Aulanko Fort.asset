@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a820a2ca58514144ab9f50b01a6196da, type: 3}
+  m_Name: Aulanko Fort
+  m_EditorClassIdentifier: 
+  taskviewSprite: {fileID: 21300000, guid: c4527529f0d01494ebe13ddb23bfac15, type: 3}
+  answers:
+  - 8327
+  isARTask: 0
+  fiTitle: Aulangon linnavuori
+  fiText: "Saavuit l\xE4helle muinaista Yoldia-meren rantaa sijaitsevalle Linnavuorelle.
+    Vuorelle kulkevan tien varrella on kyltti, jossa kerrotaan vuosiluku, jolloin
+    Yoldian-merenranta oli t\xE4ll\xE4 paikalla. Vastassasi on vanha ritari Artimus
+    kertomassa retkeilij\xF6ille tarinoita. Kuulet tarinoita rappusista, jotka johtavat
+    legendaariselle karhuluolalle. Kuinka monen rappusen p\xE4\xE4ss\xE4 karhut odottavat?
+    Ent\xE4 kuinka monta karhua kohtasit luolalla? Laske rannan vuosiluku, rappusten
+    ja karhujen lukum\xE4\xE4r\xE4 yhteen."
+  enTitle: Aulanko Fort
+  enText: You came to an Aulanko Hill Fort. By the trail, that goes to the top of
+    the Hill Fort is a sign, in which you can find a year. In that year the ancient
+    Yoldia sea coast used to be in that place then. In front of you stand an old
+    knight Artimus, who tells stories for the hikers. You hear a story about stairs,
+    which leads you to the legendary bear cave. How many stairs you need to take
+    until you are by the bears? How many bears you met at the cave? Count the sea
+    shores year, stairs and bears together. What is the number you get?

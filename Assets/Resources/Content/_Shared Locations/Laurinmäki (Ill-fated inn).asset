@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c09d8cd5454d694990f6bd9dc01d641, type: 3}
+  m_Name: "Laurinm\xE4ki (Ill-fated inn)"
+  m_EditorClassIdentifier: 
+  locationStorySprite: {fileID: 21300000, guid: 504d44787e11541488ef47b2f34acd2b,
+    type: 3}
+  task: {fileID: 11400000, guid: 786e724176db18844ac52065bdd9b9eb, type: 2}
+  address: 369, Hakoistentie, 14240 Janakkala
+  latitude: 60.890224
+  longitude: 24.599089
+  fiTitle: Kovan onnen kievari
+  fiPlace: "Laurinm\xE4en torpparimuseo"
+  fiText: "Heikki r\xE4pytteli savuisia silmi\xE4\xE4n ja valeli niihin l\xE4hteen
+    raikasta vett\xE4. H\xE4m\xE4r\xE4ss\xE4 leijui yh\xE4 savun haju kivijalkaansa
+    asti palaneelta kestikievarilta. He olivat Tarinmaalta olleet ensiksi paikalla
+    ja tehneet tuntikausia sammutusty\xF6t\xE4 liekkien tulviessa ulos molempien
+    kerrosten ikkunoista. \r\n\r\nKievari oli ollut jo 1700-luvun puoliv\xE4list\xE4
+    ja saanut nimens\xE4 uhril\xE4hteell\xE4 pidetyst\xE4 mekkalasta, jota my\xF6hemmin
+    yll\xE4pitiv\xE4t kievarin kahinat sek\xE4 ilmeisen v\xE4rikk\xE4\xE4t is\xE4nn\xE4t.
+    Yksi alituiseen k\xE4r\xE4jill\xE4 n\xE4hty oli tuomittu raipan iskuihin kirkon
+    m\xE4en piiskam\xE4nnyiss\xE4. Viel\xE4 50-luvulla Heikin lapsuudessa lapsia
+    oli niill\xE4 peloteltu.\r\n\r\nToisen tarinan mukaan kievarissa oltiin sen verran
+    hienoja ja ylpeit\xE4, ett\xE4 resupekat k\xE4\xE4nnytettiin pois. N\xE4in k\xE4vi
+    my\xF6s er\xE4\xE4lle maata kiert\xE4v\xE4lle matkaajalle, joka nukkavieruksi
+    tuomittuna sai armotta l\xE4ht\xF6passit. Kenties oli samoilla sijoilla kuin
+    Heikki nyt, kuusen alla torkkunut. My\xF6hemmin sitten kuultiin kuinka itse Elias
+    L\xF6nnrot ei ollut saanut R\xE4ik\xE4l\xE4ss\xE4 p\xE4\xE4t\xE4\xE4n kallistaa!\r"
+  enTitle: Ill-fated inn
+  enPlace: "Laurinm\xE4ki Crofter\u2019s Museum"
+  enText: "Heikki was blinking his smoke-filled eyes and rinsed them with fresh water
+    from the spring. The smell of smoke was floating in the air, coming from the
+    inn that had burned down to its foundations. They had been the first ones to
+    arrive and tried to put out the fire for hours, as the flames shot out of the
+    windows on both floors. \r\nThe inn had stood there since the mid-1700s. It had
+    got its name after the noises heard at the sacrificial spring and later kept
+    it thanks to the rows at the inn and its colourful owners. One of them, who frequently
+    appeared in court, had been sentenced to a whipping at the whipping pine on the
+    church hill. Even in the 1950s, when Heikki was a child, these stories had been
+    used to scare children.\r\n\r\nAccording to another story, people at the inn
+    were so proud and thought of themselves to be so fine that anyone looking too
+    ragged was turned away. Once, a man travelling the country was turned away on
+    the account of his shabby appearance. Perhaps he slept under a spruce tree, right
+    here where Heikki now was. Later, everyone heard how Elias L\xF6nnrot himself
+    had been refused a place to sleep at R\xE4ik\xE4l\xE4!\r"

@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c09d8cd5454d694990f6bd9dc01d641, type: 3}
+  m_Name: Iittala glassworks
+  m_EditorClassIdentifier: 
+  locationStorySprite: {fileID: 21300000, guid: 9b79361d4eb316047a99b81873bec01e,
+    type: 3}
+  task: {fileID: 11400000, guid: 02cb64015fb125f43a786c473e9bb1ab, type: 2}
+  address: Tehtaantie 3, 14500 Iittala
+  latitude: 61.089775
+  longitude: 24.13614
+  fiTitle: 'Puhallus '
+  fiPlace: Fiskars Finland Oy Ab / Iittalan lasitehdas
+  fiText: "Tehtaan ovesta kajastaa lasiuunin hehku. Avaan oven. L\xE4mp\xF6 houkuttelee
+    minut sis\xE4\xE4n. Edess\xE4ni n\xE4en lasinpuhaltajien joukon, jonka ty\xF6t\xE4
+    j\xE4\xE4n seuraamaan.  \r\n\r\nYht\xE4kki\xE4 havahdun, hattup\xE4inen vanha
+    herrasmies astuu viereeni itsekseen hym\xE4hdellen ja k\xE4velykeppi\xE4\xE4n
+    heilautellen. Mist\xE4 h\xE4n ilmestyi? Seuraan lumoutuneena puhaltajia. Sula
+    massa puhalluspillin p\xE4\xE4ss\xE4 muuttuu maagisesti maljakoiksi, linnuiksi,
+    juomalaseiksi\u2026 Puhaltajien liike on kuin tanssia, tarkoin harkittua koreografiaa.\r\n\r\nMies
+    ehdottaa, ett\xE4 kokeilisin lasinpuhallusta itsekin. H\xE4mm\xE4styn mutta seuraan
+    h\xE4nt\xE4 lasiuunin viereen. Pian jo huomaan puhaltavani ilmaa puisessa muotissa
+    olevaan lasiin. Muotista nousee savua ja haistan palaneen puun tuoksua. Puhaltajamestari
+    nostaa maljakon muotista, irrottaa sen pillist\xE4 ja kantaa sen j\xE4\xE4hdytysuuniin.\r\n\r\nAjatus
+    itse luomastani uniikista esineest\xE4 hurmaa minut. \r\n\r\nK\xE4\xE4nnyn kiitt\xE4\xE4kseni
+    herrasmiest\xE4 mutta n\xE4en vain et\xE4\xE4mp\xE4n\xE4 sulkeutuvan oven ja
+    vilahduksen k\xE4velykepist\xE4. Kuka h\xE4n oli, se j\xE4\xE4 arvoitukseksi.\r"
+  enTitle: Glass-blowing
+  enPlace: Fiskars Finland / Iittala glassworks
+  enText: "You can see the glass furnace glow from the open factory door. I open
+    the door and the heat invites me in. A group of glass-blowers stand before me
+    and I stop to watch them work.  \r\n\r\nI suddenly realise that an elderly gentleman
+    wearing a hat is standing next to me, sneering and swinging his cane. Where did
+    he come from? I am spellbound by the glassblowers\u2019 work. The molten glass
+    on the tip of the blowpipe magically turns into vases, birds, drinking glasses...
+    The glassblowers move like they are dancing; it is like a carefully planned choreography.\r\n\r\nThe
+    man suggests that I try glass-blowing myself. Surprised, I follow him to the
+    glass furnace, and soon I realise I am inflating a piece of molten glass in a
+    wooden mould. Smoke is rising from the mould and I can smell the wood burning.
+    The master glassblower pulls a vase out of the mould, removes it from the blowpipe
+    and carries it to the cooling chamber.\r\n\r\nI find the idea of a self-created,
+    unique object appealing. \r\n\r\nI turn around to thank the man, but all I can
+    see is a door closing in the back of the room and a swing of a cane. His identity
+    remains a mystery.\r"

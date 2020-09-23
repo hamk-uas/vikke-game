@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56a04c58f8da67246b528c1b0a0e4f98, type: 3}
+  m_Name: Ox Road
+  m_EditorClassIdentifier: 
+  storytellingSprite: {fileID: 21300000, guid: f3784b6fc4112244b846bf3f857b6d9a, type: 3}
+  locationMapSprite: {fileID: 21300000, guid: 96ad34e535dcbd2428859ca1683b1ddc, type: 3}
+  locations:
+  - {fileID: 11400000, guid: 894c98fa6879d0e4ea1db024ee408233, type: 2}
+  - {fileID: 11400000, guid: c73712a0de824f84cb7176216c4eed6f, type: 2}
+  - {fileID: 11400000, guid: f203c742539ce6b419dad160386a8667, type: 2}
+  - {fileID: 11400000, guid: 17a4cd23c8243344dac1e9cb5219dd2a, type: 2}
+  - {fileID: 11400000, guid: ac55c7bc705af48479ced55423f57944, type: 2}
+  - {fileID: 11400000, guid: 864096cddd6df744282bf315409b075d, type: 2}
+  - {fileID: 11400000, guid: f7e6d4003d174ce448a7f91dafa6672c, type: 2}
+  - {fileID: 11400000, guid: bcbe88d5311f3f04d9b4bbd47fbbee14, type: 2}
+  - {fileID: 11400000, guid: 169b470f4a5e6fd419f0181a20c41e5b, type: 2}
+  - {fileID: 11400000, guid: 07308bffcc90a874dac7db867a40a199, type: 2}
+  fiTitle: Sabinan kadonnut kolikko
+  fiDesc: "H\xE4rk\xE4tie"
+  fiIntroText: "Sabina on kadottanut rahansa. Sabina uskoo, ett\xE4 se tuo h\xE4nelle
+    onnen ja ilman sit\xE4 h\xE4n ei voi el\xE4\xE4 rauhassa, miss\xE4\xE4n. Mutta
+    miss\xE4 se on, kuka sen vei? Sabina etsii kotiaan, paikkaa, jossa on rauha,
+    jossa on hiljaisuus. Ei h\xE4n ihmisi\xE4 karta, ei toki, mutta jokainen tarvitsee
+    paikan, jossa sielu lep\xE4\xE4. Vaikka vain hetken. Sellaista paikkaa ei koskaan
+    unohda ja sinne mieli voi matkata lep\xE4\xE4m\xE4\xE4n, vaikka maapallon toiselta
+    puolelta asti. \r\n\r\nSabina on Turussa ja lukee Turun akatemian v\xE4it\xF6skirjasta
+    vuodelta 1769, ett\xE4 raha on l\xF6ytynyt Tammelassa. On siis l\xE4hdett\xE4v\xE4
+    H\xE4rk\xE4tiet\xE4 kulkemaan.\r\n\r\nMy\xF6s Ruotsista kuulemma on raha l\xF6ytynyt,
+    sen ovat voineet kuninkaalliset tuoda vaikka H\xE4meen linnaan \u2013 on siis
+    kuljettava perille asti. Sabina matkaa ajasta ja paikasta toiseen etsien ja n\xE4kee
+    ja kuulee tarinoita el\xE4m\xE4st\xE4 ja kuolemasta, mutta onko kukaan kuullut
+    h\xE4nen rahastaan?\r"
+  fiOutroText: "Sabina on perill\xE4. H\xE4n on tavannut monenlaisia ihmisi\xE4 monessa
+    ajassa. Merkitt\xE4vi\xE4 ihmisi\xE4, jotka ovat oikeasti vaikuttaneet historian
+    kulkuun. Ei h\xE4n edes muistanut kaikilta rahaansa kysell\xE4, kun oli niin
+    ihmeellist\xE4 ja jotkut paikat olivat niin j\xE4nnitt\xE4vi\xE4, ettei h\xE4n
+    edes uskaltanut ottaa puheeksi omaa asiaansa.\r\nH\xE4n n\xE4ki ajassa taaksep\xE4in
+    ja eteenp\xE4in ja asioiden sulattamiseen menisi viel\xE4 pitk\xE4n aikaa. Saunan
+    l\xE4mp\xF6\xE4 ja hartaan hiljaista tunnelmaa h\xE4n j\xE4i kyll\xE4 kaipaamaan,
+    kun oli ensin tointunut siit\xE4, ett\xE4 nahka tuntui k\xE4ry\xE4v\xE4n. \r\nSabina
+    on l\xF6yt\xE4nyt kotinsa. Se l\xF6ytyi lopulta toisen kulkijan syd\xE4mest\xE4
+    \u2013 he molemmat etsiv\xE4t kotia ja yhteinen paikka l\xF6ytyi Suomen saloilta,
+    kauniista lehtomets\xE4st\xE4 pellon laitamalta, j\xE4rven sinen \xE4\xE4relt\xE4.\r\nSabina
+    oppi matkallaan, ett\xE4 ihminen tarvitsee lopulta aika v\xE4h\xE4n ollakseen
+    onnellinen. Enemm\xE4n rakkautta kuin rikkautta, enemm\xE4n oman tuvan turvallisuutta
+    kuin linnojen loistoa.\r\nSabinan raha j\xE4i l\xF6yt\xE4m\xE4tt\xE4, ehk\xE4
+    sen l\xF6yt\xE4\xE4 seuraava kulkija. Kenties sin\xE4.\r"
+  enTitle: Sabina's lost coin
+  enDesc: Ox Road
+  enIntroText: "Sabina has lost her coin. She believes that it is her token of luck
+    and that she cannot be in peace without it. But where could it be and who took
+    it? Sabina is looking for a home, a peaceful place, somewhere silent. She does
+    not want to avoid people, of course not, but we all need a place where our soul
+    can rest. Even for a moment. You will never forget such a place, and it is where
+    your mind can escape to rest, even if you were on the other side of the world.
+    \r\n\r\nSabina is in Turku, reading a dissertation from the Turku Academy dated
+    in 1769. It says there that a coin has been discovered in Tammela. She has to
+    travel the Tavastia Ox Road.\r\n\r\nA coin has also been discovered in Sweden,
+    they say, which means that the royals could have brought it to the H\xE4me Castle
+    \u2013 she will have to go all the way there. Sabina keeps travelling from one
+    time and place to another, searching; hearing and seeing stories of life and
+    death. But does anyone know anything about her coin?\r"
+  enOutroText: "Sabina has arrived. She has met many people in many eras. Important
+    people who have had real influence on the course of history. She did not even
+    remember to inquire about her coin from all of them; she saw such amazing things
+    and exciting places that she did not dare to bring up her own case.\r\nShe could
+    see back in time, and forward in time, and it would take a long time to digest
+    all of this. She did miss the heat of the sauna and the solemnness and quietness
+    in there, once she had overcome the emotion that her skin was burning. \r\nSabina
+    has found a home. She finally found it in the heart of another vagabond \u2013
+    they were both looking for a home and found a place together in a Finnish forest,
+    near a field in a beautiful grove, on the shore of a blue lake.\r\nOn her travels,
+    Sabina learnt that a human being does not need that much to be happy. More love
+    than wealth, more the safety of your own home than the luxury of castles.\r\nSabina\u2019s
+    coin was never found. Perhaps it will be discovered by the next traveller. Perhaps
+    you.\r"

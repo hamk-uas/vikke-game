@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c09d8cd5454d694990f6bd9dc01d641, type: 3}
+  m_Name: War and love
+  m_EditorClassIdentifier: 
+  locationStorySprite: {fileID: 21300000, guid: c7448d8f7c96f1845b016901787c1668,
+    type: 3}
+  task: {fileID: 11400000, guid: 51d3093666933d84199ced962f00d097, type: 2}
+  address: "Pikkutorinkuja, 13100 H\xE4meenlinna"
+  latitude: 60.995083
+  longitude: 24.458672
+  fiTitle: Keskustelua Sodasta ja Rakkaudesta
+  fiPlace: Sota ja Rakkaus
+  fiText: "Patsaassa on kaksi osaa; nuori el\xE4inl\xE4\xE4kint\xE4lotta ja iso hevosen
+    p\xE4\xE4.\n\n\u201DJoskus taide her\xE4tt\xE4\xE4 monenlaisia mielipiteit\xE4\u201D,
+    Jansson sanoo rouva Wegeliukselle.\n\n\u201DMe el\xE4inl\xE4\xE4kint\xE4lotat
+    hoidimme sodan aikana hevosia, jotka tekiv\xE4t t\xE4rke\xE4\xE4 ja raskasta
+    ty\xF6t\xE4 sodassa. Niin kuin mekin. Me olimme nuoria naisia. Sota oli kaikille
+    kovaa ja raskasta aikaa\u201D, lotta kertoo.\n\nRouva ei tied\xE4 mit\xE4 sanoa,
+    pit\xE4\xE4 nieleksi\xE4 hetken aikaa.\n\n\u201DSodan muistot ovat my\xF6s raskaita.
+    Tiina Torkkelin Sota ja Rakkaus ei ole siloiteltu ty\xF6. Se on kierr\xE4tetyst\xE4,
+    ter\xE4ksest\xE4 hitsaamalla ja sinkitt\xE4m\xE4ll\xE4 tehty. Se on rosoinen
+    ja s\xE4rmik\xE4s.\u201D\n\n\u201DHyv\xE4, ett\xE4 keskustellaan. Taiteesta ja
+    muistoista, Sodasta ja Rakkaudestakin. Jos se saa meid\xE4t ymm\xE4rt\xE4m\xE4\xE4n
+    paremmin ja muistamaan rauhan t\xE4rkeyden, eik\xF6 se ole hyv\xE4\u201D, lotta
+    sanoo rouvalle.\n\n\u201DAsia on t\xE4rke\xE4\u201D, h\xE4n toteaa ja jatkaa,
+    \u201Dmutta vaikea. Muistot voivat olla kipeit\xE4 ja oma n\xE4kemys niiden esitt\xE4misest\xE4
+    voi olla kovin erilainen.\u201D\n\n\u201DSiksi on hyv\xE4, ett\xE4 taiteesta
+    keskustellaan. Se voi avata ymm\xE4rryst\xE4, se voi opettaa ymm\xE4rryst\xE4
+    toisen n\xE4kemyst\xE4 kohtaan.\u201D"
+  enTitle: Discussing War and love
+  enPlace: War and love
+  enText: "The sculpture consists of two parts: a young volunteer veterinary nurse
+    and a big head of a horse.\n\n\"Sometimes art evokes many types of responses,\"
+    Jansson explains to Mrs Wegelius.\n\n\"As volunteer veterinary nurses in war,
+    we used to care for the horses that were involved in important, hard work in
+    military operations. And we were young women. War was a hard time for all of
+    us,\u201D she explains.\n\nMrs Wegelius does not know what to say, and she has
+    to gulp a few times.\n\n\u201CWartime memories are also hard. The sculpture by
+    Tiina Torkkeli, War and Love, is not a smooth work of art. It has been made of
+    recycled steel by welding and galvanising. It is rough and coarse.\u201D\n\n\u201CI
+    am glad that discussion arises. Of art and memories, and war and love. If it
+    will help us understand better and remember how important peace is, it is a good
+    thing, right?\u201D the nurse asks the lady.\n\n\"It is an important cause,\u201D
+    she says and continues: \u201Cbut also difficult. Memories can be very painful,
+    and you can have a very different view on how they should be presented.\u201D\n\n\"That
+    is why it is a good thing that art discussion takes place. That can help to widen
+    your understanding, to help you understand the views of someone else.\u201D"

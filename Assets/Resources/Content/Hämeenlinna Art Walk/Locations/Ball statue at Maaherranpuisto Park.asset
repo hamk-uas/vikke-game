@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c09d8cd5454d694990f6bd9dc01d641, type: 3}
+  m_Name: Ball statue at Maaherranpuisto Park
+  m_EditorClassIdentifier: 
+  locationStorySprite: {fileID: 21300000, guid: 08d8e9bcd6a5a7c4a827e21c84d3e620,
+    type: 3}
+  task: {fileID: 11400000, guid: 3609364d117f667499bab8248fc79644, type: 2}
+  address: "Lukiokatu 2, 13100 H\xE4meenlinna"
+  latitude: 60.999897
+  longitude: 24.467466
+  fiTitle: Saa koskettaa
+  fiPlace: Maaherranpuiston pallopatsas
+  fiText: "Viktor Jansson ja Elli Wegelius seisovat Maaherranpuistossa, suihkul\xE4hteen
+    \xE4\xE4ress\xE4. Suihkul\xE4hteess\xE4 on py\xF6riv\xE4 kivipallo. He eiv\xE4t
+    katsele ymp\xE4rill\xE4 kuhisevaa el\xE4m\xE4\xE4, he ovat toisesta ajasta, ymp\xE4r\xF6iv\xE4t
+    asiat eiv\xE4t merkitse sill\xE4 hetkell\xE4. He ovat niin keskittyneet n\xE4kem\xE4\xE4ns\xE4
+    taiteeseen.\n\n\u201DTaide voi koskettaa monella tavalla, mutta taidetta voi
+    my\xF6s koskettaa\u201D, Jansson sanoo ja rouva Wegelius py\xF6ritt\xE4\xE4 sile\xE4\xE4
+    palloa, jota vesi n\xE4ytt\xE4\xE4 kannattelevan.\n\n\u201DSe on kuin maapallo
+    avaruudessa, paikoillaan mink\xE4\xE4n kannattelemattomana\u201D, h\xE4n h\xE4mm\xE4stelee.\n\nSamalla
+    paikalle kirmailee lapsia, jotka laittavat pallon py\xF6rim\xE4\xE4n uudelleen
+    ja uudelleen.\n\n\u201DKuka t\xE4m\xE4n on laittanut t\xE4h\xE4n\u201D, kysyy
+    lapsi \xE4\xE4neen.\n\n\u201DSen on valmistanut Savitaipaleen kiviveist\xE4m\xF6.
+    Siell\xE4 on ollut taitava ihminen, hionut kiven ja tehnyt siit\xE4 kauniin.\u201D\n\nLapsi
+    hymyilee. Rouva Wegelius pohtii, muistaako lapsi tuon hetken my\xF6hemmin. Ehk\xE4
+    h\xE4n palaa joskus aikuisena pallon luo.\n\n\u201DKyll\xE4\u201D, Jansson vastaa
+    kuin ajatukset lukien, \u201Dtaide luo muistoja ja toimii ankkurina menneisiin
+    aikoihin ja paikkoihin.\u201D"
+  enTitle: Touching allowed
+  enPlace: Ball statue at Maaherranpuisto Park
+  enText: "Viktor Jansson and Elli Wegelius are standing by a fountain at a park.
+    The fountain features a rotating stone ball. They are oblivious to the life bustling
+    around them as they come from another time, and what is around them does not
+    matter at this moment. They are so deeply concentrated on the art before them.\n\n\"Art
+    can touch you in so many ways, but art can also be touched\", says Jansson, as
+    Mrs Wegelius rotates the smooth ball that seems to be carried by water.\n\n\"This
+    is like the earth, floating in space, without being supported by anything,\u201D
+    she says, amazed.\n\nAt that very moment, children come running and rotate the
+    ball again and again.\n\n\"I wonder who put this here\" one of the children utters.\n\n\"It
+    has been made by a stone-carving workshop in the village of Savitaipale. There
+    was a skilled worker there who grinded the stone and made it beautiful.\u201D\n\nThe
+    child smiles. Mrs Wegelius wonders whether the child will remember this moment
+    later. Maybe he will return to the ball sometime as a grown-up.\n\n\"Yes\", Jansson
+    says, as if reading her mind: \"art creates memories and connects people to times
+    and places that are long gone.\u201D"

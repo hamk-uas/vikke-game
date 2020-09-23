@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56a04c58f8da67246b528c1b0a0e4f98, type: 3}
+  m_Name: Prehistory
+  m_EditorClassIdentifier: 
+  storytellingSprite: {fileID: 21300000, guid: 066f782081b225d4ab536ee47122723e, type: 3}
+  locationMapSprite: {fileID: 21300000, guid: 2667cd93c8747f644bc9807dbd314d07, type: 3}
+  locations:
+  - {fileID: 11400000, guid: 9a5effeebabd67446aece54ba279a106, type: 2}
+  - {fileID: 11400000, guid: 01d070874bd028940abdb6953286e2be, type: 2}
+  - {fileID: 11400000, guid: 6e8cb8d24bac22f4ab0058962854772b, type: 2}
+  - {fileID: 11400000, guid: 83a0433bd8971a44eb270353fc02fc30, type: 2}
+  fiTitle: Linnavuorten viesti
+  fiDesc: Esihistoria
+  fiIntroText: "H\xE4meen linnassa ja linnavuorilla on nuoria miehi\xE4 vartiossa.
+    Aika on joskus tyls\xE4\xE4, kun mit\xE4\xE4n ei tapahdu. Nuorten miesten mieli
+    kaipaa seikkailua, kisailua, voittoa. Niist\xE4h\xE4n on nuoret ritarit tehty.
+    Ilmari Kustaanpoika keksii viestin. Valitaan joukkueet ja katsotaan mik\xE4 joukkue
+    taittaa matkan nopeimmin.\r\n\r\nTuomareiden valinta on tarkkaa, heid\xE4n pit\xE4\xE4
+    olla puolueettomia, arvostettuja ja luotetuksi tunnettuja pappeja ja kylien vanhimpia.
+    Heid\xE4n pit\xE4\xE4 olla my\xF6s ulkopuolisia, jotta kaikki voivat luottaa
+    heihin. Viesti juostaan linnavuorelta toiselle ja jokainen kilpailija taittaa
+    yhden matkan. Toisen on l\xE4hdett\xE4v\xE4 liikkeelle heti, kun edellinen saapuu.\r\n\r\nLopulta,
+    l\xE4hettien ollessa jo edestakaisin juoksusta uupuneita, tuntuu, ett\xE4 kaikki
+    on valmista. Juoksijoiksi on valittu v\xE4kivahvoja, nuoria miehi\xE4 ja vanhemmat
+    miehet ovat jakaneet heille kaiken tiet\xE4myksens\xE4 reiteist\xE4 ja vaaroista.\r\n\r\nL\xE4ht\xF6
+    tapahtuisi pian, Hakoisten linnavuori oli sovittu l\xE4ht\xF6paikaksi."
+  fiOutroText: "Kuka lopulta voitti viestin ja vei voittoviirin omalle linnavuorelleen?
+    Hakoisten linnavuorella l\xE4ht\xF6 siirtyi ja juoksijat l\xF6ysiv\xE4t oluttynnyrit.
+    Hiukkasen siin\xE4 piti kyll\xE4 ensin linnavuorta puolustaakin, mutta rosvojoukko
+    oli niin onneton, ett\xE4 voitto siit\xE4 tuli helposti. Mutta voitto kuin voitto,
+    pitih\xE4n sit\xE4 juhlia.\r\n\r\nTenholassa n\xE4htiin vainotulia. No ukkonen
+    siell\xE4 taivaanrannassa pikkasen mets\xE4\xE4 poltti, ei sen kummempaa. H\xE4lytys
+    kuitenkin annettiin ja viestinjuoksijat eiv\xE4t tahtoneet edes sis\xE4lle p\xE4\xE4st\xE4
+    seuraaviin etappeihin, kun tiedustelijoiksi luultiin. Liek\xF6 joku menett\xE4nyt
+    p\xE4\xE4ns\xE4kin niiss\xE4 kahakoissa.\r\n\r\nJuoksijoita oli kuitenkin lopulta
+    enemm\xE4n kuin alun perin matkaan l\xE4hti, koska moni mies l\xE4hti topakkaa
+    em\xE4nt\xE4\xE4ns\xE4 karkuun viestijuoksun varjolla eiv\xE4tk\xE4 he koskaan
+    mihink\xE4\xE4n maaliin tulleet \u2013 mihin lie mahtoivat juosta.\r\n\r\nMutta
+    mainio kes\xE4 se oli, seikkailua monella tavalla ja paljon siit\xE4 puhetta
+    riitti, niin nuorten kuin vanhojenkin miesten joukossa. Ja moni ilmoittautui
+    voittajaksi, ainakin parin oluthaarikallisen j\xE4lkeen."
+  enTitle: Relay between hill forts
+  enDesc: Prehistory
+  enIntroText: "Young men guard the H\xE4me Castle and the hill forts. Time drags
+    on when nothing happens. Young men crave for adventure, competition, victory.
+    This is what young knights are made for. Ilmari, son of Kustaa, comes up with
+    the idea of a relay. The teams are formed, and it is time to see which is the
+    fastest team.\r\n\r\nFinding good judges is a tough task: they must be impartial,
+    respected and reliable clergymen and village elders. They must also be outsiders,
+    so that everyone can trust them. The route of the relay goes from one hill fort
+    to the next, and each competitor runs one leg. The next runner dashes off as
+    soon as the one before reaches the goal.\r\n\r\nFinally, after the messengers
+    have grown weary from running back and forth, it feels like everything is ready.
+    Young, strong men have been selected to run the legs, and older men have shared
+    all their experience and information about the routes and the dangers along the
+    way.\r\n\r\nThe race will start soon from the Hakoinen Hill Fort."
+  enOutroText: "Who won the relay and took the champion\u2019s pennant to their hill
+    fortress? The start at the Hakoinen Hill Fort was delayed, and the runners discovered
+    the beer barrels. First, they had to defend the hill fort for a bit, but the
+    band of robbers was so weak that they were easily defeated. Still, a victory
+    is always a victory and calls for a celebration.\n\nBeacon lights were detected
+    at Tenhola. But it turned out to be a thunder storm and then a forest fire on
+    the horizon, nothing more. Still, an alarm was given and the runners had trouble
+    getting into forts along the route, as they were mistaken for scouts. It is possible
+    that some heads fell off during the clashes, too.\n\nHowever, more runners finished
+    the relay than the original competitors, because so many men had run off from
+    their mean wives on the pretext of running in the relay, even though they never
+    made it to the finish \u2014 no-one knows to where they ran off.\n\nBut it sure
+    was a fun summer, so many adventures and so much to talk about, both for the
+    young and the old. Many claimed themselves as the winners, at least after having
+    a few tankards of beer."

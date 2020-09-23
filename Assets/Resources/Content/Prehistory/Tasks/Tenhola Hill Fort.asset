@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a820a2ca58514144ab9f50b01a6196da, type: 3}
+  m_Name: Tenhola Hill Fort
+  m_EditorClassIdentifier: 
+  taskviewSprite: {fileID: 21300000, guid: dd628dae524a55c4b8a8f8eff1fc2c34, type: 3}
+  answers:
+  - 4
+  - "nelj\xE4"
+  - four
+  isARTask: 0
+  fiTitle: Tenholan linnavuori
+  fiText: "Joutti juoksi hakemaan huolestuneena 7 miest\xE4 p\xE4\xE4torpalta. He
+    juoksivat vimmatusti yhdess\xE4 pohjoiselle hirsiaidalle t\xE4hyst\xE4m\xE4\xE4n
+    havaittua uhkaa. T\xE4hyst\xE4ess\xE4\xE4n he huomasivat nuorten mets\xE4ll\xE4
+    k\xE4yneiden miesten savustavan villisikaa. Joutti yst\xE4vineen p\xE4\xE4tti
+    liitty\xE4 miesten seuraan viett\xE4m\xE4\xE4n sikajuhlaa.\r\nKuinka monesta
+    ampuma-aukosta voit t\xE4n\xE4 p\xE4iv\xE4n\xE4 t\xE4hyst\xE4\xE4? (vinkki: vastaa
+    pelk\xE4ll\xE4 numerolla)\r"
+  enTitle: Tenhola Hill Fort
+  enText: "Joutti ran worried to get seven other men from the main croft. They ran
+    quickly together to the north barrier to scope the detected danger. While detecting
+    they noticed other men preparing on a fire a wild boar. Joutti and men decided
+    to join the other group and enjoy the forthcoming dinner. \r\nFrom how many loopholes
+    can you still detect in the Tenhola fort? (hint: answer only with a number)\r"

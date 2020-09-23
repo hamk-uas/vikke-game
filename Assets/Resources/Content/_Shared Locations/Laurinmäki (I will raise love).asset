@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c09d8cd5454d694990f6bd9dc01d641, type: 3}
+  m_Name: "Laurinm\xE4ki (I will raise love)"
+  m_EditorClassIdentifier: 
+  locationStorySprite: {fileID: 21300000, guid: 504d44787e11541488ef47b2f34acd2b,
+    type: 3}
+  task: {fileID: 11400000, guid: 206cf536012b2014b889e1e37d2a415e, type: 2}
+  address: 369, Hakoistentie, 14240 Janakkala
+  latitude: 60.890224
+  longitude: 24.599089
+  fiTitle: Nostan lemmen liehumahan
+  fiPlace: "Laurinm\xE4en torpparimuseo"
+  fiText: "Rauni tuijotti kasvojaan l\xE4hteen pinnasta. Tuli loimusi s\xE4ik\xE4ht\xE4neiss\xE4
+    silmiss\xE4, rinnassa ja kutitteli jo kantap\xE4it\xE4. H\xE4n oli n\xE4hnyt
+    soturinsa eilen t\xE4\xE4ll\xE4 ja ollut varma t\xE4m\xE4n puolustavan Hakoisten
+    linnavuorta kahta komeaa miekkaansa s\xE4\xE4st\xE4m\xE4tt\xE4. \r\n\r\nRauni
+    oli piiloutunut kuusen taa, muttei voinut olla kurkistelematta, kun mies kastoi
+    miekkansa k\xE4rjet l\xE4hteeseen ja puheli rauhallisella \xE4\xE4nell\xE4 niiden
+    haltioille. \r\n\r\nJuo sit\xE4 vett\xE4, kasta p\xE4\xE4t\xE4 ja jalkasi k\xE4yt\xE4
+    Taaran l\xE4hteess\xE4! Komensi vanha nainen ja oli toteltava, vaikka tulet paloivat
+    korkeampina ja Raunia kauhistutti. Samalla h\xE4n oli kiihdyksiss\xE4\xE4n ja
+    riemuitsi syd\xE4mens\xE4 raivoisasta sykkeest\xE4. Vanha nainen alkoi loihtia
+    heilauttaen k\xE4tt\xE4\xE4n joka s\xE4keen v\xE4liss\xE4 merkiksi Raunille ponnistaa
+    liekkien yli edestakaisin kuin pillastunut ratsu. \r\n\u201DMin\xE4 nostan neien
+    lemmen, neion kunnian kohotan. Nostan lemmen liehumahan, kunnian kukoistamahan\u2026\u201D\r\n\r\nPitk\xE4n
+    loitsun p\xE4\xE4ttyess\xE4 Rauni vajosi polvilleen. L\xE4hteen kirkkaasta pinnasta
+    katsoivat nyt h\xE4nen soturinsa kasvot.\r"
+  enTitle: I will raise love
+  enPlace: "Laurinm\xE4ki Crofter\u2019s Museum"
+  enText: "Rauni was staring at the reflection of her face on the surface of the
+    spring. Her startled eyes and chest were blazing with fire that was already tickling
+    at her heals. She had seen her knight here yesterday and was sure that he would
+    defend the Hakoinen Hill Fort without sparing his two fine swords. \r\nRauni
+    was hiding behind a spruce tree but could not help but peek when the man dipped
+    the tips of his swords into the spring and talked to the sprites in a calm voice.
+    \r\n\r\n\u201CDrink the water, dip your head and put your feet into the spring!\u201D
+    An elderly lady told her and she had to obey, even though the fire was blazing
+    higher and Rauni was terrified. She was both excited and happy over the violent
+    beating of her heart. The old lady started to recite a spell, waving her arm
+    after every line to signal Rauni to jump above the flames back and forth, like
+    a bolting horse. \r\n\"I will raise love for this maiden, make the maiden glorious,
+    let her be amorous, make her revered...\u201D\r\n\r\nOnce the long spell ended,
+    Rauni fell on her knees. The face of her knight was now reflected on the surface
+    of the spring.\r"

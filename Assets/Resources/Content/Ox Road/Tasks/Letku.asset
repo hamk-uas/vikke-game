@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a820a2ca58514144ab9f50b01a6196da, type: 3}
+  m_Name: Letku
+  m_EditorClassIdentifier: 
+  taskviewSprite: {fileID: 21300000, guid: 23eb87d5e82368141b716596cc36cd2c, type: 3}
+  answers:
+  - letkunheitto
+  isARTask: 0
+  fiTitle: Letkun puoti
+  fiText: "Letkun puoti sijaitsee historiallisen H\xE4meen H\xE4rk\xE4tien varrella
+    Letkun kyl\xE4ss\xE4. Puodista saa sopivasti kaikkea tarpeellista. Mik\xE4 on
+    nimelt\xE4\xE4n MM-kisat, jotka j\xE4rjestet\xE4\xE4n Letkun kyl\xE4ll\xE4?"
+  enTitle: Letku Shop
+  enText: 'The small Letku shop is situated by the historical Oxen Road in the Letku
+    village. You can get all you need from this shop. What is the name of the World
+    Championship Games organized in the Letku village every year? (hint: the name
+    in English means throwing pipe)'

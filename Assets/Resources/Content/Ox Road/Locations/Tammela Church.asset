@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c09d8cd5454d694990f6bd9dc01d641, type: 3}
+  m_Name: Tammela Church
+  m_EditorClassIdentifier: 
+  locationStorySprite: {fileID: 21300000, guid: 3111fb6f62233874994a4dda7dba957b,
+    type: 3}
+  task: {fileID: 11400000, guid: cec79e0854fa9904e8e129711bb6d103, type: 2}
+  address: Tammelantie 31, 31300 Tammela
+  latitude: 60.808266
+  longitude: 23.760342
+  fiTitle: Kuningas kirkossa
+  fiPlace: Tammelan kirkko
+  fiText: "Kuningas Kustaa III Adolf ja kuningatar Maria Eleonoora istuvat arvokkaan
+    n\xE4k\xF6isin\xE4 Tammelan komeassa kirkossa. Hakkapeliitat ovat l\xE4hd\xF6ss\xE4
+    sotaan kuninkaan johdolla, on aika hiljenty\xE4 rukoukseen jokaisen sotilaan
+    puolesta. \r\n\r\nOnneksi palvelus on sent\xE4\xE4n suomeksi, jotta rahvaskin
+    ymm\xE4rt\xE4\xE4 mist\xE4 puhutaan ja poissa ovat niin Rooman kuin id\xE4nkin
+    piispat ja Lutherin oppia julistetaan saarnastuolista pitk\xE4\xE4n ja hartaasti
+    1600-luvun tapaan.\r\n\r\nTammelan kivikirkossa kelpaa kuninkaankin istua, niin
+    on katto korkealla ja kellotapulin katto viel\xE4 korkeammalla, jotta kellojen
+    kutsu kuuluu yli Pyh\xE4j\xE4rven laajan sel\xE4n ja Kaukj\xE4rven my\xF6s. 
+    \r\nH\xE4r\xE4t sen kirkonpaikan aikanaan valitsivat, siihen tehtiin kirkko mihin
+    h\xE4r\xE4t kivikuormansa kanssa pys\xE4htyiv\xE4t. Viel\xE4 kuninkaan vieraillessa
+    kirkko oli pienempi, seuraavalla vuosisadalla kirkkoa laajennettiin niin, ett\xE4
+    yli tuhat ihmist\xE4 istumaan mahtui ja k\xE4yt\xE4v\xE4kin on 15 metri\xE4 leve\xE4
+    ja koko maassa toiseksi pisin. Siin\xE4 pit\xE4\xE4 tosissaan olla, kun sit\xE4
+    pitkin alttarille marssii.\r"
+  enTitle: Visit by the king
+  enPlace: Tammela Church
+  enText: "King Gustav II Adolf and Queen Maria Eleonora are at the beautiful Church
+    of Tammela, seated and looking dignified. Finnish cavalrymen \u2013 known as
+    the hakkapelitas \u2013 are about to go to war, led by the King, so it is time
+    to pray for each and every soldier. \r\nFortunately, the service is in Finnish,
+    so the common people can understand what is being said: long gone are the bishops
+    of both Rome and Constantinople, and Luther\u2019s doctrine is preached from
+    the pulpit thoroughly and earnestly, just like in the 1600s.\r\n\r\nThe Tammela
+    stone church is fit for a king. Its ceiling is high, and the belfry rises even
+    higher, so that you can hear the bells over the vastness of the Pyh\xE4j\xE4rvi
+    and Kaukj\xE4rvi lakes.  \r\nThe location of the church was selected by oxen:
+    it was built in the spot where the oxen pulling the stones for the construction
+    stopped. At the time of the king\u2019s visit, the church was smaller, and it
+    was extended in the next century to accommodate over a thousand people. The aisle
+    is over 50 metres long, the second longest in the whole country. You really have
+    to mean it to walk down this aisle to the altar.\r"

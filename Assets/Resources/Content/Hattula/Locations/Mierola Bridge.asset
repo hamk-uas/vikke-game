@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c09d8cd5454d694990f6bd9dc01d641, type: 3}
+  m_Name: Mierola Bridge
+  m_EditorClassIdentifier: 
+  locationStorySprite: {fileID: 21300000, guid: 4c5c6daa00c33ed4aa370d8aa9340bf9,
+    type: 3}
+  task: {fileID: 11400000, guid: 4abc923c417796c4bb2115c236517b66, type: 2}
+  address: Kirkkotie 8, 13880 Hattula
+  latitude: 61.063736
+  longitude: 24.38943
+  fiTitle: "Aikamatka siltaty\xF6maalla"
+  fiPlace: Mierolan silta
+  fiText: "Miehi\xE4 oli paljon, touhua viel\xE4 enemm\xE4n.  \r\n\u201DMit\xE4 t\xE4\xE4ll\xE4
+    on tapahtunut?\u201D Antero kysyi hy\xF6rin\xE4\xE4 katselevalta vanhalta miehelt\xE4.
+    \r\n\u201DVanha silta paloi, nyt tehd\xE4\xE4n uutta ja ehompaa\u201D, vanha
+    mies selitti ja kysyi mihin Antero oli matkalla.\r\nAntero ei vastannut, koska
+    ei tiennyt itsek\xE4\xE4n, aika oli vieras, samoin paikka. \r\n\u201DLepotaukoa
+    pitelin, vadelmia s\xF6in ja taisin pientareelle nukahtaa\u201D, h\xE4n selitti
+    ja k\xE4\xE4nsi \r\npuheen takaisin siltaan.\r\n\u201DMitenk\xE4 se silta noin
+    paloi?\u201D\r\n\u201DT\xE4\xE4ll\xE4 on taisteltu. Per\xE4\xE4ntyv\xE4t joukot
+    sen polttivat. Kivisiltaa suunniteltiin, vaan liian kauan\r\nsen tekoon menisi.
+    Ter\xE4ksest\xE4 ja betonista t\xE4m\xE4 saadaan valmiiksi pian ja vuosi 1919
+    kirjoitetaan historiankirjoihin uuden sillan alkuna. Otatteko muuten vadelmia?
+    Min\xE4kin niit\xE4 napsin. Olen Jacob Jud\xE9n.\u201D\r\n\u201DPaikallisia?\u201D
+    Antero kysyy. H\xE4n ei tunne miest\xE4, vaikka nimi on jotenkin tuttu.\r\n\u201DKyll\xE4,
+    mutta kaukaa matkalla, kuten tekin.\u201D\r\nAntero k\xE4\xE4ntyy katsomaan,
+    kun ty\xF6miehet huutavat jotain. H\xE4n huomaa vasta hetken p\xE4\xE4st\xE4,
+    ett\xE4 \r\nvanha mies on poissa. Ehk\xE4 h\xE4nenkin on aika palata. Minne,
+    siit\xE4 h\xE4n on ep\xE4varma. Mutta mies j\xE4tti vadelmia\u2026\r"
+  enTitle: Time travel at the bridge construction site
+  enPlace: Mierola Bridge
+  enText: "There were many men, and a great whirl of activity.\n\n\"What happened?\"
+    Antero inquired from an old man who was watching.\n\n\"The old bridge burned
+    down, so they are making a new, better one\", he explained and asked where Antero
+    was headed.\n\nAntero said nothing: he was not sure. He was in an unfamiliar
+    place and time.\n\n\"Just resting. I was eating raspberries and dozed off on
+    the side of the road\u201D, he explained and turned the conversation back to
+    the bridge.\n\n\"How did the bridge burn down?\u201D\n\n\"In battle. The retreating
+    troops burnt it. They wanted to build a stone bridge, but it would take too long.
+    With steel and concrete, this will be ready in no time at all, and the year 1919
+    will be recorded in history as the year of the new bridge being built. Would
+    you like some raspberries? I am having some. My name is Jacob Jud\xE9n\u201D.\n\n\"Are
+    you from around here?\" Antero asks. He does not know the man, even though he
+    thinks he has heard the name.\n\n\"Yes, but from somewhere far away, just like
+    you\u201D.\n\nAntero turns his gaze as the men yell something. Only a moment
+    later he realises that the old man is gone. Perhaps it is time for him, too,
+    to go back. But where \u2013 he is not sure. The man did leave him some raspberries..."

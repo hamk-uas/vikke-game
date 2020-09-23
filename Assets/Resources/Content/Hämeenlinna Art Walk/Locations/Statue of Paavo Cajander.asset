@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c09d8cd5454d694990f6bd9dc01d641, type: 3}
+  m_Name: Statue of Paavo Cajander
+  m_EditorClassIdentifier: 
+  locationStorySprite: {fileID: 21300000, guid: e23c0f7542ff3e54682849ad14a7a088,
+    type: 3}
+  task: {fileID: 11400000, guid: 8c1fcd2e666a7c34a92c2273c2c66da1, type: 2}
+  address: "Linnankatu 6, 13100 H\xE4meenlinna"
+  latitude: 60.996998
+  longitude: 24.465868
+  fiTitle: Runoa lausuva Cajander
+  fiPlace: Paavo Cajanderin patsas
+  fiText: "\u201CEn tied\xE4; mutta niin l\xE4mmin on \r\nsen l\xE4heisyys kuin auringon,
+    \r\nja onpa kuin h\xE4nen katsannastaan \r\nheloittais taivahan rauha vastaan.\u201D\n\u201DKuka
+    on t\xE4m\xE4 mies, joka n\xE4in meille lausuu\u201D, kysyy rouva Wegelius Viktor
+    Janssonilta.\n\u201DMin\xE4 olen Paavo Cajander, hyv\xE4\xE4 iltap\xE4iv\xE4\xE4.
+    Runoani lausun teille, se kertoo \xE4idin kuvasta sein\xE4ll\xE4.\u201D\n\u201DJuhlallisen
+    n\xE4k\xF6inen\u201D, rouva ajattelee \xE4\xE4neen, tarkoittaen kyll\xE4kin patsasta.\n\u201DKyll\xE4.
+    Kuvani ikuisti yst\xE4v\xE4ni Alpo Sailo. Me olimme hyvin is\xE4nmaallisia, taistelimme
+    is\xE4nmaamme puolesta yhdess\xE4. Silloin aika oli sellainen. Taidekin valjastettiin
+    kertomaan aatteesta, is\xE4nmaasta, vapaudesta. Me molemmat synnyimme t\xE4\xE4ll\xE4
+    H\xE4meenlinnassa, siksi n\xE4k\xF6ispatsaani on t\xE4\xE4ll\xE4.\u201D\nJa lausuupa
+    Cajander viel\xE4 lis\xE4\xE4 runoaan:\n\u201CMa tuntikausia ihaillen \r\nkuvaa
+    tuot'yh\xE4 katselen, \r\nei sulho kultoaan punastuvaa, \r\nniin tyystin katso
+    kuin min\xE4 kuvaa.\u201D\n\u201DTaide on aina my\xF6s aikansa kuva\u201D, sanoo
+    Jansson."
+  enTitle: Cajander reciting a poem
+  enPlace: Statue of Paavo Cajander
+  enText: "\u201DI do not know why; but I feel a heat \r\nlike the sun\u2019s warmth
+    at my feet \r\nAnd, in her eyes, I can see \r\nthe reflection of heavenly peace.\u201D\n\"Who
+    is this man who is reciting to us?\" Mrs Wegelius inquires of Viktor Jansson.\n\"Good
+    afternoon to you, I am Paavo Cajander. I was reciting my poem that describes
+    the picture of my mother on the wall.\u201D\n\"He looks so solemn\", she thinks
+    out aloud, referring to the statue.\n\u201CYes. I was captured by my friend,
+    Alpo Sailo. We were very patriotic and fought for our native land together. It
+    was like that back then. Even art was harnessed to tell the story of the ideal,
+    the nation, of freedom. We were both born here, in H\xE4meenlinna, and that is
+    why my statue is located here.\u201D\nAnd Cajander goes on with his poem:\n\"For
+    hours and hours, I admire \r\nher picture; of it I will never tire.\u201D\n\"Art
+    always reflects its time,\u201D Jansson agrees."

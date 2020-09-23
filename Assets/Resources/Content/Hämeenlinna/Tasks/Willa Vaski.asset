@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a820a2ca58514144ab9f50b01a6196da, type: 3}
+  m_Name: Willa Vaski
+  m_EditorClassIdentifier: 
+  taskviewSprite: {fileID: 21300000, guid: e20df3e4dd3ed1442843f83712296da5, type: 3}
+  answers:
+  - anno 1861
+  - anno1861
+  isARTask: 0
+  fiTitle: Willa Vaski
+  fiText: "Willa Vaski on paikallista k\xE4sity\xF6t\xE4 myyv\xE4 putiikki. Lis\xE4ksi
+    sielt\xE4 l\xF6ytyy galleria, kahvila ja kaikille avoin pihapiiri, joka houkuttelee
+    k\xE4vij\xF6it\xE4. Mit\xE4 lukee Willa Vaskin sis\xE4\xE4nk\xE4ynnin oven yl\xE4puolella?"
+  enTitle: Willa Vaski
+  enText: Willa Vaski is a small shop, that is selling local handicrafts. There is
+    also gallery, coffee shop and a garden for everyone. What can you read above
+    the front door?

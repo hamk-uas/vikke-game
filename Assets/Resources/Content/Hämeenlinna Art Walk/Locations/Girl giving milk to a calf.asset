@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c09d8cd5454d694990f6bd9dc01d641, type: 3}
+  m_Name: Girl giving milk to a calf
+  m_EditorClassIdentifier: 
+  locationStorySprite: {fileID: 21300000, guid: 1116399f61feb634bbbff078a21188c9,
+    type: 3}
+  task: {fileID: 11400000, guid: c3e89d9b432fb0b458fa5944e33197c0, type: 2}
+  address: "Viipurintie 2, 13200 H\xE4meenlinna"
+  latitude: 60.998016
+  longitude: 24.474993
+  fiTitle: "Arkista \u2013 tokko taidetta?"
+  fiPlace: Vasikanjuottaja
+  fiText: "\u201DKatso, vasikanjuottaja\u201D, rouva Wegelius hihkaisi innostuneena
+    ja v\xE4hemm\xE4n rouvamaisena, \u201Dse on ollut t\xE4\xE4ll\xE4 jo kauan.\u201D\n\nTotta,
+    Viktor Jansson sanoi ja kertoi, ett\xE4 Vasikanjuottaja on H\xE4meenlinnan kaupungin
+    ensimm\xE4inen julkinen veistos. Teos tilattiin kuvanveist\xE4j\xE4 Aukusti Veurolta
+    vuonna 1946.\n\n\u201DEik\xF6 taiteen pit\xE4isi kuvata hienoja asioita ja ihmisi\xE4,
+    eik\xE4 tuollaista arkista asiaa?\u201D\n\n\u201DEi vain jompaa kumpaa. T\xE4m\xE4kin
+    veistos on kunnianosoitus maaseudun naisten ty\xF6lle erityisesti karjanhoidon
+    parissa. Eik\xF6 se teist\xE4 ole kunnianosoituksen arvoista?\u201D\n\n\u201DTotta,
+    olette oikeassa. Mutta miksi sitten ajatellaan, ett\xE4 taide on jotenkin vaikeata?
+    Ett\xE4 sit\xE4 pit\xE4\xE4 ymm\xE4rt\xE4\xE4. T\xE4m\xE4 on vasikanjuottaja,
+    ihminen ja vasikka, ei siin\xE4 ole ymm\xE4rt\xE4mist\xE4. Onko se silti taidetta?\u201D\n\n\u201DKyll\xE4.
+    Se on taiteilijan n\xE4kemys el\xE4imen ja ihmisen yhteydest\xE4, sen lis\xE4ksi
+    ett\xE4 se on kunnianosoitus. Taide on niin paljon, monenlaista, ja te voitte
+    olla siit\xE4 ihan sit\xE4 mielt\xE4 mit\xE4 olette. On se sitten juhlallista
+    tai arkista.\u201D"
+  enTitle: "It is so mundane \u2013 is it art?"
+  enPlace: Girl giving milk to a calf -statue
+  enText: "\"Look \u2013 A girl giving milk to a calf\", Mrs Wegelius called out
+    in excitedly, forgetting her ladylike manner: \"This has been here for a long
+    time.\"\n\nThat is right, Viktor Jansson said, adding that the statue A girl
+    giving milk to a calf was the first public work of art in the city. The sculpture
+    was commissioned from the sculptor, Aukusti Veuro, in 1946.\n\n\"Is art not about
+    portraying nice things and fine people, not something as mundane as that?\u201D\n\n\u201DNo,
+    not just that. This sculpture pays homage to rural women and their work, in particular
+    with cattle. Don\u2019t you think it is a cause worth an acknowledgement?\"\n\n\"Yes,
+    you are right. But why, then, do people think that art is complicated somehow?
+    That you have to understand it? Here, you can see a girl giving milk to a calf,
+    a girl and a calf, there is nothing to understand. Does it still count as art?\u201D\n\n\u201DYes.
+    It is the artist\u2019s view of the connection between humans and animals, in
+    addition to an acknowledgement. Art is so much, so many things, and you can think
+    whatever you like about it. Whether it is solemn or mundane.\u201D"

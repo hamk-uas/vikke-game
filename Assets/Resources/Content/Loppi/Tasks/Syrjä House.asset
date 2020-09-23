@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a820a2ca58514144ab9f50b01a6196da, type: 3}
+  m_Name: "Syrj\xE4 House"
+  m_EditorClassIdentifier: 
+  taskviewSprite: {fileID: 21300000, guid: 66d1f608c4513734b9191d4b1737c763, type: 3}
+  answers:
+  - Maija Stiina
+  isARTask: 0
+  fiTitle: "Syrj\xE4n talo"
+  fiText: "Kuka oli talon em\xE4nt\xE4 1800-luvun alkupuolella? Vinkki: h\xE4nen
+    mukaansa suunniteltiin Lopen kansallispuku."
+  enTitle: "Syrj\xE4 House"
+  enText: 'Who was the mistress of the house in the beginning of 19th century? Hint:
+    Loppi national dress was designed after her.'

@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56a04c58f8da67246b528c1b0a0e4f98, type: 3}
+  m_Name: "Hausj\xE4rvi"
+  m_EditorClassIdentifier: 
+  storytellingSprite: {fileID: 21300000, guid: e84d4ef2c38c8d1478cacd0d7a8f135b, type: 3}
+  locationMapSprite: {fileID: 21300000, guid: fd5954db4baee3f4786201342f423b25, type: 3}
+  locations:
+  - {fileID: 11400000, guid: 911a831e746aaf24282b2c01287f3b99, type: 2}
+  - {fileID: 11400000, guid: 351cc5fd87b886c4e8471428a2b8c25f, type: 2}
+  - {fileID: 11400000, guid: b8c42b01a17f24f42aa65c9ba6363539, type: 2}
+  fiTitle: "Tiedon jyvi\xE4"
+  fiDesc: "Hausj\xE4rvi"
+  fiIntroText: "Sirja Untamontyt\xE4r S\xE4is\xE4 l\xF6ydettiin mets\xE4st\xE4 harhailemasta
+    pirkkalaisten mets\xE4stysretken j\xE4lkeen. Pian talossa, jonka suojiin nuori
+    tytt\xF6 otettiin, havaittiin, ett\xE4 tytt\xF6 osasi k\xE4ytt\xE4\xE4 majavanhaustaa
+    taitavasti l\xE4\xE4kkeen\xE4. Tytt\xF6 osasi my\xF6s myyd\xE4 haustaa tarvitsijalle
+    hyv\xE4ll\xE4 hinnalla. H\xE4n rikastutti vaatimatonta torppaa, jonka suojiin
+    h\xE4net oli otettu ja vastasi hyv\xE4ll\xE4 hyv\xE4ntekij\xF6illeen. \t\r\n\r\nV\xE4hitellen
+    Sirja kasvoi aikuiseksi, piti osan taidoistaan vain omana tietonaan, vaikka menikin
+    naimisiin talon vanhimman pojan kanssa. H\xE4n kehittyi kuuluisaksi tiet\xE4j\xE4ksi
+    ja taitajaksi, ja talo vaurastui h\xE4nen ansiostaan.\t\r\nSirjalla oli monta
+    taitoa k\xE4siss\xE4\xE4n. H\xE4n osasi my\xF6s leipoa leip\xE4\xE4, jota parempaa
+    kulkijat eiv\xE4t koskaan olleet saaneet. H\xE4n opetti leiv\xE4n teon vain tytt\xE4rilleen
+    ja vannotti paljastamaan salaisuuden vain omille tytt\xE4rilleen. \r\n\r\nSirjalla
+    oli tiedon jyv\xE4, joka vaikutti pitk\xE4lle tulevaisuuteen\u2026\r"
+  fiOutroText: "\u201DViel\xE4k\xF6 Sirjan sukuisia l\xF6ytyy t\xE4\xE4lt\xE4?\u201D
+    Kysyi kulkija osuessaan S\xE4is\xE4n vanhaan taloon Hausj\xE4rvell\xE4.\r\n\u201DEik\xF6h\xE4n
+    lie kaikki t\xE4\xE4ll\xE4 samasta kanta\xE4idist\xE4\u201D, vastasi vanha nainen
+    tuvan tulisijan vierest\xE4, kiikkustuolista. \r\nSiin\xE4 h\xE4n istuu kuin
+    Niskavuoren Loviisa, selv\xE4sti talon vanha em\xE4nt\xE4, ajatteli mies ja laski
+    reppunsa lattialle. Tuvassa tuoksui tuore leip\xE4. Isot kakot oli peitetty leivinliinoilla.\r\n\u201DSaisikohan
+    sit\xE4 ev\xE4st\xE4 ostaa, olen mets\xE4\xE4n menossa, mutta ei sattunut kauppaa
+    matkan varrelle, ajattelin t\xE4\xE4lt\xE4 kysy\xE4.\u201D\r\nVanha em\xE4nt\xE4
+    kampesi itsens\xE4 pystyyn, otti ison vaalean kakon, ja k\xE4\xE4r\xE4isi sen
+    voipaperin sis\xE4\xE4n.\r\n\u201DKyll\xE4 kulkija aina leiv\xE4n saa, sellainen
+    on ollut talon tapa, aina Sirjan ajoista asti. Kaivolta sopii vett\xE4\r\nottaa.
+    Tai navetalta hakea pullo maitoa.\u201D\r\nMies oli n\xE4hnyt pihassa ison, vanhan
+    kivinavetan. H\xE4n kiitteli, t\xE4ytti pullonsa kaivolla ja k\xE4veli mets\xE4\xE4n.
+    M\xE4elle kiivetty\xE4\xE4n h\xE4n k\xE4\xE4ntyi katsomaan taakseen, vaan eip\xE4
+    ollut n\xE4k\xF6piiriss\xE4 yht\xE4\xE4n sellaista taloa, jossa h\xE4n oli k\xE4ynyt.
+    Leip\xE4 ja vesipullo kuitenkin repussa.\r"
+  enTitle: Crump of knowledge
+  enDesc: "Hausj\xE4rvi"
+  enIntroText: "Sirja S\xE4is\xE4, daughter of Untamo, was found wandering in the
+    forest after a hunting trip by the Birka people. Soon, the people who had given
+    shelter to the young girl discovered that she used beaver castoreum for medication
+    skilfully. She also knew how to sell castoreum to those who needed it and how
+    to make a nice profit. She paid it forward and helped the modest house to become
+    wealthy. \t\r\nSirja grew up, keeping some of her skills only to herself, even
+    when she married the oldest son of the house. She became a renowned seer and
+    healer, helping the house become affluent.\t\r\nSirja had skilful hands. Her
+    bread tasted better than anything that the people passing by had ever tasted.
+    She only taught her own daughters how to bake the bread, making them pledge they
+    would only share the secret with their own daughters. \r\n\r\nSirja held a crumb
+    of knowledge that had long-term impact...\r"
+  enOutroText: "\u201CAre there still Sirja\u2019s relatives here?\u201D a traveller
+    asked when visiting the old S\xE4is\xE4 house in Hausj\xE4rvi.\r\n\"I figure
+    we all have the same ancestress\", answered the lady who was sitting in a rocking
+    chair next to the fireplace. \r\nShe is a real matron, sitting there, clearly
+    a widow who once used to run the house, the man thought and put his rucksack
+    on the floor. The smell of freshly baked bread was wafting into the room, and
+    big loaves had been covered with tea towels.\r\n\u201CIs it possible to buy something
+    to eat? I am headed to the forest, but there were no shops on the way, so I thought
+    I would ask you\u201D.\r\nThe matron stood up, grabbed a big loaf of bread and
+    wrapped it inside greaseproof paper.\r\n\"A traveller is always given a loaf
+    at this house, that is how we have done it from Sirja\u2019s days. You can take
+    water from the well.\r\nOr a bottle of milk from the cowshed.\u201D\r\nOutside,
+    the man had seen a big, old cowshed that was built of stone. He said his thanks,
+    filled his bottle at the well and walked into the forest. After climbing up the
+    hill, he turned to look back. But he could no longer see the house he had visited.
+    The bread and the bottle of water were still in his rucksack, though.\r"

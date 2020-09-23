@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a820a2ca58514144ab9f50b01a6196da, type: 3}
+  m_Name: Vanaja Church
+  m_EditorClassIdentifier: 
+  taskviewSprite: {fileID: 21300000, guid: 466a35d048bac9a469a5cfe4be2d68d9, type: 3}
+  answers:
+  - alttarikaappi
+  - altar cabinet
+  isARTask: 0
+  fiTitle: Vanajan kirkko
+  fiText: "Olen yli 500 vuotias. Sis\xE4ll\xE4n kristuksen syntym\xE4- ja k\xE4rsimyshistoriaa.
+    Sit\xE4 kuvataan yli 100 hahmon avulla, jotka kaikki eiv\xE4t omaa kasvoja. Mik\xE4
+    min\xE4 olen?"
+  enTitle: Vanaja Church
+  enText: "I\u2019m over 500 years old. I\u2019m telling the story of birth and sufferings
+    of the Christ. It is illustrated with over 100 figures. What I am?"

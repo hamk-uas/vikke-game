@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a820a2ca58514144ab9f50b01a6196da, type: 3}
+  m_Name: "Laurinm\xE4ki (Calming love)"
+  m_EditorClassIdentifier: 
+  taskviewSprite: {fileID: 21300000, guid: f3b32392673766b439abf176f7707d25, type: 3}
+  answers:
+  - 5
+  - viisi
+  - five
+  isARTask: 0
+  fiTitle: Rauhoittavaa rakkautta
+  fiText: "Laurinm\xE4en juoksuhaudat olivat k\xE4yt\xF6ss\xE4 Tarinmaan taistelussa
+    punaisten ja saksalaisten v\xE4lill\xE4 1918. Juhani piileskeli juoksuhaudassa
+    l\xE4hell\xE4 nykyp\xE4iv\xE4n Tarinmaan taistelun muistomerkki\xE4. Kuinka monta
+    liekki\xE4 on kuvattuna muistomerkiss\xE4?"
+  enTitle: Calming love
+  enText: "Laurinm\xE4ki trenches here were used in Tarinmaa battle in 1918 between
+    German and Finnish Red soldiers. Juhani was hiding at the trenches close to the
+    memorial stone of Tarinmaa battle. How many flame shapes are there on the memorial?"

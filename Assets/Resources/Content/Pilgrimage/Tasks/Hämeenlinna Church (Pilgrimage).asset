@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a820a2ca58514144ab9f50b01a6196da, type: 3}
+  m_Name: "H\xE4meenlinna Church (Pilgrimage)"
+  m_EditorClassIdentifier: 
+  taskviewSprite: {fileID: 21300000, guid: 828ba43b331980d42bb2cd118d599919, type: 3}
+  answers:
+  - 6
+  - kuusi
+  - six
+  isARTask: 0
+  fiTitle: 
+  fiText: "Kirkon p\xE4\xE4ovelle johtavat portaat. Voit pys\xE4hty\xE4 konkreettisesti
+    tai mieless\xE4si jokaisella portaalla ja pohtia, mit\xE4 kohden sin\xE4 el\xE4m\xE4ss\xE4si
+    haluat vaeltaa. Montako porrasta p\xE4\xE4oven edess\xE4 on? (vinkki: vastaa
+    numerolla)"
+  enTitle: "H\xE4meenlinna Church"
+  enText: 'There are stairs leading to the main door of the church. You can stop
+    in concrete or in your mind at each step and ponder what you want to do in your
+    life. How many stairs are in front of the main door? (hint: answer only by number)'

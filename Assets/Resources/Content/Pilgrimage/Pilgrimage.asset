@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56a04c58f8da67246b528c1b0a0e4f98, type: 3}
+  m_Name: Pilgrimage
+  m_EditorClassIdentifier: 
+  storytellingSprite: {fileID: 21300000, guid: a76a4a0f8f3c53d48b73f50564f55351, type: 3}
+  locationMapSprite: {fileID: 21300000, guid: fd8fdd9588935414b8b929eeaadbdf62, type: 3}
+  locations:
+  - {fileID: 11400000, guid: 81a7920bcc14d95499eeef12ec6b3678, type: 2}
+  - {fileID: 11400000, guid: 169b470f4a5e6fd419f0181a20c41e5b, type: 2}
+  - {fileID: 11400000, guid: d9aaa079b0b1d184e839a093e3f8422c, type: 2}
+  - {fileID: 11400000, guid: dc3479721cb3a0445a4902565d7cfcc7, type: 2}
+  - {fileID: 11400000, guid: 0cd023d2aa69d2c459af82719cdc3c25, type: 2}
+  - {fileID: 11400000, guid: 6d9417b1f101e3342a75d3b7e5af351d, type: 2}
+  - {fileID: 11400000, guid: 7d7f24879d2f83842b5f61b7fbd9c2f6, type: 2}
+  - {fileID: 11400000, guid: 0dd0b374e25eda74789c221600b5bbcb, type: 2}
+  fiTitle: Oliver ja aarre
+  fiDesc: Pyhiinvaellus
+  fiIntroText: "Nuori mies Oliver Kossler on saapunut kaukaa Suomeen. H\xE4n on kulkenut
+    pitki\xE4 matkoja ja tullut v\xE4hitellen kohti pohjoista. Matkalla kulkijoilta
+    h\xE4n on kuullut tarua, ett\xE4 pohjoisesta voisi l\xF6yt\xE4\xE4 aarteen. 
+    \r\n\r\nH\xE4n on kuunnellut salaa kahta kulkijaa, jotka puhuvat aarteesta, jonka
+    l\xF6yt\xE4\xE4 vaeltamalla pyh\xE4st\xE4 paikasta toiseen ja ker\xE4\xE4m\xE4ll\xE4
+    tietoa paikan p\xE4\xE4ll\xE4. \r\n\r\nY\xF6n tullen Oliver varastaa kulkijoilta
+    listan paikoista, joissa h\xE4nen pit\xE4isi k\xE4yd\xE4. Oliver kohtaa yll\xE4tyksekseen
+    paljon pyhiinvaeltajia samoilla reiteill\xE4 ja alkaa v\xE4hitellen mietti\xE4,
+    ett\xE4 mit\xE4 jos kysymys ei olekaan mist\xE4\xE4n maallisesta aarteesta. H\xE4n
+    tuntee itsens\xE4 huijatuksi, mutta jatkaa sitke\xE4sti ja kuuntelee joka paikassa
+    kerrottavia tarinoita tarkasti. \r\n\r\nToiset tarinat viev\xE4t h\xE4net kauas
+    ajassa taaksep\xE4in, ja h\xE4n saa paljon ajateltavaa jokaisesta tarinasta.
+    Monet kohtalot koskettavat h\xE4nt\xE4. \r\n\r\nJoidenkin mielest\xE4 h\xE4n
+    ei ole oikea pyhiinvaeltaja, joidenkin mielest\xE4 h\xE4n on vasta matkansa alussa.
+    Mutta sitke\xE4sti h\xE4n jatkaa eteenp\xE4in ja suorittaa h\xE4nelle annettuja
+    teht\xE4vi\xE4.\r"
+  fiOutroText: "Lopulta Oliver on kulkenut koko listansa loppuun. H\xE4n on kuullut
+    ja n\xE4hnyt paljon, ja h\xE4n tajuaa, ett\xE4 en\xE4\xE4 ei ole tarvetta kulkea
+    eteenp\xE4in. On vain tarve pys\xE4hty\xE4, olla hiljaa ja ajatella. Ei ole kiire
+    en\xE4\xE4 minnek\xE4\xE4n, voi olla juuri siin\xE4 miss\xE4 on, kaikessa rauhassa
+    t\xE4ss\xE4 ja nyt. Kauneuden ja pyhyyden keskell\xE4. \r\nVanha mies l\xE4hestyy
+    Oliveria sen n\xE4k\xF6isen\xE4, ett\xE4 h\xE4nell\xE4 on jotain sanottavaa tai
+    kysytt\xE4v\xE4\xE4.\r\n\u201DSin\xE4 olet sitten l\xF6yt\xE4nyt sen. Aarteesi.\u201D\r\nOliver
+    katsoo miest\xE4 tarkemmin ja tajuaa punastuen, ett\xE4 t\xE4m\xE4 oli toinen
+    niist\xE4 miehist\xE4, joilta h\xE4n varasti listan k\xE4yt\xE4vist\xE4 paikoista.\r\n\u201DEi,
+    en\u201D, kielt\xE4\xE4 Oliver.\r\n\u201DMietip\xE4 uudelleen\u201D, mies sanoo
+    ja istuu kaikessa rauhassa Oliverin viereen.\r\nOliver miettii ja tulee yht\xE4kki\xE4
+    ajatelleeksi, ett\xE4 t\xE4m\xE4k\xF6 oli kaiken tarkoitus. \r\n\u201DOlet oikeassa\u201D,
+    mies sanoi, \u201Dme n\xE4imme, ett\xE4 kaipaat rauhaa, ja sen l\xF6ysit. Todellisen
+    aarteen, nauti siit\xE4 nyt rauhassa. Ja anna lista seuraavalle sit\xE4 tarvitsevalle
+    parhaalla katsomallasi tavalla. \u201D\r"
+  enTitle: Oliver and the treasure
+  enDesc: Pilgrimage
+  enIntroText: "Oliver Kossler, a young man, has travelled to Finland from afar.
+    He has walked long distances gradually towards the north. On his travels, he
+    has heard stories about a treasure hidden in the north.  \r\nHe has eavesdropped
+    on two travellers who were talking about a treasure that you can find if you
+    go from one holy place to the next collecting information on the way. \r\n\r\nAs
+    the night falls, Oliver steals a list of the destinations from the two travellers.
+    He is surprised to find many other pilgrims travelling the same route and, gradually,
+    he begins to wonder whether there is a worldly treasure at all. He feels cheated
+    but keeps on going and carefully listens to all the stories he hears. \r\n\r\nSome
+    stories take him far back in time, and there is great food for thought in them
+    all. Many destinations touch him. \r\n\r\nSome people think he is not a real
+    pilgrim, others see him as just starting his journey. But he goes on, persistently,
+    and completes the tasks given to him.\r\t"
+  enOutroText: "Finally, Oliver has visited all the destinations on his list. He
+    has seen and heard so much, and he realises that he no longer feels the urge
+    to keep travelling. He just wants to stop, be quiet and think. He is in no hurry
+    to go anywhere, he can rest where he is, take his time, to be here and now, among
+    the beauty and sacredness. \r\nOliver is approached by an old man who looks like
+    he has something to say or ask.\r\n\"I guess you've found it, then. Your treasure.\u201D\r\nOliver
+    takes a closer look at the man and realises, blushing, that he is one of the
+    two men from whom he stole the list of the destinations.\r\n\"No, I did not\",
+    Oliver denies.\r\n\"Think again\", the man says and calmly takes a seat beside
+    Oliver.\r\nOliver thinks and suddenly comes to realise that maybe this was the
+    purpose of it all. \r\n\"You are right\", the man says: \"We saw you yearning
+    for peace, and that is what you found. A true treasure. Now take your time and
+    relish it. Then, give the list to someone else who needs it, whatever way you
+    think best.\u201D\r"

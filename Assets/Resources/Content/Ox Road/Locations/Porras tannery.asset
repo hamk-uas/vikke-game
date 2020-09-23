@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c09d8cd5454d694990f6bd9dc01d641, type: 3}
+  m_Name: Porras tannery
+  m_EditorClassIdentifier: 
+  locationStorySprite: {fileID: 21300000, guid: b7f626d174733fd4eb7d1fb444b71be6,
+    type: 3}
+  task: {fileID: 11400000, guid: 83027435a7a89184894f1b652738f1aa, type: 2}
+  address: Kappelintie 26, 31340 Porras
+  latitude: 60.753986
+  longitude: 23.915874
+  fiTitle: "Leski kaupan p\xE4\xE4lle"
+  fiPlace: Portaan nahkurinverstas
+  fiText: "Nahkurimestari M\xE5rd myh\xE4ili tyytyv\xE4isen\xE4 uudella verstaallaan
+    Portaan kyl\xE4ss\xE4 1879.\r\n\r\nViel\xE4 joitain vuosia sitten h\xE4n oli
+    raatanut Turussa kis\xE4llin\xE4 kurjalla palkalla. Onnekseen h\xE4n oli kuullut,
+    ett\xE4 Forssassa nahkuri Pakkasen leski Ida etsi uutta mestaria liikkeeseens\xE4.
+    Vaikka samalla oli naitava leski, h\xE4n oli p\xE4\xE4tt\xE4nyt tarttua tilaisuuteen:
+    vauraampi el\xE4m\xE4 odotti, h\xE4n oli p\xE4tev\xE4 ty\xF6h\xF6n ja leskikin
+    oli h\xE4nt\xE4 vain kymmenisen vuotta vanhempi.\r\n\r\nP\xE4\xE4t\xF6st\xE4
+    ei ollut tarvinnut katua. Liike ty\xF6llisti yli 10 miest\xE4 ja tuotti hyvin,
+    ja h\xE4n oli p\xE4\xE4ssyt arvostetun herrasv\xE4en joukkoon.\r\n\r\nNyt oli
+    valmistunut sivuliike Portaaseen. Sijainti oli erinomainen: vett\xE4 saatiin
+    Turpoonjoesta ja kyl\xE4n l\xE4vitse kulki vilkas H\xE4meen H\xE4rk\xE4tie. Ty\xF6v\xE4ke\xE4,
+    parkkia ja raakavuotia oli hyvin saatavilla ja ty\xF6t\xE4 johtamassa luotettava
+    mies.\r\n\r\nM\xE5rd oli ylpe\xE4 siit\xE4, kuinka moderni Portaan liikkeest\xE4
+    oli tullut. Uudenaikaisen lokomobiilin avulla k\xE4ytettiin useita tehokkaita
+    laitteita, kuten pohjanahkamankelia ja lasituskonetta.\r"
+  enTitle: Widow was a part of the deal
+  enPlace: Porras tannery
+  enText: "Master tanner M\xE5rd was feeling good at his new tannery in the village
+    of Porras in 1879.\r\n\r\nJust a few years before, he had been toiling away in
+    Turku as a journeyman with poor pay. Luckily, he had heard that Ida, the widow
+    of master tanner Pakkanen, was looking for a new master for the shop. Even though
+    the deal meant that he also had to marry the widow, he had taken his chances:
+    more affluent life was waiting for him, he was skilled for the job, and the widow
+    was only about ten years his senior.\r\n\r\nHe did not have to regret his decision.
+    There were more than 10 men employed at the tannery and it was very profitable,
+    and he had become a distinguished member of the gentlefolk.\r\n\r\nHe had just
+    completed a second tannery in the village of Porras. It was a great location,
+    there was access to water from the Turpoonjoki river, and the busy Ox Road of
+    Tavastia runs through it. Labour force, tan and hides were all readily available
+    and a reliable man was leading the work.\r\n\r\nM\xE5rd took pride in the modern
+    tannery in Porras. Several machines were powered by a modern portable engine,
+    the sole leather rolling and polishing machines among them.\r"

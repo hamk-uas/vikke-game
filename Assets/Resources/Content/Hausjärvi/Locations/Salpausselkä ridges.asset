@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c09d8cd5454d694990f6bd9dc01d641, type: 3}
+  m_Name: "Salpausselk\xE4 ridges"
+  m_EditorClassIdentifier: 
+  locationStorySprite: {fileID: 21300000, guid: 505c8e40ebd8a4e42a5ffb789a0b4427,
+    type: 3}
+  task: {fileID: 11400000, guid: 9ec1b36d08f7ede48b8b4b4907c6d26a, type: 2}
+  address: "13811 1250-1244, 12240 HAUSJ\xC4RVI"
+  latitude: 60.742085
+  longitude: 24.946209
+  fiTitle: "N\xE4ill\xE4 sijoilla kulki kivikauden ihminen"
+  fiPlace: "Salpausselk\xE4"
+  fiText: "Paljon, paljon ennen Sirjan aikaa, kun maan peitt\xE4nyt j\xE4\xE4 alkoi
+    sulaa, syntyi kolmas Salpausselk\xE4. J\xE4\xE4 suli niin hitaasti, ettei sit\xE4
+    ihmissilmin olisi voinut havaita, v\xE4lill\xE4 sulaminen pys\xE4htyikin sadoiksi
+    vuosiksi. Mutta kun j\xE4\xE4 lopulta oli poissa, olivat Salpaussel\xE4t syntyneet
+    upeine pohjoispuolen jyrkkine sein\xE4mineen, korkeine m\xE4kineen ja jo silloin
+    luotiin pohja Sirja Untamontyt\xE4r S\xE4is\xE4nkin ty\xF6lle. \r\n\r\nSulaessaan
+    j\xE4\xE4 j\xE4tti Salpaussel\xE4n etel\xE4puolelle paksun, ravinteikkaan savikerroksen.
+    Se mahdollisti tulevaisuudessa hyv\xE4t viljamaat, hyv\xE4t laidunmaat.  \r\n\r\nMutta
+    ennen h\xE4m\xE4l\xE4iskylien synty\xE4, ennen viljelysmaiden ja laitumien raivausta
+    asui n\xE4ill\xE4 sijoilla jo kivikauden ihminen. H\xE4nkin j\xE4tti j\xE4lkens\xE4
+    ja merkkins\xE4 asuinsijoistaan l\xF6ydett\xE4v\xE4ksi, h\xE4nkin kertoi jo osan
+    tarinaansa. Vuosisatojen saatossa rakensivat h\xE4m\xE4l\xE4iset sitten kyl\xE4ns\xE4,
+    raivasivat tilansa ja heid\xE4n tarinastaan me n\xE4emme viel\xE4 paljon merkkej\xE4
+    ymp\xE4rill\xE4mme.\r"
+  enTitle: Where the Stone Age man once wandered
+  enPlace: "The Salpausselk\xE4 ridges"
+  enText: "A long, long time before Sirja, when the ice that had covered the earth
+    began to thaw, the third Salpausselk\xE4 Ridge came to be. The ice thawed so
+    slowly that it was impossible to see with human eyes, and every now and then,
+    the thawing stopped for centuries. But by the time the ice was all gone, the
+    Salpausselk\xE4 ridges stood there, with their magnificent cliffs on the north
+    side and their high hills. This was when the grounds for the work of Sirja S\xE4is\xE4,
+    daughter of Untamo, was created, too. \r\n\r\nAs the ice thawed, a thick, nutritious
+    layer of clay remained on the south side of the Salpausselk\xE4 ridges. In the
+    future, this would become fertile farming and pasture land.  \r\n\r\nBut before
+    the villages of H\xE4me were built and fields and pastures cleared, these areas
+    were inhabited by the Stone Age people. They, too, made their mark and left traces
+    of their settlements waiting to be discovered. They, too, had stories to tell.
+    After that, the Tavastia people built their villages over the course of centuries,
+    clearing land for their farms, and their story has left many marks that we can
+    still see around us today.\r"

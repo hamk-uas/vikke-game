@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c09d8cd5454d694990f6bd9dc01d641, type: 3}
+  m_Name: Sibelius Park
+  m_EditorClassIdentifier: 
+  locationStorySprite: {fileID: 21300000, guid: 1be4e42d3dc948847b4e145629f3b4a3,
+    type: 3}
+  task: {fileID: 11400000, guid: 1ab7f63aa73ad88488262633a6c487d4, type: 2}
+  address: "Birger Jaarlin katu 15, 13100 H\xE4meenlinna"
+  latitude: 60.99813
+  longitude: 24.463846
+  fiTitle: Yhteinen kieli
+  fiPlace: Sibeliuksenpuisto
+  fiText: "Nuori Jean Sibelius seuraa tarkasti Sibelius-puiston tapahtumia. Onhan
+    h\xE4n siell\xE4 n\xE4k\xF6alapaikalla. \r\n\u201DAhaa, nyt tulee nuori pari.
+    He istuvat l\xE4helle pihlajaa. Min\xE4p\xE4 soitan heille puusarjastani Kun
+    pihlaja kukkii. Ehk\xE4 he eiv\xE4t tied\xE4 mik\xE4 puista on pihlaja, laitetaanpa
+    sinne hiukan valoa.\u201D\r\nSibelius on tyytyv\xE4inen. Nuoren parin kasvoille
+    levi\xE4\xE4 ensin h\xE4mmennys, sitten he kuuntelevat aivan hiljaa ja paikoillaan.
+    Kun musiikki loppuu, n\xE4kyy kasvoilta musiikin vaikutus. Se on enemm\xE4n kuin
+    iloa. Jokin on koskettanut sielua. \r\n\r\nNuoret pohtivat mihin seuraavaksi.
+    H\xE4n viittoo kuuntelemaan Kuusen hitaan valssin. Innoissaan he k\xE4yv\xE4t
+    kaikilla soivilla penkeill\xE4 ja Sibelius loihtii viel\xE4 musiikkia yksin\xE4isest\xE4
+    hongasta sek\xE4 haavasta ja koivusta.\r\n\r\nKun nuoripari pys\xE4htyy Sibeliuksen
+    patsaan eteen, h\xE4n huomaa heid\xE4n olevan jostain kaukaa, puhuvan vierasta
+    kielt\xE4. Mutta musiikilla on yhteinen kieli. Musiikki koskettaa ja kosketus
+    tuntuu kauan. \r\n\r\nSibelius on tyytyv\xE4inen. H\xE4n on tehnyt teht\xE4v\xE4ns\xE4;
+    luonut musiikkia, joka koskettaa i\xE4st\xE4 ja kansallisuudesta riippumatta.\r"
+  enTitle: Common language
+  enPlace: Sibelius Park
+  enText: "Young Jean Sibelius is closely watching what is happening at the Sibelius
+    Park. He does have a vantage point over there. \r\n\"Ah, a young couple arrives.
+    They are sitting near the rowan tree. I will play from my tree series, When the
+    Rowan Blossoms. Maybe they are not sure which one of the trees is the rowan,
+    let us add some light.\u201D\r\nSibelius is pleased. The faces of the young couple
+    are first lit with surprise, as they start to listen, completely quiet and still.
+    When the music ends, you can read its effects on their faces. It is more than
+    joy. Something has touched their soul. \r\n\r\nThe two youngsters wonder what
+    is up next. He signals them to listen to Spruce, a slow waltz. They are delighted
+    and try all the musical benches, where Sibelius continues to conjure up music
+    of the lonely pine tree, the aspen and the birch.\r\n\r\nAs the couple stops
+    by Sibelius\u2019s statue, he realises that they are not from around here and
+    speak a foreign language. But music is a language we all share; it can touch
+    us and make lasting impressions. \r\n\r\nSibelius is pleased. He has done his
+    job, written music that touches people regardless of age and nationality.\r"

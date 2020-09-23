@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c09d8cd5454d694990f6bd9dc01d641, type: 3}
+  m_Name: Hunting Museum of Finland
+  m_EditorClassIdentifier: 
+  locationStorySprite: {fileID: 21300000, guid: 915c7b1b6fbae7b4ab04b439c3591fa0,
+    type: 3}
+  task: {fileID: 11400000, guid: 4bd888778d3854743a94b2c410a4036d, type: 2}
+  address: "Tehtaankatu 23 A, 11910 Riihim\xE4ki"
+  latitude: 60.731117
+  longitude: 24.736956
+  fiTitle: "Silm\xE4kenevan pyyt\xE4j\xE4t"
+  fiPlace: "Suomen Mets\xE4stysmuseo"
+  fiText: "4 800 eKr.\r\nJ\xE4rven saaresta, lehtev\xE4lt\xE4 kummulta nousi viel\xE4
+    ohut savukiehkura. Tulipaikan ymp\xE4ryst\xE4 oli t\xE4ynn\xE4 nuolenk\xE4rkien
+    teosta j\xE4\xE4nytt\xE4 kivensirua. Yhden saviruukun poltto oli ep\xE4onnistunut,
+    ja lihaa keitt\xE4ess\xE4 se halkesi. Se harmitti viel\xE4kin miest\xE4, jonka
+    haapio et\xE4\xE4ntyi jo kohti jokisuuta. Yl\xE4virralta p\xE4in majavat ja hirvet
+    l\xF6ytyisiv\xE4t.\r\n\n1450 jKr.\r\nKova ty\xF6 oli ollut hirven paloittelussa
+    ja kantamisessa vetiselt\xE4 suolta saarekkeeseen. Piti oikaista taljan p\xE4\xE4lle
+    palvauksen ajaksi. Sy\xF6ty\xE4\xE4n tuhkassa haudutetusta reisiluusta ytimen
+    h\xE4n vanhan tavan mukaan hakkasi luun pieniksi paloiksi. Eip\xE4h\xE4n kateelliset
+    kyl\xE4l\xE4iset p\xE4\xE4sisi tekem\xE4\xE4n taikojaan.\r\n\n2018 jKr.\r\nOjitetun
+    nevan puusto on toivottoman sakeaa. Onneksi sen keskell\xE4 seisovan kumpareen
+    halkaisee raivattu kaasulinja. T\xE4m\xE4 oli takavuosina, ennen moottoritien
+    aitaa, kuuma passipaikka. Mutta on nytkin j\xE4lki\xE4: ihan vieress\xE4 kuoreton
+    m\xE4nnyntaimi, joka on sarvinahkojen hankaamisesta katkennut. VHF:n korvanappi
+    kohahtaa, koira on laskettu irti.\r"
+  enTitle: "Silm\xE4keneva hunters"
+  enPlace: The Hunting Museum of Finland
+  enText: "4800 BC\r\nA thin spiral of smoke was still visible, rising from the lush
+    hill on the island in the middle of the lake. The hearth was surrounded by stone
+    chips from the arrowheads that had been made there. One of the clay pots had
+    not been properly treated by firing, and it had cracked when the meat was stewing.
+    This still bothered the man whose aspen dugout was gliding towards the mouth
+    of the river. The beavers and elk were waiting for him upriver.\r\n\n1450 AD\r\nCutting
+    up the elk and carrying it from the wet bog to the patch of land had been hard
+    work. He had to lie down on the hide while the meat was smoking. After eating
+    the marrow of the thigh bone stewed under the ashes, he smashed the bone into
+    small pieces following tradition. This way, villagers troubled by envy could
+    not cast their spells.\r\n\n2018 AD\r\nTrees are growing hopelessly thick on
+    the drained bog. Luckily, a cleared gas distribution line goes through a small
+    hill in the middle. In the past, before the motorway fence was built, this was
+    a great watching spot. You can still see animal traces: a small pine tree without
+    bark and snapped after an elk rubbed off its antler velvet against it. There
+    is a crackle on the VHS earbud: the dog has been set free.\r"

@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c09d8cd5454d694990f6bd9dc01d641, type: 3}
+  m_Name: Hattula Parish (Pilgrimage)
+  m_EditorClassIdentifier: 
+  locationStorySprite: {fileID: 21300000, guid: a0a6ebae982867647adf09c8f48020b8,
+    type: 3}
+  task: {fileID: 11400000, guid: 5b6e2993b8b0d7d439bbaa076486168c, type: 2}
+  address: Kirkkotie 29, 13880 Hattula
+  latitude: 61.06792
+  longitude: 24.39024
+  fiTitle: Kirkonrakentajain tarjouskilpa
+  fiPlace: Hattulan uusi kirkko
+  fiText: "Oli joulunalusaika 1851. Erik istui Mierolan kestikievarissa. Matka Tampereelta
+    painoi, j\xE4nnittikin. Tarjousta oli tarkkaan laskenut ja 5 690 hopearuplaa
+    kirkon rakentamisesta olisi sopuhinta. Hyvin j\xE4isi h\xE4nellekin, kunhan vaan
+    saisi urakan.\r\n\r\nKymmenen vuotta oli Suomen suuriruhtinaskunnan senaatin
+    p\xE4\xE4t\xF6ksest\xE4, jonka mukaan uusi kivikirkko oli rakennettava Rahkoilan
+    m\xE4elle. Tontin oli Herrastuomari E. Puontila lahjoittanut ehdolla, ett\xE4
+    h\xE4net vapautettaisiin p\xE4iv\xE4t\xF6ist\xE4 kirkon rakentamisessa. Kirkon
+    piirustukset oli tilattu Grandstedtilta.\r\nMuutaman vuoden odotuksen j\xE4lkeen
+    lehdest\xE4 luettiin miehen kuolleen. Piirustukset oli lopulta saanut valmiiksi
+    intendentti E.B. Lohrmann. Seudulla oli vastustusta rakentamiseen liittyen. Erik
+    uskoi kaikkien olevan tyytyv\xE4isi\xE4, kunhan ylv\xE4s kirkko valmistuisi.\r\n\r\nRakennusty\xF6n
+    urakkahuutokauppa saatiin p\xE4\xE4t\xF6kseen. Erik valittiin. Hieman miest\xE4
+    harmitti, ett\xE4 paikkakunnalla h\xE4nt\xE4 ei tunnettu ja takaajistakin her\xE4si
+    ep\xE4ilyksi\xE4. Erik kuitenkin uskoi, ett\xE4 asiat j\xE4rjestyv\xE4t ja ty\xF6t
+    p\xE4\xE4st\xE4\xE4n aloittamaan heti ensi vuonna.\r"
+  enTitle: Competitive tendering for church builders
+  enPlace: Hattula Parish
+  enText: 'It was just before Christmas in 1851. Erik was sitting at the inn in Mierola.
+    He was weary after travelling from Tampere, and anxious. His bid had been carefully
+    calculated, and 5,690 silver roubles would be a fair price for building the church.
+    He would get some too, if he just got the deal.
+
+
+    Ten years had passed since
+    the decision issued by the Senate of the Grand Duchy of Finland: a new stone
+    church shall be built on Rahkoila Hill. The plot had been donated by Senior Lay
+    Judge E. Puontila on the condition that he would be exempted from day work in
+    the church building project. The design had been commissioned to Grandstedt.
+
+
+    After
+    waiting for a few years, the news of his death was reported in the newspaper.
+    The plans were finally completed by Intendant, E. B. Lohrmann. Some of the local
+    people were against the building project. Erik thought everyone would be happy
+    once the majestic church was completed.
+
+
+    The bidding on the construction
+    project had been completed. Eric was selected. He was slightly irritated, because
+    no-one knew him around here, and suspicions had arisen of his guarantors. Still,
+    Erik believed that everything would fall into place, and he could start work
+    next year.'

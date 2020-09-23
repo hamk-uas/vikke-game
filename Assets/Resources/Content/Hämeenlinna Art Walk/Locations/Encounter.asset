@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c09d8cd5454d694990f6bd9dc01d641, type: 3}
+  m_Name: Encounter
+  m_EditorClassIdentifier: 
+  locationStorySprite: {fileID: 21300000, guid: 6301eeae764af5744b38293399fcea37,
+    type: 3}
+  task: {fileID: 11400000, guid: 94489e9de647a664fbaaaef7f1691b88, type: 2}
+  address: "Raatihuoneenkatu 25-27, 13100 H\xE4meenlinna"
+  latitude: 60.995274
+  longitude: 24.461079
+  fiTitle: Kohtaaminen
+  fiPlace: Kohtaaminen
+  fiText: "Jansson ja Wegelius tulevat aikakaudelta, jossa taide oli mallinsa n\xE4k\xF6ist\xE4.
+    Kohtaaminen on Pertti Kukkosen ty\xF6 vuodelta 2004.\n\n\u201DT\xE4m\xE4k\xF6
+    taidetta?\u201D Elli kysyy ep\xE4illen. Mutta Jansson ei ole kiinni ajassa eik\xE4
+    n\xE4k\xF6isyydess\xE4.\n\n\u201DSen nimi on Kohtaaminen. Toisiaan vasten nojautuvat
+    kappaleet, hitaasti nousevat vedet, jotka hetkeksi yhtyv\xE4t. Ymm\xE4rr\xE4ttek\xF6?
+    Siin\xE4 on suuria ajatuksia. Ei se ole vain sit\xE4, mit\xE4 n\xE4emme. Se on
+    my\xF6s sit\xE4, mit\xE4 se kuvaa, ajatuksia, tunteita, mielen liikkeit\xE4.
+    Se voi olla teille eri asioita kuin minulle, eik\xE4 siin\xE4 ole olemassa oikeaa
+    tai v\xE4\xE4r\xE4\xE4.\u201D\n\nJanssonin sanoja ei ole helppoa ymm\xE4rt\xE4\xE4.\n\n\u201DPit\xE4\xE4k\xF6
+    sen tuntua? Pit\xE4\xE4k\xF6 siit\xE4 her\xE4t\xE4 ajatus?\u201D\n\n\u201DEik\xF6
+    se ole taiteen tarkoitus? Her\xE4tt\xE4\xE4 tunteita ja ajatuksia? Mit\xE4 muu
+    voisi olla taiteen merkitys?\n\nKohtaaminen.\u201D\n\n\u201DT\xE4m\xE4 oli t\xE4rke\xE4
+    kohtaaminen. Sen ajatuksen se minulle her\xE4tti\u201D, rouva Wegelius sanoo
+    ja katsoo vahvoja paaseja viel\xE4 kerran."
+  enTitle: Encounter
+  enPlace: Encounter
+  enText: "Mr Jansson and Mrs Wegelius come from a time when the purpose of art was
+    to reflect its model. Encounter is a work by Pertti Kukkonen from 2004. \r\n\r\n\u201CThis
+    \u2013 art?\u201D Elli says, hesitantly. But Jansson is not attached to time
+    or resemblance. \r\n\r\n\"It is called Encounter. These elements, leaning towards
+    each other, the slowly rising waters that briefly join into one. Do you understand?
+    It contains big ideas. It is not merely what we see. It is also what it depicts:
+    thoughts, emotions, states of mind. Different things for me and you, perhaps,
+    but there is no right or wrong.\u201D \r\n\r\nJansson's words are not easy to
+    comprehend.\n\n\"Am I supposed to feel it? Should it provoke thoughts?\u201D\n\n\u201CIs
+    that not the meaning of art? To provoke feelings and ideas? What else could be
+    the meaning of art?\n\nEncounter.\"\n\n\"This was an important encounter. That
+    was the idea that was provoked in me,\u201D Mrs Wegelius says and turns her eyes
+    to the mighty rock slabs one more time."

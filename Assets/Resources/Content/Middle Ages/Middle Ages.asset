@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56a04c58f8da67246b528c1b0a0e4f98, type: 3}
+  m_Name: Middle Ages
+  m_EditorClassIdentifier: 
+  storytellingSprite: {fileID: 21300000, guid: 6ce8c70f0cf6ac04e857c2a346585ec4, type: 3}
+  locationMapSprite: {fileID: 21300000, guid: b02d58781a39fed4fb263bae07ac136a, type: 3}
+  locations:
+  - {fileID: 11400000, guid: 254596b734583b347878fc47095f2706, type: 2}
+  - {fileID: 11400000, guid: 3aed1d5f9e246744e8e4445fbdb1ff58, type: 2}
+  - {fileID: 11400000, guid: 98d6d27797343d840839f43cfe54f32f, type: 2}
+  fiTitle: Ingeborg taistelee
+  fiDesc: Keskiaika
+  fiIntroText: "Ingeborg Tott on H\xE4meenlinnan p\xE4\xE4llikk\xF6. H\xE4n johtaa
+    linnaa, sen sotilaallista puolustusta ja hallintoa. \r\nVaara uhkaa monelta taholta.
+    Naisen kykyj\xE4 kyseenalaistetaan, h\xE4nt\xE4 pidet\xE4\xE4n jopa noitana.\r\n\r\nVallankaappaajia
+    on l\xE4hettyvill\xE4 ja edess\xE4 on kylm\xE4 pakkastalvi. Linnassa on paljon
+    v\xE4ke\xE4, ja lis\xE4\xE4 on tulossa, huhu vihollisen l\xE4hestymisest\xE4
+    on kuultu ja n\xE4hty vainotulista. \r\n\r\nIngeborg Tott tarvitsee apua varustaakseen
+    linnan vastaanottamaan mahdollisen vihollisen hy\xF6kk\xE4yksen ja kovan talven.
+    Tarvitaan kaikkea \u2013 tarvitaan my\xF6s hyv\xE4\xE4 henke\xE4 ja rauhaa, ettei
+    linnan sis\xE4ll\xE4 synny mellakoita. H\xE4n saa torjuttua linnan v\xE4en avustuksella
+    entisen voudin, Folke Gregerinpojan valtausyrityksen, mutta huolia on silti paljon.
+    Onko linna tarpeeksi vahva torjuakseen vihollisen hy\xF6kk\xE4ykset? Onko v\xE4elle
+    tarpeeksi muonaa kovan pakkastalven varalle?\r\n\r\nIngeborg on kiinnostunut
+    tieteist\xE4 ja teologiasta. Kun h\xE4nell\xE4 on huolia, k\xE4\xE4ntyy h\xE4n
+    pappien ja tiedemiesten puoleen. Mit\xE4 he Ingeborgille ennustivat, mink\xE4laista
+    el\xE4m\xE4\xE4 H\xE4meess\xE4, Ingeborgin hallitsemilla mailla?\r"
+  fiOutroText: "Ingeborg Tott v\xE4r\xE4ht\xE4\xE4, liek\xF6 kylm\xE4st\xE4 vai kauhusta
+    kuunnellessaan tarinoita mit\xE4 tulevaisuudessa tapahtuu.\r\nH\xE4n haluaa vain
+    rauhaa, rauhaa vanhuutensa p\xE4ivin\xE4. Hyv\xE4 jos kirkkoja rakennetaan, mutta
+    voi kauhistus noitia ja murhamiehi\xE4 \u2013 eik\xF6 niiden aika voisi olla
+    jo ohi? Milloin viisaus voittaa mielen pimeyden? H\xE4n tunsi kylmi\xE4 v\xE4reit\xE4
+    koko kehossaan ja siirtyi l\xE4hemm\xE4s l\xE4mp\xF6\xE4 leiskuvaa tulisijaa.\r\n\u201DEl\xE4m\xE4
+    muuttuu toisenlaiseksi\u201D, Turun piispa, Lauri Suurp\xE4\xE4 sanoi tulen \xE4\xE4rest\xE4,
+    syv\xE4lt\xE4 pehmoiselta istuimeltaan, \u201Dmeid\xE4n aikamme l\xE4henee loppua,
+    ja tulee toiset, jotka hallitsevat omilla tavoillaan. Eik\xE4 kukaan pysty ennustamaan
+    tulevaisuutta tarkasti.\u201D\r\nViisaita sanoja piispa lausuu, mutta eiv\xE4t
+    ne h\xE4lvenn\xE4 t\xE4m\xE4n p\xE4iv\xE4n tai huomisen huoliani, Ingeborg miettii.
+    \r\n\u201DOlen iloinen vierailustanne, se rauhoittaa mielt\xE4ni enemm\xE4n kuin
+    mitk\xE4\xE4n ennustukset\u201D, h\xE4n sanoi kuitenkin \xE4\xE4neen, koska tiesi
+    piispalla olevan paljon valtaa. \r\nHuomenna piispa pit\xE4isi linnan v\xE4elle
+    messun ja ainakin silloin kaikki olisi hyvin.\r"
+  enTitle: Ingeborg in battle
+  enDesc: Middle Ages
+  enIntroText: "Ingeborg Tott is the chatelain of H\xE4me Castle. She manages the
+    castle, its military defence and administration. \r\nDanger is lurking everywhere.
+    The abilities of a woman are questioned; some think she is a witch.\r\n\r\nCoup
+    leaders are near, and a freezing cold winter lies ahead. The castle is crowded
+    with more and more people coming, as it is rumoured that the enemy is advancing,
+    and beacons have been seen. \r\n\r\nIngeborg Tott needs help to equip the castle
+    for a potential enemy offence and for the harsh winter. They need all sorts of
+    supplies \u2013 including good spirits and peace to prevent revolts inside the
+    castle walls. She manages to repel a coup attempt by a former chatelain, Folke
+    Gregersson, with the help of the people at the castle, but worries still abound.
+    Is the castle defence strong enough to defend against enemy attacks? Is there
+    enough food for the people to last through the harsh winter?\r\n\r\nIngeborg
+    is interested in science and theology. Whenever she feels anxious, she turns
+    to the clergy and scientists. What did they predict for Ingeborg, what kind of
+    a life in Tavastia, in the regions ruled by Ingeborg?\r"
+  enOutroText: "Ingeborg Tott shivers, whether because of cold or fear, when she
+    listens to the stories of what will happen in the future.\r\nAll she wants is
+    peace, peace for her old age. She is happy that churches are being built, but
+    all these witches and murderers sound so horrifying \u2013 could they not be
+    over with already? When will wisdom win over the darkness of the mind? She feels
+    cold shivers running all over her body and moves closer to the fire radiating
+    heat.\r\n\u201CLife will become very different,\u201D says Lauri Suurp\xE4\xE4,
+    the Bishop of Turku, who is sitting deep in his plush seat. \u201CThe end of
+    our time is nearing, and others will emerge and rule in their own ways. No one
+    can predict the future precisely.\u201D\r\nThe Bishop\u2019s words are wise,
+    but they cannot dispel my worries for today or tomorrow, Ingeborg thinks to herself.
+    \r\n\"I am grateful that you came, it calms my mind more than any prediction\",
+    she says out loud, because she knew the Bishop was a powerful man. \r\nThe Bishop
+    would celebrate Mass at the castle the next day and at that moment, at least,
+    everything would be fine.\r"

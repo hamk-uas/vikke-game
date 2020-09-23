@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c09d8cd5454d694990f6bd9dc01d641, type: 3}
+  m_Name: Aulanko Fort
+  m_EditorClassIdentifier: 
+  locationStorySprite: {fileID: 21300000, guid: 8405b7887125f2c4dae21a73db5d91d9,
+    type: 3}
+  task: {fileID: 11400000, guid: 07f6850e727f3d44fa8e46d5b6db768b, type: 2}
+  address: "Aulangon Puistomets\xE4, 13210 H\xE4meenlinna"
+  latitude: 61.022465
+  longitude: 24.469759
+  fiTitle: "Vanha v\xE4istyk\xF6\xF6n"
+  fiPlace: Aulangon linnavuori
+  fiText: "\u201DMeid\xE4n suvussa kulkee tarina muinaisesta Aulangonlinnasta\u201D,
+    vanha mies tarinoi nuotiolla nuoremmille. Miehet olivat p\xE4iv\xE4n ty\xF6st\xE4
+    H\xE4meen linnan ty\xF6maalla v\xE4syneit\xE4 ja kuuntelivat vanhan miehen tarinointia
+    mielell\xE4\xE4n.  \r\n\r\n\u201DMuinaislinna sijaitsi tuolla vuorella. Sit\xE4
+    suojasi jyrk\xE4nne ja j\xE4rvelle oli hyv\xE4 n\xE4kyvyys. L\xE4nteen p\xE4in
+    oli loiva rinne ja siell\xE4 oli vallit ja rakennetut hirsiaidat. Linnapiha oli
+    suuri siin\xE4 vallin ja jyrk\xE4nteen v\xE4liss\xE4 ja siell\xE4 oli vakituista
+    v\xE4ke\xE4 ollut jo pitk\xE4\xE4n, aina ajan alusta asti. Siell\xE4 k\xE4vi
+    joskus arvokkaita vieraita, joille pitojakin laitettiin. Kauppamiehet kulkivat
+    myym\xE4ss\xE4 tuotteitaan. Ja joskus taisteltiin, ry\xF6st\xE4ji\xE4 vastaan.
+    V\xE4ki tuli silloin sinne turvaan l\xE4hiseudulta. Kerran j\xE4rjestettiin viesti
+    linnavuorten v\xE4lill\xE4, silloin oli semmoista rauhallisempaa. Viestin voittajasta
+    ei en\xE4\xE4 tied\xE4, se on moneen kertaan vaihtunut. Riippuen kuka kertoo.
+    \u201D \r\n\r\n\u201DMiksi linnaa ei sitten en\xE4\xE4 ole?\u201D Joku kysyi.
+    \r\n\r\n\u201DEi siit\xE4 kauaa ole, kun se h\xE4vitettiin. Toiseksi ristiretkeksi
+    sit\xE4 sanottiin. Ja mit\xE4s sill\xE4, kun nyt komiaa linnaa rakennetaan.\u201D"
+  enTitle: Out with the old
+  enPlace: Aulanko Fort
+  enText: "\"There is a story in my family of the ancient Aulanko Fort\u201D, said
+    an old man over a fire to his younger companions. They were all weary after a
+    hard day\u2019s work at the building site of the H\xE4me Castle, and happy to
+    listen to his stories.\n\n\"The ancient fort was located on that hilltop. It
+    was protected by a steep cliff, and there were good views over the lake. Westwards,
+    the hill sloped gently, and that was where the earthwork and log fences had been
+    built. There was a spacious castle yard between the earthworks and the cliff,
+    where permanent settlement has been located from the beginning of time. Sometimes
+    noble guests visited, and feasts were held. Traders came in to sell their products.
+    Sometimes raiders attacked and they were fought, and people from the nearby areas
+    sought shelter in the fort. In one of the more peaceful periods, there was a
+    relay between the hill forts. No-one knows who won it anymore, there are so many
+    versions depending on who is telling the story\u201D.\n\n\"How come there is
+    no longer a fort there?\" someone asked.\n\n\u201CIt was not that long ago that
+    it was demolished, during the Second Crusade, as they called it. And what would
+    we need it for now that they are building a mighty castle?\u201D"

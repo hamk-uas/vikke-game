@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a820a2ca58514144ab9f50b01a6196da, type: 3}
+  m_Name: "Laurinm\xE4ki (I will raise love)"
+  m_EditorClassIdentifier: 
+  taskviewSprite: {fileID: 21300000, guid: f46d2bfe0fad9fe43b58a310b9643407, type: 3}
+  answers:
+  - 3726
+  isARTask: 0
+  fiTitle: Nostan lemmen liehumahan
+  fiText: "Laurinl\xE4hde tunnetaan vanhastaan nimell\xE4 Taaran l\xE4hde. Sit\xE4
+    k\xE4ytettiin pakanuuden aikana, ennen kristinuskon tuloa, Taara-jumalan palvontaan.
+    L\xE4hteell\xE4 on kautta aikojen tehty taikoja, kuten Raunin tarinassakin. \xC4l\xE4
+    unohda katsoa itsekin l\xE4hteeseen. L\xE4hteen l\xE4helt\xE4 l\xF6yd\xE4t opastaulun,
+    jonka tekstiss\xE4 on useampi luku. Laske kaikki luvut yhteen, mik\xE4 on vastaus?"
+  enTitle: I will raise love
+  enText: "The Spring of Saint Lawrence is considered to have been an important sacred
+    well. Before Christianity arrived, it was known as Spring of Taara, an ancient
+    God. The spring was used for worshiping and practicing magic rites such as the
+    one in Rauni\u2019s story. Don\u2019t forget to look into the spring while you
+    are there! Count together all of the numbers you find in the text of the Spring
+    of Saint Lawrence information sign. What is the magic number?"

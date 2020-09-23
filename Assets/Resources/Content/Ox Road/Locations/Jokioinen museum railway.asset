@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c09d8cd5454d694990f6bd9dc01d641, type: 3}
+  m_Name: Jokioinen museum railway
+  m_EditorClassIdentifier: 
+  locationStorySprite: {fileID: 21300000, guid: 2674aa2a06609614fbb6bc209ec8f27c,
+    type: 3}
+  task: {fileID: 11400000, guid: 76e62b3f08403a647b2e023b23912306, type: 2}
+  address: "Kiipuntie 49, 31630 Minki\xF6"
+  latitude: 60.861546
+  longitude: 23.438433
+  fiTitle: Aavejuna
+  fiPlace: Jokioisten museorautatie
+  fiText: "Valoisana kes\xE4y\xF6n\xE4, kun usva nousee Minki\xF6n suon kuolleiden
+    kelojen lomasta ja verhoaa Jokioisten Museorautatien ratapenkan, saattaa suolla
+    kuulla h\xF6yryveturin pillin aavemaisen vihellyksen. Sumun hieman h\xE4lvetess\xE4
+    voi n\xE4hd\xE4 ohi kulkevan h\xF6yryveturin hahmon. \r\n\r\nJos viel\xE4 sattuu
+    seisomaan kapeiden kiskojen vieress\xE4, y\xF6n hiljaisuuden t\xE4ytt\xE4\xE4
+    vaimea h\xF6yryveturin puuskutus ja kiskojen kolke. Moni kertoo tarinoita aavejunasta,
+    mutta harva on sit\xE4 n\xE4hnyt tai kuullut sen hiljaista y\xF6t\xE4 halkovan
+    vihellyksen. \r\n\r\nKerrotaan, ett\xE4 aavejuna kulki ensimm\xE4ist\xE4 kertaa
+    syyskuun 1906 Minki\xF6n junary\xF6st\xF6n j\xE4lkeen. Vai oliko se joulukuun
+    1908 kauhean onnettomuuden j\xE4lkeen, jolloin juna putosi raiteilta ja oli suistua
+    12 metri\xE4 korkealta Jokioisten rautatiesillalta Loimijokeen? \r\n\r\nJoku
+    kertoo n\xE4hneens\xE4 veturin per\xE4ss\xE4 matkustajavaunun, jonka p\xE4\xE4tysillalla
+    seisoo tumma-asuinen, lierihattuinen nainen. Toinen kertoo haistaneensa vienon
+    savun tuoksun, mutta useimmat ovat vain kuulleet veturin kime\xE4n vihellyksen
+    pimeydest\xE4.\r"
+  enTitle: Ghost train
+  enPlace: Jokioinen museum railway
+  enText: "On a summer night filled with light, as the mist rises between the snag
+    trees on the Minki\xF6 wetlands and covers the embankment of the Jokoinen museum
+    railway, you may hear the ghostly whistle of a steam engine over the wetlands.
+    As the mist is clearing, the shape of a passing steam engine can be seen. \r\n\r\nIf
+    you happen to be standing next to the narrow rails, the still night is filled
+    by a steam engine\u2019s puffing and the clacking of the rails. Many people tell
+    stories of the ghost train, but few have seen it or heard its silent whistle
+    that traverses the night. \r\n\r\nIt has been said that the ghost train travelled
+    for the first time after the train robbery that took place in 1906 in Minki\xF6.
+    Or maybe it was the horrible accident of December 1908, when a train fell off
+    the tracks and nearly plunged down the 12-metre bridge into the Loimi river.
+    \r\n\r\nSome say that a passenger coach has been seen behind the engine, with
+    a woman wearing a dark dress and a brimmed hat standing on the platform in the
+    back of the coach. Some claim that they have smelled the smoke, but most have
+    only heard the low whistle of the steam engine.\r"

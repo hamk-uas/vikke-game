@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a820a2ca58514144ab9f50b01a6196da, type: 3}
+  m_Name: Sibelius Forest
+  m_EditorClassIdentifier: 
+  taskviewSprite: {fileID: 21300000, guid: f5d449e5db7639c4e86945d27758b396, type: 3}
+  answers:
+  - finlandia
+  isARTask: 0
+  fiTitle: "Sibeliuksen mets\xE4"
+  fiText: "Mihin teokseen Sibelius sai inspiraatiota kuljeksiessaan t\xE4ss\xE4 mets\xE4ss\xE4?\r\n\r\nLinkkej\xE4
+    klikkaamalla saat vinkkej\xE4 ja voit samalla nautti upeista maisemista ja rentouttaa
+    mielesi luonnon \xE4\xE4ress\xE4:\r\n\r\n<link=\"https://www.youtube.com/watch?v=F5zg_af9b8c\"><color=\"blue\"><u>https://www.youtube.com/watch?v=F5zg_af9b8c</u></color></link>\r\n\r\n<link=\"https://www.youtube.com/watch?v=DRTJt2kDKJ0\"><color=\"blue\"><u>https://www.youtube.com/watch?v=DRTJt2kDKJ0</u></color></link>\r\n\r\n<link=\"https://www.youtube.com/watch?v=5Ls8-pk4IS4\"><color=\"blue\"><u>https://www.youtube.com/watch?v=5Ls8-pk4IS4</u></color></link>"
+  enTitle: Sibelius Forest
+  enText: "In which compose Sibelius got inspiration by walking in the forests of
+    Aulanko?\n\nTo get hints, please click the links below and enjoy the beautiful
+    sceneries and relax your mind in the nature: \n\n<link=\"https://www.youtube.com/watch?v=F5zg_af9b8c\"><color=\"blue\"><u>https://www.youtube.com/watch?v=F5zg_af9b8c</u></color></link>\r\n\r\n<link=\"https://www.youtube.com/watch?v=DRTJt2kDKJ0\"><color=\"blue\"><u>https://www.youtube.com/watch?v=DRTJt2kDKJ0</u></color></link>\r\n\r\n<link=\"https://www.youtube.com/watch?v=5Ls8-pk4IS4\"><color=\"blue\"><u>https://www.youtube.com/watch?v=5Ls8-pk4IS4</u></color></link>"

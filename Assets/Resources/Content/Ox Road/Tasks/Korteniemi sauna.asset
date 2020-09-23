@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a820a2ca58514144ab9f50b01a6196da, type: 3}
+  m_Name: Korteniemi sauna
+  m_EditorClassIdentifier: 
+  taskviewSprite: {fileID: 21300000, guid: 3ee6283fb45eb544d8dfbe9d9732fd57, type: 3}
+  answers:
+  - saunatonttu
+  - nisse
+  - tomte
+  - tomtenisse
+  - tonttu
+  - sauna elf
+  - sauna gnome
+  isARTask: 0
+  fiTitle: Korteniemen sauna
+  fiText: "Pieni k\xE4pp\xE4n\xE4 nokinen, ly\xF6 kiuasta \xE4risten. Akkain kehr\xE4ys
+    l\xE4mmin suopi pienelle nokinen\xE4lle s\xE4hdin. Hiljaa, hiljaa, hiljaa vaan.
+    Silloin sin\xE4kin onnen saat. Kuka min\xE4 olen?"
+  enTitle: Korteniemi sauna
+  enText: "Little man covered in char, bangs on the stove or leaves a mark. Old crone\u2019s
+    happiness starts when temperature goes low enough. Far from high, bears one eye,
+    wears a smile when the temperature is right. You know who I am, you know where
+    I hide. Just be quiet and I\u2019ll let you be around. So do you know who I am?"

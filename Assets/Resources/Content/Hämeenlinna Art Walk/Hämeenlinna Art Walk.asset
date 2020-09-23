@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56a04c58f8da67246b528c1b0a0e4f98, type: 3}
+  m_Name: "H\xE4meenlinna Art Walk"
+  m_EditorClassIdentifier: 
+  storytellingSprite: {fileID: 21300000, guid: 5037d960f629e1d428998545411cb110, type: 3}
+  locationMapSprite: {fileID: 21300000, guid: b173d069ddd70c942a168ed6077df548, type: 3}
+  locations:
+  - {fileID: 11400000, guid: 372457fe93fb71040a8750afd9c974ad, type: 2}
+  - {fileID: 11400000, guid: 684717099cd34ff46bcbb7e4f05927b6, type: 2}
+  - {fileID: 11400000, guid: f1e4af549ab51ca4486aba1e8e2dd9fe, type: 2}
+  - {fileID: 11400000, guid: 58d3f87a7dfe1354faaeb50c046e839c, type: 2}
+  - {fileID: 11400000, guid: 851a45a745945fc4c851824136d9369a, type: 2}
+  - {fileID: 11400000, guid: abcf8394540995147b7fc685ceda3f44, type: 2}
+  fiTitle: "Kun taide her\xE4\xE4 eloon"
+  fiDesc: "H\xE4meenlinnan taidek\xE4vely"
+  fiIntroText: "Viktor Janssonin patsas on juuri pystytetty H\xE4meenlinnaan. Elli
+    Wegelius on k\xE4velyll\xE4 ja tapaa Viktor Janssonin tarkastelemassa vasta pystytetty\xE4
+    patsastaan. Jansson haluaa selitt\xE4\xE4 Rouva Wegeliukselle taiteen olemusta,
+    muidenkin kuin oman patsaansa, ja vie rouvan tulevaisuuden kaduille katsomaan
+    taidetta ihan uusin silmin.\n\n\u201DMinun patsaani, jonka nimi on Nuoruus, on
+    varsin selke\xE4, eik\xF6?\u201D Jansson kysyy rouva Wegeliukselta.\n\n\u201DSe
+    on kaunis\u201D, rouva vastaa ja kysyy kuka tai mik\xE4 on innoittanut Janssonin
+    tekem\xE4\xE4n niin herk\xE4n ty\xF6n.\n\n\u201DTytt\xE4reni Tove on yksi innoittajistani.
+    Mutta nuoruus innoittaa monia, koska se on vain ohikiit\xE4v\xE4 vaihe el\xE4m\xE4ss\xE4,
+    mutta monien mielest\xE4 haikailtava. Min\xE4 olen mieluummin kokenut ja viisas,
+    kuin nuori ja viaton\u201D, vastaa Jansson otsa kurtussa.\n\n\u201DPit\xE4\xE4k\xF6
+    taiteen innostaa\u201D, rouva Wegelius pohtii \xE4\xE4neen.\n\n\u201DTulkaa,
+    vien teid\xE4t katsomaan monenlaista taidetta, sitten voitte p\xE4\xE4tt\xE4\xE4
+    mik\xE4 on taiteen teht\xE4v\xE4 ja mik\xE4 ei\u201D, Jansson sanoo ja tarttuu
+    rohkeasti rouva Wegeliuksen k\xE4teen."
+  fiOutroText: "\u201DMik\xE4 oli mielest\xE4mme paras teos?\u201D Kysyy Viktor Jansson
+    rouva Wegeliukselta taidek\xE4velyn j\xE4lkeen.\n\n\u201DPidin py\xF6riv\xE4st\xE4
+    kivest\xE4 ja oikeastaan kaikista muistakin. Olen aikaisemmin vain katsonut,
+    en koskaan koskettanut, enk\xE4 ehk\xE4 antanut taiteen koskettaa minua. En ole
+    miettinyt sanomaa, olen vain ajatellut sit\xE4 mit\xE4 n\xE4en, my\xF6nn\xE4n\u201D,
+    sanoi rouva Wegelius rehellisesti.\n\n\u201DTaide on erilaista meille kaikille,
+    mutta se on my\xF6s yhteist\xE4. On hienoa, ett\xE4 voimme kohdata taidetta niin
+    monessa paikassa, koska se on my\xF6s sielun ravintoa meille\u201D, Jansson sanoo.\n\n\u201DEnt\xE4
+    te, mik\xE4 teid\xE4n mielest\xE4nne oli paras?\u201D\n\n\u201DPidin kaikesta,
+    mutta eniten minua kosketti Kohtaaminen, vaikka itse en k\xE4sittelisi kive\xE4
+    siten, mutta tulenkin eri ajasta. Taide voi tehd\xE4 sillan ajan yli ja voimme
+    ymm\xE4rt\xE4\xE4 sit\xE4 sen vuoksi, vaikka se olisi meit\xE4 tuoreempaa tai
+    meit\xE4 vanhempaa.\u201D\n\n\u201DKohtaamisemme oli mielenkiintoinen, samoin
+    kohtaaminen taiteen kanssa. Ketk\xE4 mahtavat kohdata seuraavan kerran n\xE4iden
+    taideaarteidemme \xE4\xE4rell\xE4\u201D, rouva Wegelius ja Viktor Jansson pohtivat
+    palatessaan omaan aikaansa."
+  enTitle: When art comes alive
+  enDesc: "H\xE4meenlinna Art Walk"
+  enIntroText: "A statue by Viktor Jansson was unveiled in H\xE4meenlinna recently.
+    Elli Wegelius is on a stroll and happens to see Viktor Jansson admiring his new
+    work of art. Jansson is happy to tell Mrs Wegelius about the essence of art,
+    and not only his own art: he takes her to the streets of the future to admire
+    art from a completely new perspective.\n\n\"My statue, called Youth, is quite
+    straightforward, don\u2019t you think?\u201D Jansson asks Mrs Wegelius.\n\n\"It
+    is beautiful\", she responds and asks who or what has inspired Jansson to create
+    such a delicate work of art.\n\n\"My daughter, Tove, is one of my inspirations.
+    But many artists find youth inspirational, because it is only a fleeting moment
+    in life, one that many people find worth yearning for. Myself, I would rather
+    possess experience and wisdom than youth and innocence,\u201D Jansson replies,
+    frowning.\n\n\"Should art always be inspiring?\u201D Mrs Wegelius wonders.\n\n\u201CCome,
+    I will take you to see art in its various forms; you can decide after that what
+    you think is the purpose of art,\u201D Jansson says and boldly takes Mrs Wegelius
+    by the arm."
+  enOutroText: "\"Which work of art did you like best?\u201D Viktor Jansson enquires
+    of Mrs Wegelius after their art walk.\n\n\u201CI liked the rotating stone and
+    everything else, too, to be honest. Before, I have only looked, not touched,
+    and perhaps I have not let art touch me either. I never thought of its message,
+    only what I have seen, I have to admit,\u201D Mrs Wegelius frankly explains.\n\n\"Art
+    is different for all of us, but at the same time it is common for all of us.
+    We can encounter art in many places, which is delightful, as art also nourishes
+    the soul,\u201D Jansson says.\n\n\"What about you, which one did you like best?\u201D\n\n\"I
+    liked them all, but I found Encounter the most touching, I would not sculpt stone
+    in the same way, but then again I am from a different time. Art can become a
+    bridge-builder between times, and this helps us understand it, even when it is
+    younger or older than us.\u201D\n\n\u201CIt was interesting to meet you, and
+    similarly interesting to see all this art. I wonder who will meet by these treasures
+    next time,\u201D Mrs Wegelius and Viktor Jansson wondered after returning to
+    their own time."

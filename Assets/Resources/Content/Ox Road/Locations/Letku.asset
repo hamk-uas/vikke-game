@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c09d8cd5454d694990f6bd9dc01d641, type: 3}
+  m_Name: Letku
+  m_EditorClassIdentifier: 
+  locationStorySprite: {fileID: 21300000, guid: 23eb87d5e82368141b716596cc36cd2c,
+    type: 3}
+  task: {fileID: 11400000, guid: 04d28d66719611448805291a52754d37, type: 2}
+  address: "H\xE4rk\xE4tie 341, 31380 Letku"
+  latitude: 60.69903
+  longitude: 23.72227
+  fiTitle: Maire Letkulla
+  fiPlace: "H\xE4meen H\xE4rk\xE4tie"
+  fiText: "Leskirouva Mairen aviomies Martti l\xF6ytyi kuolleena nojaamassa graniittista
+    holvikaarta vasten. Er\xE4\xE4n\xE4 p\xE4iv\xE4n\xE4 h\xE4n n\xE4ki Martin kuvajaisen
+    holvikaaressa. Se kehotti Mairea menem\xE4\xE4n vanhalle graniittilouhokselle.
+    Maire kysyi Letkun kyl\xE4puodin kauppiaalta tiet\xE4 louhokselle ja kauppias
+    oli ihmeiss\xE4\xE4n.  Louhoksen olivat omistaneet kaksoisveljet, josta toinen
+    oli kuollut louhokselle ja ruumis oli l\xF6ydetty ilman p\xE4\xE4t\xE4.\r\n\r\nMaire
+    ei halunnut selitt\xE4\xE4 n\xE4ky\xE4\xE4n, vaan l\xE4hti pikaisesti ohjeet
+    saatuaan. Louhoksella oli ruostuneita vaijereita, v\xE4kipy\xF6ri\xE4 ja rataksia.
+    Jyrkk\xE4 rinne oli t\xE4ynn\xE4 graniittilohkareita sek\xE4 ter\xE4vi\xE4 kivenkappaleita.
+    Paikka n\xE4ytti vaaralliselta.\r\n\r\nKeskell\xE4 oli lampi, jonne meni v\xE4kipy\xF6r\xE4st\xE4
+    vaijeri. Maire veti ja veti vaijerista. kunnes v\xE4hitellen lampi alkoi hehkua
+    vihre\xE4\xE4 loistetta. Keskelt\xE4 n\xE4ytti nousevan miehen p\xE4\xE4. Samassa
+    kuului \u201Dkiitos\u201D ja n\xE4ky h\xE4visi. \r\nMaire k\xE4\xE4ntyi jo l\xE4hte\xE4kseen
+    pois, kun kuuli miehens\xE4 Martin \xE4\xE4nen. \u201DL\xE4hdin hyv\xE4stelem\xE4tt\xE4,
+    mutta rakastan sinua ikuisesti. Nyt on kaikki hyvin. Hyv\xE4sti rakas\u201D.
+    Maire tiesi, ettei h\xE4n en\xE4\xE4 n\xE4kisi kuvajaista holvikaaressa.\r"
+  enTitle: Maire at Letku
+  enPlace: Ox Road of Tavastia
+  enText: "Maire\u2019s husband Martti was found dead, leaning on an arch made of
+    granite. One day, the widow saw a reflection of Martti on the arch. The reflection
+    told Maire to visit an old granite quarry. Maire asked for directions to go to
+    the quarry from the shopkeeper of the Letku village shop, and he was puzzled.
+    The quarry was once owned by twin brothers, one of whom had been killed there,
+    and his body had been discovered, beheaded.\r\n\r\nMaire was not keen to explain
+    her vision; instead, she left immediately after receiving instructions. There
+    were rusty wire cables, pulleys and cogwheels at the quarry. The steep cliff
+    was full of granite boulders and sharp pieces of rock. The place looked dangerous.\r\n\r\nThere
+    was a pond in the middle to which a wire cable from a cogwheel extended. Maire
+    kept pulling the wire rope until the pond started to gradually glow in a green
+    light. It looked like a man\u2019s head was rising up in the middle. She heard
+    someone say \u201Cthank you\u201D and the vision disappeared.\r\nMaire turned
+    to go away. She heard the voice of her husband, Martti. \u201CI left without
+    saying farewell, but I will love you forever. Everything is fine now. Farewell,
+    my love.\u201D Maire knew that there would be no more shadows on the arches.\r"

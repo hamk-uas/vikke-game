@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56a04c58f8da67246b528c1b0a0e4f98, type: 3}
+  m_Name: Sibelius
+  m_EditorClassIdentifier: 
+  storytellingSprite: {fileID: 21300000, guid: d8f3cf91dddc6464482bb822be771907, type: 3}
+  locationMapSprite: {fileID: 21300000, guid: 041f8602b7fc9744990964e213f4df06, type: 3}
+  locations:
+  - {fileID: 11400000, guid: 41dee83c068fadb4ab06bef718b1fb45, type: 2}
+  - {fileID: 11400000, guid: db37603c0928b70408b45bfe213b5abf, type: 2}
+  - {fileID: 11400000, guid: bac39c903f32bdd4e8d25fee9e45b96f, type: 2}
+  - {fileID: 11400000, guid: c08b23be51c6d154382c12b8093d9885, type: 2}
+  - {fileID: 11400000, guid: c356159f71b63a14aa42eb3ce52fb126, type: 2}
+  - {fileID: 11400000, guid: 8f5c00c22827ea047bb93fbaac23cfcb, type: 2}
+  fiTitle: Musiikin lumous
+  fiDesc: Sibelius
+  fiIntroText: "Janne Sibelius on nuori poika. H\xE4nen sis\xE4ll\xE4\xE4n kytee
+    niin paljon, mutta kohta pit\xE4isi l\xE4hte\xE4 lakimiehen opintoihin Helsinkiin.
+    H\xE4n istuu Aulangolla nauttien upeasta maisemasta, kun Elli Palander tulee
+    paikalle. Elli houkuttelee Jannen kotiinsa tapaamaan velji\xE4\xE4n ja siit\xE4h\xE4n
+    se riemu syntyy. Palanderin pojat ovat kaikki Jannea nuorempia, mutta se ei haittaa
+    \u2013 yhteiset pelit ja kisat k\xE4yd\xE4\xE4n hyv\xE4ss\xE4 hengess\xE4 ja
+    v\xE4lill\xE4 keksit\xE4\xE4n yhdess\xE4 monenlaisia seikkailuja.  \r\n\r\nJanne,
+    Elli ja Palanderin pojat p\xE4\xE4ttiv\xE4t j\xE4rjest\xE4\xE4 yhdess\xE4 Edward
+    Palanderin nimip\xE4iv\xE4lle kuvaelman. Lyseon orkesteri, johon Janne kuului,
+    oli soittamassa juhlissa muutenkin ja kuvaelma olisi siten helppo toteuttaa.
+    Ja kuten kunnon kuvaelmassa oli ritareita, linnanneitoja ja suuria tunteita.
+    \r\n\r\nJanne s\xE4esti viululla, Palanderin pojat olivat eri pituisia ritareita,
+    jotka kilpailivat Elli-linnanneidon huomiosta. Kaikki olisi mennyt hyvin, jos
+    linnanneito ei olisi juuttunut hulmuavasta helmastaan kiinni pikkuveljens\xE4
+    kilpeen. Onneksi huomion vei Janne ja h\xE4nen viulunsa.\r"
+  fiOutroText: "Tuskin kukaan edes huomasi linnanneidon repeytynytt\xE4 huntua ja
+    nopeaa poistumista punaposkisena lavalta, koska Janne soitti. H\xE4nen viulunsa
+    soi niin, ett\xE4 se j\xE4hmetti ihmiset kuuntelemaan. Niin pienet kuin suuret,
+    niin nuoret kuin vanhatkin.\r\n\r\nOmasta mielest\xE4\xE4n Janne ei osannut soittaa
+    tarpeeksi hyvin, h\xE4n ei ollut omasta mielest\xE4\xE4n virtuoosi ja soitti
+    viulua vain soittaakseen jotain \u2013 mutta nyt h\xE4n soitti omaa s\xE4vellyst\xE4\xE4n,
+    jossa oli jotain niin koskettavaa. Siin\xE4 kiisiv\xE4t kes\xE4n valkoiset untuvapilvet,
+    liplattivat siniset v\xE4reet j\xE4rven pinnalla. Juuri nyt, kun suomalaisuus
+    oli se, mit\xE4 korostettiin, etsittiin, kaivattiin ja tahdottiin.\r\n\r\nPalanderin
+    pojat olivat ihmeiss\xE4\xE4n pieleen menneen kuvaelman loputtua, musiikin tauottua
+    saaduista aplodeista, jotka raikuivat Palanderin talon avoimista ikkunoista kauas
+    katuja pitkin.\r\n\r\nJanne kumarsi yleis\xF6lle, syd\xE4mess\xE4 l\xE4ikehti
+    l\xE4mp\xF6 \u2013 kuulijat tuntuivat ymm\xE4rt\xE4neen mit\xE4 h\xE4n halusi
+    musiikillaan kertoa, kaikille ja varsinkin suomalaisille.\r"
+  enTitle: Spellbound by music
+  enDesc: Sibelius
+  enIntroText: "Janne Sibelius is a young boy. There are many things simmering inside
+    him, and he is soon to leave for his law studies in Helsinki. He is at Aulanko,
+    sitting and enjoying the magnificent scenery when Elli Palander happens to pass
+    by. Elli persuades Janne to visit her brothers, and this turns out to be a real
+    source of joy. The Palander boys are younger than Janne, but it does not matter
+    \u2013 they play games and sports and come up with adventures together.  \r\nJanne,
+    Elli, and the Palander boys decide that they will prepare a one-act play for
+    Edward Palander\u2019s name day party. Janne belongs to the lyceum orchestra
+    that will be performing at the party. Their play has knights, maidens and big
+    feelings, like a good play should. \r\n\r\nJanne accompanied the play on the
+    violin. The Palander boys played knights of various heights, all competing for
+    the attention of Elli, who was the maiden of the castle. Everything went well
+    until the maiden\u2019s frills got stuck in her little brother\u2019s shield.
+    Fortunately, Janne and his violin stole the attention.\r"
+  enOutroText: "Because Janne was playing, it is unlikely that anyone even noticed
+    the maiden\u2019s ripped veil or her quick, blushing exit from the stage. The
+    tunes of Janne\u2019s violin spellbound people as they listened. Big and small
+    people, young and old alike.\r\n\r\nJanne, however, thought that he did not play
+    well enough. He was not a virtuoso and he only played the violin to play something
+    \u2013 but now he was playing a piece of his own, and there was something utterly
+    touching about it. The white cirrus clouds of summer were floating, blue ripples
+    were lapping on the surface of the lake. In this very time, when Finnishness
+    was something that was emphasised, sought and longed for.\r\n\r\nThe Palander
+    boys were amazed by the applause they received when the play ended, and the music
+    faded \u2013 they thought the play had gone awry! The applause echoed down the
+    streets from the open windows of the Palander house.\r\n\r\nAs Janne bowed to
+    the audience, it warmed his heart to realise that the listeners had grasped the
+    very essence of his music \u2013 the message he wanted to communicate to everyone
+    and the Finnish audience in particular.\r"

@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c09d8cd5454d694990f6bd9dc01d641, type: 3}
+  m_Name: Militaria Museum
+  m_EditorClassIdentifier: 
+  locationStorySprite: {fileID: 21300000, guid: dfed33a787f05ff49b591df9e27e5c18,
+    type: 3}
+  task: {fileID: 11400000, guid: 6c83ec47d49a38a47b3f63fc0e1e3928, type: 2}
+  address: "Vanhankaupunginkatu 19, 13100 H\xE4meenlinna"
+  latitude: 61.00502
+  longitude: 24.45723
+  fiTitle: "El\xE4m\xE4\xE4 Linnankasarmilla"
+  fiPlace: Museo Militaria
+  fiText: "Kasarmialue H\xE4meen linnan vieress\xE4 oli kuin oma pieni kaupunkinsa,
+    jossa perheet eliv\xE4t arkeaan.\r\n\r\nSyyspimeill\xE4 lapset tutkivat my\xF6s
+    paikkoja, joihin ei ollut luvallista menn\xE4. Er\xE4\xE4n lukitun rakennuksen
+    yliset olisivat tutkimisen arvoinen paikka. \r\n\r\nIrtonainen lauta l\xF6ytyi
+    ja yksi lapsista kiipesi sis\xE4\xE4n. Taskulampun valossa kiilteli jotain: s\xE4ilyket\xF6lkkej\xE4.
+    Niiden alla oli paperi, jossa oli outoa kirjoitusta. \xC4kki\xE4 muutama purkki
+    mukaan, paperi taskuun ja hiljaa ulos. T\xF6lkit olivat hyv\xE4 saalis. Sodanaikaiset
+    s\xE4ilykehedelm\xE4t olivat herkullisia. Paperin lapsi talletti p\xE4iv\xE4kirjansa
+    v\xE4liin.\r\n\r\n70 vuotta my\xF6hemmin vanha mies palasi lapsuutensa maisemiin.
+    Sotilaita alueella ei en\xE4\xE4 ollut. Iso tiilirakennus oli kunnostettu museok\xE4ytt\xF6\xF6n.
+    Ulkona oli tykkej\xE4 ja pioneerikalustoa. Museossa olevia salauslaitteita tutkiessaan
+    mies muisti lapsuutensa paperilapun. Olisikohan se salakirjoitettu viesti aikanaan
+    avautunut n\xE4iden avulla? Luultavasti. Mies k\xE4veli hymyillen kasarmialueen
+    kent\xE4n poikki kohti autoaan.\r"
+  enTitle: Life at the barracks
+  enPlace: Militaria Museum
+  enText: "The barracks next to H\xE4me Castle formed a small town where families
+    lived ordinary lives.\r\n\r\nWhen the evenings began to get dark in the autumn,
+    the children would explore places off limits to them. One great place to explore
+    was the loft of a building that was always locked. \r\n\r\nA loose board was
+    discovered, and one of the children climbed in. Something gleamed in the beam
+    of the torch: tins. Underneath them was a paper with peculiar-looking writing.
+    He grabbed some tins, put the piece of paper in his pocket and left quietly.
+    The tins were a great find. The preserved fruit, from the war times, was delicious.
+    The piece of paper he put between his diary.\r\n\r\nSeventy years later, an old
+    man returned to his childhood neighbourhood. There are no more soldiers there.
+    The large brick building had been refurbished and was now a museum. There were
+    cannons and pioneer equipment outside. As he was looking at the cryptographic
+    devices in the museum, the man remembered the piece of paper from his childhood.
+    Could he have decoded the encrypted message with these devices? Probably. The
+    man smiled as he crossed the field in the barracks to get to his car.\r"

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a820a2ca58514144ab9f50b01a6196da, type: 3}
+  m_Name: Skogster Museum
+  m_EditorClassIdentifier: 
+  taskviewSprite: {fileID: 21300000, guid: 900bd0f3192bc8f4e9a88bbc6c4f48d9, type: 3}
+  answers:
+  - 1906
+  isARTask: 0
+  fiTitle: Museo Skogster
+  fiText: "H\xE4meenlinnan kaupunginmuseon p\xE4\xE4toimipiste Museo Skogster toimii
+    vanhassa liiketalossa. Min\xE4 vuonna Anders Gustaf Skogster rakennutti tavaratalon
+    H\xE4meenlinnan keskustaan? (vinkki: vuosiluku on isolla talon p\xE4\xE4dyss\xE4)"
+  enTitle: Skogster Museum
+  enText: "Skogster Museum is the main location of H\xE4meenlinna City Museum. The
+    museum operates in an old commercial building. In what year was it built? (hint:
+    the year is on the wall of the house)"

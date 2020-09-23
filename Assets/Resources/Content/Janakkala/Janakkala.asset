@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56a04c58f8da67246b528c1b0a0e4f98, type: 3}
+  m_Name: Janakkala
+  m_EditorClassIdentifier: 
+  storytellingSprite: {fileID: 21300000, guid: 85147f62c8507d548a733692ce7cf7bb, type: 3}
+  locationMapSprite: {fileID: 21300000, guid: 12dae9640f4b2904eb5bfbccaabefe27, type: 3}
+  locations:
+  - {fileID: 11400000, guid: 2a80aae10bb313343ab4dfac0466b84b, type: 2}
+  - {fileID: 11400000, guid: 507c60c436ba4ab4dbe28a6234486a2b, type: 2}
+  - {fileID: 11400000, guid: 4016f71cddafcb247a9f0a4ef8d53d0a, type: 2}
+  - {fileID: 11400000, guid: ec0f480918502734a9dba175f1ec7745, type: 2}
+  - {fileID: 11400000, guid: 78fef35657bfd0f44ab3c9a78fbde849, type: 2}
+  fiTitle: Aarre
+  fiDesc: Janakkala
+  fiIntroText: "Oskari Jaakkola on kiinnostunut historiasta enemm\xE4n kuin digikehityksest\xE4.
+    H\xE4n on kuullut, ett\xE4 Janakkalassa on aarre ja sit\xE4 h\xE4n l\xE4htee
+    etsim\xE4\xE4n. H\xE4n uskoo, ett\xE4 se on jokin esihistoriallinen l\xF6yt\xF6,
+    koska se olisi h\xE4nelle oikea aarre. H\xE4n kutsuu unessa apuun Janakkalan
+    miekkamiest\xE4, jonka 1300-luvulta per\xE4isin oleva hauta oli joitain vuosia
+    sitten l\xF6ydetty. \r\n\u201DKyll\xE4 siell\xE4 sinulle aarre on, kunhan historiallisia
+    paikkoja kierr\xE4t ja niiden tarinoita kuulet. Aarteen n\xE4keminen vaatii sek\xE4
+    j\xE4rke\xE4 ett\xE4 syd\xE4nt\xE4, silmi\xE4 ja korvia!\u201D\r\nOskari her\xE4si
+    ja mietti Janakkalaan matkatessaan Miekkamiehen sanoja. Mit\xE4 ne mahtoivat
+    tarkoittaa? \r\n\r\nOskari aloittaa retkens\xE4 Laurinl\xE4hteelt\xE4, joka Taaranl\xE4hteen\xE4kin
+    on tunnettu uhril\xE4hde. Siell\xE4 h\xE4n kohtaa Miljan, mustiin pukeutuneen
+    goottityt\xF6n, joka kertoo h\xE4nelle tarinan. Yhdess\xE4 he jatkavat matkaa\u2026\r"
+  fiOutroText: "\u201DMist\xE4 Sin\xE4 olet kuullut kaikki n\xE4m\xE4 tarinat\u201D,
+    kysyy Oskari Miljalta.\r\n\u201DOlen tutkinut netist\xE4 t\xE4m\xE4n paikkakunnan
+    historiaa ja l\xF6yt\xE4nyt sielt\xE4 my\xF6s tietoa kirjoista, joita kannattaa
+    tutkia ja lukea. \u201D\r\n\u201DMin\xE4 en netti\xE4 arvosta, olen aarteenetsij\xE4\u201D,
+    Oskari toteaa hiukan ylimielisesti ja Milja hiljenee. Samassa Oskari muistaa
+    Miekkamiehen sanat.\r\n\u201DAnteeksi\u201D, Oskari pyyt\xE4\xE4, \u201Den tarkoittanut
+    pahalla. Varmasti voidaan tarvita molempia, minun ty\xF6kalujani ja sinun tietokonettasi,
+    ja voimme vaikka l\xF6yt\xE4\xE4kin aarteen.\u201D\r\n\u201DNiin, niinh\xE4n
+    sit\xE4 sanotaan, ett\xE4 aarteen n\xE4keminen vaatii sek\xE4 j\xE4rke\xE4 ett\xE4
+    syd\xE4nt\xE4, silmi\xE4 ja korvia!\u201D\r\nOskari h\xE4mmentyy. Miekkamiehen
+    sanat\u2026 H\xE4n katsoo Miljaa pitk\xE4\xE4n ja yht\xE4kki\xE4 tajuaa, ett\xE4
+    h\xE4nen aarteensa taitaakin olla l\xE4hemp\xE4n\xE4, ihan t\xE4ss\xE4 vieress\xE4.\r\n\u201DEtsit\xE4\xE4nk\xF6
+    aarretta yhdess\xE4\u201D, h\xE4n kysyy arasti Miljalta, joka ny\xF6kk\xE4\xE4.
+    \r\nYhdess\xE4 he jatkavat matkaa, mutta l\xF6yt\xE4v\xE4tk\xF6 he aarteen? Seh\xE4n
+    riippuu vain heist\xE4 itsest\xE4\xE4n.\r"
+  enTitle: Treasure
+  enDesc: Janakkala
+  enIntroText: "Oskari Jaakkola is more interested in history than the developments
+    of the digital age. He has heard of a treasure hidden in Janakkala and sets out
+    to search for it. He believes that it must be some sort of a prehistoric treasure,
+    which would be real treasure for him. In a dream, he seeks help from the Janakkala
+    Swordsman whose grave, dating to the 14th century, was found just a few years
+    before. \r\n\"Yes, a treasure is awaiting you, if you just travel around the
+    historic sites and listen to their stories. You will need both your mind and
+    heart to find it, your eyes and ears alike!\u201D\r\nOskari woke up and thought
+    about the words of the Swordsman on his way to Janakkala. What did they mean?
+    \r\n\r\nOskari starts his trip from the Spring of Lauri, an ancient sacrificial
+    spring. There he meets Milja, a goth girl dressed in black. Milja tells him a
+    story and they go on together.\r"
+  enOutroText: "\u201CWhere did you hear all these stories?\u201D Oskari asks Milja.\r\n\"I
+    have researched the history of this place online and there was also information
+    about books worth exploring and reading.\u201D\r\n\u201CI do not care for the
+    web, I am a treasure hunter,\u201D Oskari comments somewhat arrogantly, and Milja
+    says nothing. Then Oskari remembers the words of the Swordsman.\r\n\"I am sorry\",
+    Oskari says, \"I meant no offense. I am sure we will need both, my tools and
+    your computer. Maybe we will even find a treasure.\u201D\r\n\"Yes, that is what
+    they say: you need both your mind and heart, eyes and ears to find the treasure!\"\r\nOskari
+    is confused. The Swordsman's words... He looks at Milja for a long time and suddenly
+    he realised that the treasure is closer than he thought, right here next to him.\r\n\"Should
+    we look for the treasure together?\" he asks Milja, who nods. \r\nThey continue
+    their journey together, but will they find the treasure? That is entirely up
+    to them.\r"

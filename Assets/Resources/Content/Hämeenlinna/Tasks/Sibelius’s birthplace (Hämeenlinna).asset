@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a820a2ca58514144ab9f50b01a6196da, type: 3}
+  m_Name: "Sibelius\u2019s birthplace (H\xE4meenlinna)"
+  m_EditorClassIdentifier: 
+  taskviewSprite: {fileID: 21300000, guid: de4bc83f03fe9c24f8307e98993c74ec, type: 3}
+  answers:
+  - 11
+  - yksitoista
+  - eleven
+  isARTask: 0
+  fiTitle: "Sibeliuksen syntym\xE4koti"
+  fiText: "S\xE4velt\xE4j\xE4 Jean Sibelius syntyi 1865 H\xE4meenlinnassa. Syntym\xE4kodin
+    upeasti sisustetuissa huoneissa kerrotaan Jannen poikavuosista ja aikakauden
+    H\xE4meenlinnasta. Kuinka vanha h\xE4n on kuvassa? (vinkki: vastaa vain numerolla.
+    Osaatko arvata oikein? K\xE4ym\xE4ll\xE4 museossa tiedon l\xF6yt\xE4\xE4 helposti)
+    \r\n\r\nKuvien oikeudet: H\xE4meenlinnan kaupunginmuseo"
+  enTitle: "Sibelius\u2019s birthplace"
+  enText: "Composer Jean Sibelius was born 1865 in H\xE4meenlinna. The exhibition
+    in his birthplace sheds light on his childhood in H\xE4meenlinna. How old is
+    he in this picture? (hint: answer only by number. From the museum you\u2019ll
+    find the correct answer)\n\nPhoto licence: H\xE4meenlinna City Museum"

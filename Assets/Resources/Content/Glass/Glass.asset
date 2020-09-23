@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56a04c58f8da67246b528c1b0a0e4f98, type: 3}
+  m_Name: Glass
+  m_EditorClassIdentifier: 
+  storytellingSprite: {fileID: 21300000, guid: 5111d905d54dbc9408ec8797219739af, type: 3}
+  locationMapSprite: {fileID: 21300000, guid: 9e966c0c279c8ce42aed78468d2af5b5, type: 3}
+  locations:
+  - {fileID: 11400000, guid: 6581558f6159b1b45b5c2f7c5f41db84, type: 2}
+  - {fileID: 11400000, guid: 91c47d5018b9626498b9755512d32822, type: 2}
+  - {fileID: 11400000, guid: f0cd3bc7ab50a4343abe31950725005b, type: 2}
+  fiTitle: "Kyynelist\xE4 syntyneet"
+  fiDesc: Lasi
+  fiIntroText: "Niit\xE4 on harva n\xE4hnyt. Ne lentelev\xE4t sateenkaaren v\xE4risiss\xE4
+    spektreiss\xE4, kun valo leikkaa lasia. Salamannopeasti, ne ovat siin\xE4 ja
+    sitten poissa. Ne ovat yht\xE4 hauraita kuin ohut lasi. Yht\xE4 l\xE4pikuultavia.\r\n\r\nKerrotaan,
+    ett\xE4 ne ovat syntyneet lasinpuhaltajien kyynelist\xE4, kun ne ovat putoilleet
+    lasinsirpaleisiin. Niist\xE4 kyyneleist\xE4, joita on syntynyt, kun olet niin
+    l\xE4hell\xE4 t\xE4ydellist\xE4 ty\xF6t\xE4 ja sitten se kuitenkin s\xE4rkyy.
+    Tai menett\xE4\xE4 ainutlaatuisen muotonsa. Tai ilon kyynelist\xE4, kun tulos
+    on t\xE4ydellinen, juuri sellainen, jonka lasinpuhaltaja sielussaan n\xE4ki.
+    \r\n\r\nLasikeijut eiv\xE4t el\xE4 kauaa, kaikilla niill\xE4 on syntyess\xE4\xE4n
+    lasisairaus, mutta ne syntyv\xE4t uudelleen, koska lasinpuhaltaja voi puhaltaa
+    niihin pienen lasisyd\xE4men, piskuisen pisaran el\xE4m\xE4\xE4 yll\xE4pit\xE4m\xE4\xE4n.
+    \r\n\r\nN\xE4kev\xE4tk\xF6 vain lasinpuhaltajat lasikeijuja? Ei, muutkin voivat
+    n\xE4hd\xE4 niit\xE4, jos\u2026 L\xE4hdet\xE4\xE4n etsim\xE4\xE4n.\r"
+  fiOutroText: "Lasia on monenlaista, niin on lasikeijujakin. Samassa esineess\xE4kin
+    toinen sen n\xE4kee ja toinen ei.\r\nKeijut eiv\xE4t siit\xE4 kyll\xE4 suutu,
+    he ovat siihen tottuneita. Ett\xE4 toisen kaunis ei olekaan kaikkien kaunis.\r\nEik\xE4
+    keijuja ihan kaikissa lasiesineiss\xE4 olekaan. \r\n\r\nLasikeijut syntyv\xE4t
+    vain silloin, kun itse tekij\xE4 n\xE4kee luomisty\xF6ns\xE4 kauneuden. Sen,
+    mit\xE4 on tavoitellut. Se on hetki, jossa ihmeit\xE4 tapahtuu. \r\n\r\nJoskus
+    keijut heitt\xE4ytyv\xE4t leikkisiksi. Ne laskevat liukum\xE4ke\xE4 auringons\xE4teiss\xE4,
+    spektrin eri raidoissa. Ne pelottelevat toisiaan kuperien lasien pinnoilla n\xE4ytt\xE4en
+    j\xE4ttil\xE4iskokoisilta tai vaihtavat v\xE4ri\xE4 sukeltaen eriv\xE4riseen
+    lasiin. \r\n\r\nLasikeijut el\xE4v\xE4t ihmisten keskuudessa niin kauan kuin
+    joku n\xE4kee esineen kauneuden. Niin kauan lasikeijulla on koti, mutta koditonna
+    se palaa keijujen maahan. Se tulee luoksemme uudelleen, kun jossain joku puhaltaa
+    uuden luomuksen ja n\xE4kee j\xE4lleen lasin kauneuden. \r\n\r\nLasikeiju on
+    kuin lasi, niin haurasta ja niin kest\xE4v\xE4\xE4, niin helposti s\xE4rkyv\xE4\xE4
+    ja niin ikuista.  Riippuen t\xE4ysin siit\xE4, miten sit\xE4 kohdellaan.\r"
+  enTitle: Born from tears
+  enDesc: Glass
+  enIntroText: "Only the lucky few have seen them. They fly around in spectres in
+    the colours of the rainbow when the light passes through glass. They are here
+    at lightning speed, and then they are gone. They are fragile and as thin as glass,
+    and just as transparent.\r\n\r\nThe story goes that they are created as the tears
+    of the glass-blowers drop into pieces of broken glass. The tears are shed when
+    you are so close to a perfect piece and the lose it, and it shatters or loses
+    its unique shape. Or of tears of joy when the item turns out perfect, just like
+    the glass-blower\u2019s soul predicted. \r\n\r\nGlass fairies only live for a
+    moment as they are all born with glass disease, but they are born again as a
+    glassblower can blow a small glass heart for them, a tiny bubble of life to sustain
+    them. \r\n\r\nAre the glassblowers the only ones who can see the glass fairies?
+    No, others can too if... Let\u2019s find out.\r"
+  enOutroText: "Glass comes in many forms, and so do glass fairies. Even if someone
+    can see them in a certain object, someone else might not.\r\nThe fairies do not
+    care, they are used to the fact that what is beautiful to someone is not necessarily
+    beautiful to everyone else.\r\nAnd fairies do not occupy all glass objects, either.
+    \r\n\r\nGlass fairies are only born when the glassblower sees the beauty of their
+    creation, sees what they were trying to achieve. It is in that moment when miracles
+    happen. \r\n\r\nSometimes the fairies like to play. They slide down sunrays,
+    having fun in the stripes of the spectre. They playfully scare each other on
+    the convex surfaces of the glass objects so that they look gigantic or change
+    colours by diving into multicoloured glass. \r\n\r\nGlass fairies live among
+    people as long as someone sees the beauty of the object. That is how long the
+    fairy will have a home; without a home, she has to return to Fairy Land. She
+    will return to us when someone blows a new glass object and sees its beauty.
+    \r\n\r\nThe glass fairy is as fragile and durable as glass, so easy to break
+    and just as eternal. Everything depends on how it is treated.\r"

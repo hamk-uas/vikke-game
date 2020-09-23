@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c09d8cd5454d694990f6bd9dc01d641, type: 3}
+  m_Name: "Tyrv\xE4nt\xF6 Church"
+  m_EditorClassIdentifier: 
+  locationStorySprite: {fileID: 21300000, guid: 7e3c4975f3b55b04e9340bb6d6276156,
+    type: 3}
+  task: {fileID: 11400000, guid: 0c5d6681d68ca5641a1c918bd5841e18, type: 2}
+  address: "Kirkkom\xE4ki 8, 14620 Tyrv\xE4nt\xF6"
+  latitude: 61.153545
+  longitude: 24.33522
+  fiTitle: Ihme
+  fiPlace: "Tyrv\xE4nn\xF6n kirkko"
+  fiText: "Ei Vasili siit\xE4 mielell\xE4\xE4n puhunut, kysytt\xE4ess\xE4 kyll\xE4
+    kertoi. Kouluttautunutta miest\xE4 kuunneltiin, vaikka ep\xE4ilij\xF6it\xE4kin
+    riitti. N\xE4ille Vasili viittasi kintaalla, eih\xE4n h\xE4n itsek\xE4\xE4n t\xE4ysin
+    tapahtunutta ymm\xE4rt\xE4nyt.\r\n\r\nVuosi oli 1838. Vasili Uschkakoff oli kauppamatkalla,
+    kantamuksina kauppatavaraa kauppiaille joulua varten. J\xE4ill\xE4 kulkiessaan
+    oli aina erityisen tarkkana. Rauttunselk\xE4\xE4 ylitt\xE4ess\xE4\xE4n pahin
+    kuitenkin tapahtui. Mies putosi j\xE4ihin, vajoten kohti mustaa pohjaa hyisess\xE4
+    vedess\xE4. Vasili havahtui j\xE4\xE4n p\xE4\xE4lt\xE4 makaamasta, pakkasen nipist\xE4ess\xE4
+    poskiaan. Tavarat tallessa vierell\xE4\xE4n, vaatteet vett\xE4 valuvina.\r\n\r\nTapahtumasta
+    oli muutama viikko. Kotimatkalla Tyrv\xE4nn\xF6n kirkosta Vasili kertasi kirkkoherran
+    sanoja mieless\xE4\xE4n. Lindeqvist oli vuolaasti kiitellyt Vasilin lahjoitusta,
+    jolla hankkivat tinatun l\xE4kkipeltisen ristin kirkon katonharjaa koristamaan.
+    \r\n\r\nN\xF6yr\xE4n\xE4 Vasili katsoi yl\xF6sp\xE4in ja kiitti viel\xE4 kerran
+    saamastaan suojelusta. Ihme se oli ollut, kyll\xE4 h\xE4n oli siit\xE4 varma.
+    Ajatus k\xE4\xE4ntyi l\xE4hestyv\xE4\xE4n jouluun ja syntym\xE4p\xE4iv\xE4\xE4n,
+    joulun lapsi h\xE4nkin.\r"
+  enTitle: A miracle
+  enPlace: "Tyrv\xE4nt\xF6 Church"
+  enText: "Vasily did not particularly want to speak about it, but if he was asked,
+    he would tell the story. He was an educated man, and people listened, but of
+    course there were those who doubted him. Vasily did not care, he did not completely
+    understand what had happened himself.\r\n\r\nIt was 1838. Vasily Uschkakoff was
+    on a trading trip, taking goods to merchants for Christmas. When he was crossing
+    the ice-covered lakes, he was always particularly careful. But once, the worst
+    thing happened: he fell through the ice, sinking into the blackness, to the bottom
+    of the icy-cold lake. When he woke up, he was lying on the ice, and the cold
+    air was nipping on his cheeks. All his goods were there beside him, and his clothes
+    were dripping wet.\r\n\r\nThis had happened a few weeks ago. When he was returning
+    from the Tyrv\xE4nt\xF6 Church, Vasily was thinking of the parson\u2019s words.
+    Lindeqvist had thanked Vasily profusely for his donation, which was used to buy
+    a tin-plated cross on the roof of the church. \r\n\r\nHumbled, Vasily looked
+    up once again, thankful for the protection. It had been a miracle, he was convinced.
+    His thoughts turned to Christmas that was soon coming, and his birthday: he,
+    too, was a child of Christmas.\r"

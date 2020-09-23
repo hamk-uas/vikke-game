@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c09d8cd5454d694990f6bd9dc01d641, type: 3}
+  m_Name: The Armour Museum
+  m_EditorClassIdentifier: 
+  locationStorySprite: {fileID: 21300000, guid: e65afbb2b7be1c247821a71afb1934e3,
+    type: 3}
+  task: {fileID: 11400000, guid: f8e6b7c0a1dec76428dc8a73685352ab, type: 2}
+  address: Hattulantie 334, 13720 Parola
+  latitude: 61.042194
+  longitude: 24.345774
+  fiTitle: Viktorin uni?
+  fiPlace: Panssarimuseo
+  fiText: "Keisari Aleksanteri II:n kaartilainen Viktor istuu Leirin harjulla vuonna
+    1863. H\xE4n sy\xF6 kourallisen punaisia marjoja ja nukahtaa. K\xE4ki kukkuu.
+    Viktor her\xE4\xE4 kovaan \xE4\xE4neen: Tervetuloa Panssarimuseon kev\xE4tsawutukseen
+    2018!\r\n\r\nViktor n\xE4kee ymp\xE4rill\xE4\xE4n pelottavia rautahirvi\xF6it\xE4.
+    Ne ovat hiljaa ja antavat koskettaakin itse\xE4\xE4n. Rohkeana miehen\xE4 Viktor
+    menee hirvi\xF6n sis\xE4\xE4nkin. Rohkeus pett\xE4\xE4, kun hirvi\xF6 l\xE4htee
+    murahtaen liikkeelle ja paukkuukin viel\xE4. Hirvi\xF6it\xE4 kutsutaan panssarivaunuiksi.
+    Viktor rauhoittuu saadessaan kahvia ja sokerisen herkun. \r\n\r\nHirvi\xF6ill\xE4
+    on outoja taloja pesin\xE4. Sis\xE4hirvi\xF6t ovat rauhallisia, koska niiden
+    seurana on hiljaisia ihmisi\xE4. Isoja tykkej\xE4 on talossa ja pari rinteess\xE4kin.
+    Vanhempien panssarien j\xE4lkeen Viktor uskaltautuu katsomaan vihaisempia vaunuja
+    viereiseen sotav\xE4en leiriin. Paikkahan on Viktorille tuttu keisarin kaartin
+    leiripaikkana. Kivileijonan luona vadelmat maistuvat taas ja k\xE4ki kukkuu.
+    Viktor her\xE4\xE4. Oliko kaikki vain unta? \r\n\r\nMuseolla on n\xE4hty Viktorin
+    n\xE4k\xF6inen hahmo."
+  enTitle: Viktor's Dream?
+  enPlace: The Armour Museum
+  enText: "It is 1863. Viktor, a member of the Imperial Guard of Alexander II of
+    Russia, is sitting on the Leiri Hill. He eats a handful of red berries and falls
+    asleep. You can hear a cuckoo calling. Viktor wakes up to a loud voice: \u201CWelcome
+    to the 2018 Spring Fumes show at the Armour Museum!\u201D\n\nViktor sees scary
+    iron monsters all around him. They are silent, you can even touch them. Viktor
+    is a brave man, so he steps inside one of the monsters. His bravery is gone when
+    the monster sets off with a howl, making a banging noise as it goes. The monster
+    is called a tank. Viktor calms down when he gets some coffee and a sweet pastry.\n\nThe
+    monsters have peculiar houses as their nests. The indoor monsters are calm, because
+    the people with them are calm. There are big cannons inside the building, and
+    a couple of them are located on the hillside. After the older armoured vehicles,
+    Viktor plucks up his courage and goes to see the angrier vehicles in the adjacent
+    military camp. Viktor is familiar with the place, as it used to serve as the
+    camp ground of the Imperial Guard. Near the stone lion, the raspberries taste
+    sweet and a cuckoo calls. Viktor wakes up. Was it all a dream?\n\nA figure that
+    looks like Viktor has been seen at the museum."

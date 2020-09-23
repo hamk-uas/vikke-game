@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c09d8cd5454d694990f6bd9dc01d641, type: 3}
+  m_Name: "Sibelius\u2019s birthplace (Sibelius)"
+  m_EditorClassIdentifier: 
+  locationStorySprite: {fileID: 21300000, guid: 84c10d07a39a0ef41808ebba9d8513eb,
+    type: 3}
+  task: {fileID: 11400000, guid: 05e565359b8fb3e46800ad1180164455, type: 2}
+  address: "Hallituskatu 11, 13100 H\xE4meenlinna"
+  latitude: 60.99645
+  longitude: 24.46242
+  fiTitle: "Pakkasp\xE4iv\xE4n poika"
+  fiPlace: "Sibeliuksen syntym\xE4koti"
+  fiText: "Talvisena pakkasp\xE4iv\xE4n\xE4, keskelle n\xE4lk\xE4vuosien kurjuutta,
+    syntyi poika, josta kuultaisiin viel\xE4. Todenn\xE4k\xF6isyydet jollekin sellaiselle
+    olivat pienet, sill\xE4 eih\xE4n nyt l\xE4\xE4k\xE4rin pojasta mit\xE4\xE4n taiteilijaa
+    voisi tulla. Kunnon ammatti pit\xE4\xE4 olla, ja kun is\xE4kin sai pari vuotta
+    my\xF6hemmin pilkkukuumeen ja kuoli, joutui koko perhe muuttamaan iso\xE4idin
+    nurkkiin. Omaisuus myytiin huutokaupalla.\r\n\r\nJanneksi kutsuttu poika oli
+    lahjakas. Perhe asettui muutaman v\xE4livaiheen j\xE4lkeen iso\xE4idin ja t\xE4tien
+    kanssa tilavaan taloon, jonka t\xE4ytti musiikki. Laulu\xE4\xE4ni sai irvist\xE4m\xE4\xE4n,
+    mutta pianoa ja my\xF6hemmin viulua poika soitti kauniisti. Sisarusten muodostamalle
+    triolle alkoi synty\xE4 s\xE4vellyksi\xE4kin. Lahjakkuus ei n\xE4kynyt koulun
+    penkill\xE4, sill\xE4 kotiteht\xE4vien sijaan paperille tuli usein vain nuotteja.\r\n\r\nIso\xE4idin
+    yll\xE4tykseksi Janne sai luettua ylioppilaaksi ja kirjauduttua Helsingin yliopistoon
+    lakioppiin. Opinnot kuitenkin eteniv\xE4t perheen patisteluista huolimatta ainoastaan
+    konservatorion puolella. Pian koko kansakunnan huulilla oli sed\xE4n k\xE4yntikortista
+    napattu taiteilijanimi Jean Sibelius.\r"
+  enTitle: Son of a cold winter day
+  enPlace: "Sibelius\u2019s birthplace"
+  enText: "On a cold winter day, in the midst of the misery of the famine years,
+    a boy was born of whom everyone would later hear about. The odds were against
+    it: it was unthinkable that a doctor\u2019s son would become an artist. A good
+    profession was what was needed, especially after the father of the family died
+    just a few years later of typhus. The family had to move in with their grandmother,
+    and all their possessions were auctioned.\r\n\r\nThe boy, called Janne, was talented.
+    After a while, the family settled in a spacious house with the grandmother and
+    aunts, and soon music filled the house. Janne\u2019s singing voice maybe made
+    you cringe, but he played the piano and, later, the violin, beautifully. \r\n\r\nJanne,
+    his sister and brother made up a trio. Compositions also started to appear. His
+    academic talents were not as obvious, and his homework was often decorated with
+    notes, too.\r\n\r\nTo the grandmother\u2019s surprise, Janne managed to pass
+    the matriculation exam. He moved to Helsinki and enrolled at the university to
+    study law. He only made progress in his studies at the conservatory, though.\r\n\r\nSoon,
+    the whole nation was talking about him, known by his stage name, Jean Sibelius,
+    that he had picked from his uncle\u2019s business card.\r"

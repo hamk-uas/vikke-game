@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c09d8cd5454d694990f6bd9dc01d641, type: 3}
+  m_Name: Sibelius Forest
+  m_EditorClassIdentifier: 
+  locationStorySprite: {fileID: 21300000, guid: 6ac94864ddc69e441bff3a35795f671d,
+    type: 3}
+  task: {fileID: 11400000, guid: 81629ca1d47ffff4e82ccbbc02ba7f5b, type: 2}
+  address: "13270 H\xE4meenlinna"
+  latitude: 61.03031
+  longitude: 24.476484
+  fiTitle: Suomalaisen musiikin syntysijoja
+  fiPlace: "Sibeliuksen mets\xE4"
+  fiText: "Siell\xE4 se on. Sibeliuksen mets\xE4. Juuri siell\xE4, minne Jean Sibelius
+    usein katseli Aulangonvuoren laelta, siit\xE4 miss\xE4 nyt on n\xE4k\xF6torni.
+    Nyt alue on luonnonsuojelualue.\r\n\u201DSiell\xE4 suojellaan luontoa. Sen lis\xE4ksi
+    sill\xE4 suojellaan suomalaista kansallismaisemaa ja suomalaisen musiikin syntysijoja\u201D,
+    kertoo nuori opettaja koululuokalleen luokkaretkell\xE4 Aulangolle.\r\nHe ovat
+    kiivenneet n\xE4k\xF6tornille ja istuvat nyt h\xE4mm\xE4stytt\xE4v\xE4n hiljaa
+    kallioilla n\xE4k\xF6tornin juurella opettajaansa kuunnellen.\r\n\r\nOpettaja
+    hakee sanoja. Niin kuin moni muukin t\xE4ss\xE4 paikassa. Kun edess\xE4 on jotain
+    niin suurta, niin kaunista, ett\xE4 se mykist\xE4\xE4.\r\n\u201DJean Sibelius
+    sai inspiraationsa t\xE4\xE4lt\xE4. H\xE4nen innoittamanaan musiikista sanottiin
+    silloin, ett\xE4 suomalaisten s\xE4velten mahtava kev\xE4tvirta sy\xF6ksyi valtavalla
+    kohinalla esiin er\xE4maasta. Jean Sibelius viihtyi mets\xE4ss\xE4, h\xE4n kulki
+    usein t\xE4\xE4ll\xE4 retkill\xE4\xE4n. H\xE4n pulahti uimaan mielell\xE4\xE4n
+    ja kuunteli luonnon \xE4\xE4ni\xE4 \u2013 ehk\xE4 ne muuttuivat h\xE4nen mieless\xE4\xE4n
+    nuoteiksi. \u201D\r"
+  enTitle: Origins of Finnish music
+  enPlace: Sibelius Forest
+  enText: "There it is. The Sibelius Forest. Jean Sibelius would often let his eyes
+    wander over the forest when he was on top of Aulankovuori Hill, where the viewing
+    tower is now. It is a conservation area.\r\n\"It is a place for nature conservation,
+    along with the conservation of Finnish national landscape and the birth place
+    of some of the greatest music created in Finland,\u201D a young teacher explains
+    to a group of school children on their way to a class trip on Aulanko.\r\nThey
+    have just climbed up to the viewing tower and are now standing on the cliffs
+    beneath the tower, listening to their teacher.\r\n\r\nThe teacher is searching
+    for the right words. It happens to many people here: when facing something so
+    stately, so beautiful, you are at a loss for words.\r\n\"This place inspired
+    Jean Sibelius. His music inspired someone to say that a mighty stream of Finnish
+    tunes emerged and rushed down from the wilderness. Jean Sibelius loved the wilderness,
+    and he used to walk here often. He was happy to dip into the lake and listen
+    to the sounds of nature: maybe they were turned into musical notes in his head.\u201D\r"

@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c09d8cd5454d694990f6bd9dc01d641, type: 3}
+  m_Name: Statue of Alfred Kordelin
+  m_EditorClassIdentifier: 
+  locationStorySprite: {fileID: 21300000, guid: b4c8f45c25a2cd9469c991dc53f7627b,
+    type: 3}
+  task: {fileID: 11400000, guid: a19475171ddd8e14f968e20a94da04a8, type: 2}
+  address: Lammintie 352, 12130 Mommila
+  latitude: 60.844677
+  longitude: 25.048801
+  fiTitle: "Tyytyv\xE4inen mies"
+  fiPlace: Alfred Kordelinin muistomerkki
+  fiText: "Alfred Kordelin seisoi pellonpientareella ja katseli, miten hyvinvoiva
+    karja laidunsi vihre\xE4ll\xE4 niityll\xE4. Tyytyv\xE4isyys ailahti h\xE4nen
+    rinnassaan, sellainen syv\xE4 tyytyv\xE4isyys. Aikaa ja voimiakin se oli vienyt,
+    mutta nyt tuntui silt\xE4, ett\xE4 niin tilanhoitaja, rengit kuin karjakotkin
+    ymm\xE4rsiv\xE4t h\xE4nt\xE4 ja karjanpito alkoi tuottaa mukavasti. \r\n\r\nMaatalousneuvos.
+    Olivat sellaista arvoa h\xE4nelle ehdottaneet. Mik\xE4s siin\xE4, olihan h\xE4n
+    ty\xF6t\xE4 tehnyt ja liek\xF6 jo Suomen suurin yksityinen maanomistaja, Kordelin
+    makusteli mieless\xE4\xE4n.\r\n\r\nKordelin ei ollut niin ylellisyyksist\xE4
+    perustanut, kartanotkin hankkinut, jotta p\xE4\xE4si karjataloutta niiss\xE4
+    kunnolla kehitt\xE4m\xE4\xE4n. Mutta nyt h\xE4n oli alkanut haaveilla, josko
+    olisi kes\xE4asunto mukava jossain meren rannalla. Lainehtisi vesi v\xE4lill\xE4
+    n\xE4k\xF6piiriss\xE4, ei vilja ja niityt, ei hein\xE4seip\xE4\xE4t, vaan vaahtop\xE4\xE4t
+    avarassa maisemassa.\r\n\r\nMutta on se vaan kaunista, kun ruis pellossa kasvaa.
+    Paljon siin\xE4kin tietoa tarvitaan, liek\xF6 tiedon jyvi\xE4kin, ett\xE4 se
+    hyvin kasvaa ja t\xE4hk\xE4 oikein painaa, kun puimaan aloitetaan, Kordelin myh\xE4ili.\r"
+  enTitle: A happy man
+  enPlace: Statue of Alfred Kordelin
+  enText: "Alfred Kordelin stood on the side of the field and watched his healthy
+    cattle graze on the green pasture. He felt a flicker of content, a deep satisfaction
+    inside. This had taken time and all his strength, but finally he felt that the
+    steward, the farm workers and milkmaids all had begun to understand him, and
+    his cattle-farming was starting to make a profit. \r\nAgricultural counsellor.
+    An honorary title that had been proposed for him. \u201CWell, why not. He had
+    done a lot of work and he could well be the largest land-owner in all Finland\u201D,
+    Kordelin thought to himself.\r\n\r\nKordelin did not really care for luxury,
+    and he had only acquired the manors so he could properly start his work on the
+    development of cattle farming. However, now he had started thinking that maybe
+    a summer house would be nice, somewhere near the sea. He would like to look at
+    water for a change, not only the waving fields and meadows. The foam-flecked
+    waves of the open sea instead of haycocks.\r\n\r\n\u201CIt was still a beautiful
+    sight, a field of rye. You need to know so much, so many crumbs of knowledge,
+    for it to grow well and have heavy ears when it is time to start harvesting\u201D,
+    Kordelin says.\r"

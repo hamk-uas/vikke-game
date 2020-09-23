@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a820a2ca58514144ab9f50b01a6196da, type: 3}
+  m_Name: Mierola Bridge
+  m_EditorClassIdentifier: 
+  taskviewSprite: {fileID: 21300000, guid: 4c5c6daa00c33ed4aa370d8aa9340bf9, type: 3}
+  answers:
+  - 6
+  - kuusi
+  - six
+  isARTask: 0
+  fiTitle: Mierolan silta
+  fiText: "Alkuper\xE4inen silta valmistettiin vuonna 1904, mutta se tuhoutui sis\xE4llissodassa
+    1918. Uusi ter\xE4sbetoninen valmistui 1919. Mik\xE4 on sillan leveys metrein\xE4?
+    (vinkki: py\xF6rist\xE4 luku l\xE4himp\xE4\xE4n kokonaiseen metriin.)"
+  enTitle: Mierola Bridge
+  enText: 'The original bridge was built 1904, but it was destroyed in the civil
+    war 1918. The new bridge made of reinforced concrete, was made 1919. What is
+    the width of the bridge in meters? (hint: round the number up to the closest
+    whole number)'

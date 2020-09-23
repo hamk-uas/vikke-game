@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c09d8cd5454d694990f6bd9dc01d641, type: 3}
+  m_Name: First elementary school
+  m_EditorClassIdentifier: 
+  locationStorySprite: {fileID: 21300000, guid: 8c73eade5f75197458f634c2c559067b,
+    type: 3}
+  task: {fileID: 11400000, guid: 38117b5670251984380c95ff8477d0e2, type: 2}
+  address: "Hiki\xE4ntie 223, 12240 Hiki\xE4"
+  latitude: 60.759174
+  longitude: 24.91493
+  fiTitle: "N\xE4ytt\xE4\xE4 vanhalta"
+  fiPlace: "Suomen ensimm\xE4inen kansakoulu"
+  fiText: "\u201DVuonna 1856 perustettiin Suomeen, Hausj\xE4rvelle, ensimm\xE4inen
+    kansakoulu. Sen perusti kenraali Johan Munck Erkyl\xE4n kartanosta. Koulunk\xE4ynti
+    oli silloin hyvin erilaista\u201D, kertoi opettaja toisen luokan oppilaille.\r\n\u201DKoulu
+    alkoi mikkelinp\xE4iv\xE4st\xE4, joka on yleens\xE4 syyskuun loppupuolella ja
+    kesti kes\xE4kuun alkuun. P\xE4iv\xE4 oli pitk\xE4, aamukahdeksasta iltakahdeksaan\u201D,
+    opettaja jatkoi.\r\n\u201DOliko sitten viel\xE4 paljon l\xE4ksyj\xE4?\u201D Matti
+    kysyi.\r\n\u201DEi, kaikki teht\xE4v\xE4t tehtiin koulussa.\u201D\r\nOpettaja
+    kertoi edelleen, ett\xE4 koulussa sai my\xF6s ruuan, se oli useimmiten keittoa.
+    Pitk\xE4nmatkalaiset asuivat asuntolassa, kun se valmistui. Ja lukea piti osata
+    ennen kuin kouluun p\xE4\xE4si.\r\n\u201DHirve\xE4n pitk\xE4 koulup\xE4iv\xE4.
+    12 tuntia. Meill\xE4 on vaan nelj\xE4 tuntia\u201D, sanoi Matti.\r\n\u201DHyvin
+    laskettu Matti!\u201D Kehaisi opettaja ja Matti n\xE4ytti silt\xE4, ett\xE4 h\xE4nelt\xE4h\xE4n
+    se sujuu t\xE4m\xE4 koulunk\xE4ynti helposti. \r\nMatti mietti kotiin k\xE4velless\xE4\xE4n,
+    ett\xE4 h\xE4nen pit\xE4isi muistaa kotona kysy\xE4, onkohan h\xE4nenkin mummunsa
+    k\xE4ynyt Suomen ensimm\xE4ist\xE4 koulua, kun n\xE4ytt\xE4\xE4 niin vanhalta.\r"
+  enTitle: Pretty old
+  enPlace: The first elementary school in Finland
+  enText: "\"Finland\u2019s first elementary school was founded in Hausj\xE4rvi in
+    1856. It was founded by General Johan Munck of the Erkyl\xE4 Manor. Going to
+    school was very different back then\u201D, the teacher told her second-year pupils.\r\n\u201CSchool
+    started at Michaelmas, usually at the end of September, and lasted until the
+    beginning of June. The days were long, from eight in the morning until eight
+    in the evening\u201D, the teacher continued.\r\n\"And was there a lot of homework?\"
+    Matti asked.\r\n\"No, all the assignments were done at school.\u201D\r\nThe teacher
+    went on to explain that meals were served at school, usually soup. Those who
+    had a long way to school lived at the dormitory after it was completed. And you
+    had to know how to read before you started school.\r\n\"Such a long school day,
+    12 hours! Ours is only four!\u201D Matti said.\r\n\"Well done, Matti!\" the teacher
+    said. Matti\u2019s expression suggested that school was really easy for him.
+    \r\nOn his way home, Matti was thinking that he should try to remember to ask
+    if his grandma had attended the first school in Finland, since she looked pretty
+    old, too.\r"

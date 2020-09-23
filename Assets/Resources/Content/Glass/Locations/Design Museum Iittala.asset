@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c09d8cd5454d694990f6bd9dc01d641, type: 3}
+  m_Name: Design Museum Iittala
+  m_EditorClassIdentifier: 
+  locationStorySprite: {fileID: 21300000, guid: 0414cea1a0ac7ba47807b0c56428f211,
+    type: 3}
+  task: {fileID: 11400000, guid: c635fc67c35bc524e9bc8cc0b728b84f, type: 2}
+  address: "K\xF6nn\xF6l\xE4nm\xE4entie 2 C, 14500 Iittala"
+  latitude: 61.08953
+  longitude: 24.129122
+  fiTitle: "Iittalan keijujen y\xF6 "
+  fiPlace: Fiskars Finland Oy Ab / Designmuseo Iittala
+  fiText: "H\xE4m\xE4r\xE4 oli jo laskeutunut museoon, kun museomestari sulki Designmuseo
+    Iittalan oven. Pime\xE4n yh\xE4 tihentyess\xE4 alkoi osaan lasikokoelman laseista
+    sytty\xE4 pieni\xE4 valoja, kuin t\xE4hti\xE4 lasien sis\xE4lle. Pienet lasikeijut
+    her\xE4iliv\xE4t laseissa sijaitsevista pisarakodeistaan.\r\n\r\nKohta museon
+    lattia jo t\xE4yttyi tanssivista keijuista, jotka varoivat visusti kompuroimasta
+    pienist\xE4 puunpalasista koostuvalla lattialla. Jokainen tiesi kompastumisen
+    olevan kohtalokasta, sill\xE4 lattian rakosiin pudonneet keijukaiset murtuivat
+    pieniksi lasinsiruiksi.\r\n\r\nSin\xE4 y\xF6n\xE4 keijujen tanssi k\xE4vi riehakkaammaksi
+    kuin koskaan. Mutta \xE4kisti tanssi pys\xE4htyi. Jostain oli kuulunut lasinsirpaleiden
+    helin\xE4\xE4. Kaikki kurkistelivat ymp\xE4rilleen, kenelle oli k\xE4ynyt pahasti.
+    Keijujen huojennukseksi vain yksi pieni lasiesine oli tipahtanut lattialle. Aamu
+    alkoi jo valjeta ja keijut k\xF6mpiv\xE4t takaisin koteihinsa. \r\n\r\nT\xF6ihin
+    tullessaan museomestari lakaisi kummissaan lattiaa. T\xE4m\xE4 ei ollut ensimm\xE4inen
+    kerta, kun lattialta l\xF6ytyi aamulla lasinsiruja.\r"
+  enTitle: 'Night of the fairies in Iittala '
+  enPlace: 'Fiskars Finland / Design Museum Iittala '
+  enText: "Darkness had already fallen at the museum when the museum technician closed
+    the doors of the Iittala Design Museum. In the dark, tiny lights began to appear
+    in some of the glass objects in the collection, like stars blinking in them.
+    Tiny glass fairies were waking up in their bubble homes.\r\nThe floor of the
+    museum soon filled with dancing fairies who were careful not to stumble on the
+    wooden floor. Everyone knew that tripping could be dangerous, because fairies
+    who fell in between the floorboards turned into tiny pieces of glass.\r\n\r\nThat
+    night, the fairies danced wilder than ever. But, suddenly, the dancing stopped.
+    They heard the sound of glass shattering. Everyone was looking around: who had
+    been hurt? The fairies were relieved to realise that only one small glass object
+    had fallen on the floor. As the dawn began to break, the fairies crawled back
+    into their homes. \r\n\r\nWhen the museum technician returned to work, he swept
+    the floor in amazement. This was not the first time he found pieces of glass
+    on the floor in the morning.\r"

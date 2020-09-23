@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c09d8cd5454d694990f6bd9dc01d641, type: 3}
+  m_Name: "H\xE4meenlinna Church (Sibelius)"
+  m_EditorClassIdentifier: 
+  locationStorySprite: {fileID: 21300000, guid: 87716b546be33104bafff554afe0e0c3,
+    type: 3}
+  task: {fileID: 11400000, guid: 7e7c078c5c19b46458b2e07ccdeeb34b, type: 2}
+  address: "Kirkkorinne 2, 13100 H\xE4meenlinna"
+  latitude: 60.99698
+  longitude: 24.466764
+  fiTitle: Kaupunki on tulessa
+  fiPlace: "H\xE4meenlinnan kirkko"
+  fiText: "H\xE4meenlinnan kirkon suntio Osmo kuulee sakastiin itkua. Kirkkosalista
+    h\xE4n l\xF6yt\xE4\xE4 pienen pojan nyyhkytt\xE4m\xE4st\xE4. \r\n\u201DKaupunki
+    on tulessa! Kirkas \xE4\xE4ni kiirii amfiteatterin muotoisessa salissa.\u201D\r\n\u201DKuka
+    se t\xE4\xE4ll\xE4 on piilossa?\u201D kysyy Osmo yst\xE4v\xE4llisesti.\r\n\u201DMin\xE4
+    se vain, Sibeliuksen Johan, tai Janneksihan minua kutsutaan.\u201D\r\nOsmo vie
+    pojan ikkunan \xE4\xE4reen. Ulkona on rauhallista ja Kirkkopuisto hehkuu ruskan
+    v\xE4rej\xE4.\r\n\u201DRauhoituhan nyt ja kerro, mist\xE4 moinen h\xE4t\xE4!\u201D\r\n\u201DOlin
+    ongella Vanajaveden rannassa ja onkikaverini kertoi yli kolmekymment\xE4 vuotta
+    sitten tapahtuneesta kaupunkipalosta, joka tuhosi l\xE4hes koko kaupungin, mutta
+    kirkko s\xE4ilyi. Ehk\xE4 kuvittelin tai nukahdin ja n\xE4in unta tulipalosta.
+    Se tuntui niin todelliselta! Juoksin kirkkoon turvaan.\u201D\r\nSamassa Jannen
+    silm\xE4t kirkastuvat, h\xE4n katsoo ymp\xE4rilleen. \r\n\u201DT\xE4\xE4ll\xE4
+    Pohjolan Pantheonissa voi kuvitella olevansa Roomassa!\u201D\r\nUrkuparvelle
+    kiivennyt kanttori alkaa soittaa kuulaalla oboe-\xE4\xE4nikerralla. Janne asettuu
+    kirkonpenkkiin sel\xE4lleen, silm\xE4t kiinni. \r\n\r\nUnelman voi lukea tulevan
+    s\xE4velt\xE4j\xE4mestarin kasvoilta: \u201DTuollaista kauneutta tahdon itsekin
+    luoda el\xE4m\xE4ss\xE4ni\u201D.\r"
+  enTitle: The city is on fire
+  enPlace: "H\xE4meenlinna Church"
+  enText: "Osmo, the sexton of the Church of H\xE4meenlinna, is in the sacristy when
+    he hears someone crying. He finds a little boy in the church, sobbing, \r\n\"The
+    city is on fire!\" a clear voice echoes around the amphitheatre-style nave of
+    the church. \r\n\"Who is it hiding here?\u201D Osmo asks gently.\r\n\"It\u2019s
+    just me, Johan Sibelius, or Janne as everyone knows me.\u201D\r\nOsmo takes the
+    boy to the window. The city outside is quiet and the Kirkkopuisto Park is blazing
+    with autumn colours.\r\n\"Please calm down now and tell me why you are in such
+    a panic!\u201D\r\n\"I was fishing at the Vanajavesi lake and my fishing mate
+    told me about the city fire that happened over thirty years ago. Almost the entire
+    city burnt down, and only the church survived. I don\u2019t know if it was my
+    imagination or if I fell asleep, it felt so real! I ran to the church to be safe.\u201D\r\nJanne\u2019s
+    eyes brighten up as he looks around. \r\n\"Here, in the Pantheon of the north,
+    you can almost feel like you are in Rome!\u201D\r\nThe organist has climbed on
+    the organ loft and begins to play the clear tone of the oboe organ stop. Closing
+    his eyes, Janne lies down on the church pew.\r"

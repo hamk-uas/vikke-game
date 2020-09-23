@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c09d8cd5454d694990f6bd9dc01d641, type: 3}
+  m_Name: Church of the Holy Cross, Hattula (Middle Ages)
+  m_EditorClassIdentifier: 
+  locationStorySprite: {fileID: 21300000, guid: 21894e6adfaa87b47868190275e8a17d,
+    type: 3}
+  task: {fileID: 11400000, guid: 9e914ec2c0b0fa246a34e49c615dc68f, type: 2}
+  address: Vanhankirkontie 41, 13720 Parola
+  latitude: 61.050797
+  longitude: 24.398272
+  fiTitle: Punainen tiiliviitta
+  fiPlace: "Pyh\xE4n Ristin kirkko, Hattula"
+  fiText: "Ingeborg istuu kiikker\xE4ss\xE4 veneess\xE4 Vanajan aaltojen nostaessa
+    vett\xE4 veneen pohjalle. Kunhan ei myrsky nousisi. Matka linnan hovista Pyh\xE4n
+    Ristin kirkolle kest\xE4\xE4 tovin. Ingeborg on odottanut pitk\xE4\xE4n n\xE4hd\xE4kseen
+    kirkon Ruotsista palattuaan. Onkohan valmiiksi saatu? Joku tiesi kertoa, ett\xE4
+    seini\xE4 oli maalauksin koristeltu sek\xE4 Liedon mestarin puuveistoksia sinne
+    tuotu. Kuinka j\xE4nnitt\xE4v\xE4\xE4.\r\n\r\nPyhiinvaeltajat ovat samaa vesireitti\xE4
+    kulkeneet vastauksia etsiess\xE4\xE4n. Kuningatar Margareeta oli kehottanut sielunsa
+    rauhan puolesta tekem\xE4\xE4n pyhiinvaellusmatkoja my\xF6s Hattulaan. On Ingeborgin
+    vaeltajia linnalla majoittanut, matkalaisille ruokaa tarjonnut.\r\n\r\nKokka
+    karahtaa rantahiekkaan ja ilma on kirkastunut. Auringon s\xE4teet osuvat veteen
+    ja tanssivat laineilla. Kirkko siint\xE4\xE4 ylv\xE4\xE4n\xE4 m\xE4en p\xE4\xE4ll\xE4,
+    kuin linnan sisarus, punaisessa tiiliviitassaan. Kirkossa alttarin suojissa on
+    Pyh\xE4n Ristin reliikki, mist\xE4 ihmeest\xE4 se sinne onkin p\xE4\xE4tynyt.
+    Sanovat, ett\xE4 sill\xE4 on ihmeit\xE4 tekev\xE4 voima. Ingeborg k\xE4velee
+    hiljaa kirkkoa kohti.\r"
+  enTitle: A red-brick robe
+  enPlace: Church of the Holy Cross, Hattula
+  enText: "Ingeborg was sitting in a rocky boat with the waves of Vanajavesi lake
+    surging water to the bottom of the boat. If only there was no storm... The journey
+    to the Church of the Holy Cross from the castle takes a while. Since her return
+    from Sweden, Ingeborg has waited a long time to see the church. Has it been completed?
+    Someone had explained that the walls had been decorated with paintings and wooden
+    statues by the Master of Lieto. How exciting!\r\n\r\nThe pilgrims travelled the
+    same waterways in their search for answers. Queen Margaret had encouraged pilgrimages
+    to go to Hattula for the peace of her soul. Ingeborg had offered accommodation
+    and food for the pilgrims, too.\r\n\r\nThe bow of the boat hits the sand on the
+    shore. The air has cleared, and the sun\u2019s rays flicker on the waves. The
+    church on the top of the hill looks imposing, like the castle\u2019s sister also
+    dressed in a red brick robe. The altar of the church conceals a relic of the
+    Holy Cross \u2013 how on earth did it end up there? It has been said to have
+    miraculous power. Ingeborg walks towards the church slowly.\r"

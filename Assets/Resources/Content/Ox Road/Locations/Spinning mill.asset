@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c09d8cd5454d694990f6bd9dc01d641, type: 3}
+  m_Name: Spinning mill
+  m_EditorClassIdentifier: 
+  locationStorySprite: {fileID: 21300000, guid: 2a7b208b129b75346a5c4529f57bdbf1,
+    type: 3}
+  task: {fileID: 11400000, guid: 683b66b06ca24e74c989c20f188adfdf, type: 2}
+  address: Wahreninkatu 12, 30100 Forssa
+  latitude: 60.81529
+  longitude: 23.621407
+  fiTitle: Wahrenin vierailu
+  fiPlace: "Kehr\xE4\xE4m\xF6"
+  fiText: "Axel Wahren on palannut Kehr\xE4\xE4m\xF6lle. H\xE4n katselee rakennuksia
+    ja pohtii, ett\xE4 pystyss\xE4 ovat viel\xE4 kehr\xE4\xE4m\xF6, paja, puusep\xE4nverstas,
+    valimo, j\xE4tekehr\xE4\xE4m\xF6, voimalaitos ja puuvillamakasiini. Mutta toiminta
+    niiss\xE4 on kyll\xE4 jotain ihan muuta kuin h\xE4nen aikanaan.\r\n\r\nOn museota
+    ja ravintolaa. P\xE4iv\xE4koti ja kirjasto, koulu ja kansalaisopisto ja vaikka
+    mit\xE4. Ihmisi\xE4 vilisee joka paikassa ja Wahrenin p\xE4\xE4 meinaa ihan menn\xE4
+    py\xF6r\xE4lle.\r\n\r\nKosken kohina kuuluu kuitenkin edelleen, ihan niin kuin
+    ennenkin ja puisto, kaunis puisto ja tehtaanjohtajien kauniit talot. Siell\xE4
+    kelpaa k\xE4yskennell\xE4, v\xE4h\xE4n rauhoittuakin hy\xF6riv\xE4st\xE4 menosta.
+    \r\n\r\nWahren muistelee tehtaan vilkkaita vuosia, pumpulienkeleit\xE4, kaikkia
+    tehtaalaisia, tehtaan koulua ja l\xE4\xE4k\xE4rintaloa \u2013 el\xE4m\xE4 oli
+    silloin sellaista. Punaiset vanhat tiilirakennukset k\xE4tkev\xE4t sis\xE4\xE4ns\xE4
+    kaikkien tehtaalaisten tarinat. Heid\xE4nkin, jotka tulivat vasta paljon h\xE4nen
+    j\xE4lkeens\xE4.  \r\n\r\nOnneksi, Wahren toteaa, Kehr\xE4\xE4m\xF6 on edelleen
+    vilkas alue ja rakennukset t\xE4ynn\xE4 el\xE4m\xE4\xE4.\r"
+  enTitle: "Wahren\u2019s visit"
+  enPlace: Spinning mill
+  enText: "Axel Wahren has returned to the spinning mill. He looks around and realises
+    that the spinning mill, workshop, carpenter\u2019s workshop, foundry, waste-cotton
+    mill, power plant and the cotton warehouse are still there. But they are in completely
+    different use than in his day.\r\n\r\nThere are museums and restaurants. A nursery
+    and library, a school and an adult education centre and so on. There are so many
+    people teeming around that Wahren feels almost dizzy.\r\n\r\nThe roaring of the
+    rapids can still be heard though, just like in the old days. The park is still
+    as beautiful as it used to be and so are the houses once occupied by the factory
+    owners. This is a great place for a stroll and to take a break from all the hustle
+    and bustle. \r\n\r\nWahren recalls the busy years at the factory: the cotton
+    angels, all the factory works, the factory school and doctor\u2019s office. That
+    was the way of life back then. The stories of all the factory workers, even those
+    who came much after his time, are contained in the red brick buildings.  \r\n\r\nIt
+    is such a delight that the Spinning Mill area is still busy, and its buildings
+    are filled with life.\r"

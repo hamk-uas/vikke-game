@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c09d8cd5454d694990f6bd9dc01d641, type: 3}
+  m_Name: "Laurinm\xE4ki (Calming love)"
+  m_EditorClassIdentifier: 
+  locationStorySprite: {fileID: 21300000, guid: 504d44787e11541488ef47b2f34acd2b,
+    type: 3}
+  task: {fileID: 11400000, guid: a881801312d4dbc48bc3053acf7cf847, type: 2}
+  address: 369, Hakoistentie, 14240 Janakkala
+  latitude: 60.890224
+  longitude: 24.599089
+  fiTitle: Rauhoittavaa rakkautta
+  fiPlace: "Laurinm\xE4en torpparimuseo"
+  fiText: "Silm\xE4t r\xE4v\xE4htiv\xE4t auki, oliko h\xE4n nukkunut? Juhani t\xE4hysti
+    h\xE4diss\xE4\xE4n pellon yli R\xE4ik\xE4l\xE4n siltaa. Onneksi kaikki oli rauhallista.
+    H\xE4nen joukkonsa oli komennettu juoksuhautaan pit\xE4m\xE4\xE4n silta punaisten
+    hallussa, vaikka mik\xE4 olisi. Saksalaiset oli pakotettu edellisen\xE4 iltana
+    per\xE4\xE4ntym\xE4\xE4n. Luulivat noin vain marssivansa kirkolle, kun saivatkin
+    aika tulituksen niskaansa.\r\n\r\nJuhani hieraisi silmi\xE4\xE4n n\xE4hdess\xE4\xE4n
+    huhtikuisen aamu-usvan muodostaman hahmon. Soturi hevosensa sel\xE4ss\xE4 n\xE4ytti
+    olevan toisesta ajasta. T\xE4m\xE4 heilutti kahta pitk\xE4\xE4 miekkaa kohti
+    n\xE4kym\xE4tt\xF6mi\xE4 vastustajia. Yht\xE4kki\xE4 h\xE4nen hevosensa sortui
+    ja hahmo katosi. \r\n\r\nRatatatattam! Juhani nappasi aseensa tajuten kauhukseen,
+    etteiv\xE4t laukaukset tulleetkaan sillan suunnalta vaan selustasta. H\xE4n l\xE4hti
+    muiden mukana kiireesti per\xE4\xE4ntym\xE4\xE4n, kompasteli ja kaatui lopulta
+    kosteaan maahan aivan l\xE4hteen \xE4\xE4relle. Ennen kuin tuli hiljaista, h\xE4n
+    ehti n\xE4hd\xE4 veden pinnassa kauniin nuoren naisen tulen leikki ymp\xE4rill\xE4\xE4n
+    ja rauhoittavaa rakkautta katseessaan.\r"
+  enTitle: Calming love
+  enPlace: "Laurinm\xE4ki Crofter\u2019s Museum"
+  enText: "His eyes flew open. Was he asleep? Juhani was scared as he looked over
+    the field to the direction of R\xE4ik\xE4l\xE4 bridge. Fortunately, everything
+    seemed quiet. His troops had been ordered to the trenches to ensure that the
+    Reds would keep possession of the bridge, no matter what. The Germans had been
+    forced to retreat the night before. They thought they could just march right
+    up to the church, when they were greeted with heavy gunfire.\r\n\r\nJuhani rubbed
+    his eyes at the sight of a figure appearing in the April morning mist. A knight
+    on top of a horse, a vision reminiscent of another time. The knight was swinging
+    two swords at his invisible enemies. Suddenly, the horse fell apart and the knight
+    disappeared. \r\n\r\nRa ta ta ra ta ta! Juhani grabbed his rifle as he realised
+    that the gunshots were not fired from the bridge, but from their rear. He began
+    to retreat with haste together with the others, and kept stumbling and finally
+    fell down on the wet ground near the spring. Before silence fell, he caught a
+    glimpse of a young, beautiful woman on the surface of the water, surrounded by
+    flames, radiating soothing love.\r"

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a820a2ca58514144ab9f50b01a6196da, type: 3}
+  m_Name: Ball statue at Maaherranpuisto Park
+  m_EditorClassIdentifier: 
+  taskviewSprite: {fileID: 21300000, guid: 08d8e9bcd6a5a7c4a827e21c84d3e620, type: 3}
+  answers:
+  - 1997
+  isARTask: 0
+  fiTitle: Maaherranpuiston pallopatsas
+  fiText: "Suomessa toteutui 1.9.1997 l\xE4\xE4niuudistus, jossa l\xE4\xE4nien m\xE4\xE4r\xE4
+    v\xE4heni kuuteen aikaisemmasta kahdestatoista. H\xE4meenlinnasta tuli uuden
+    Etel\xE4-Suomen l\xE4\xE4nin hallinnollinen keskus. Uudistukseen liittyen H\xE4meenlinnan
+    p\xE4\xE4kirjaston vieress\xE4 oleva Rantapuiston osa vihittiin Maaherranpuistoksi.
+    Tilaisuudessa paljastettiin my\xF6s Etel\xE4-Suomen uusi vaakuna sek\xE4 Etel\xE4-Suomen
+    edistyksellisyytt\xE4 kuvaava kiviveistos, jonka on valmistanut Savitaipaleen
+    kiviveist\xE4m\xF6. \r\n\r\nMin\xE4 vuonna patsas paljastettiin? "
+  enTitle: Ball statue at Maaherranpuisto Park
+  enText: "On 1st September 1997 in Finland actualize county reform. Then were decided
+    that in Finland will be 6 counties instead of the former 12 counties. H\xE4meenlinna
+    became one of the administrative center for one county. In memoriam for this
+    event were open a new park named as Governor Park. In the same event were published
+    a new stone statue.\r\n\r\nIn which year this statue was published?"

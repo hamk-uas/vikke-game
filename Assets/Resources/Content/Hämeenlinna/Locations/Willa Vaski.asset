@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c09d8cd5454d694990f6bd9dc01d641, type: 3}
+  m_Name: Willa Vaski
+  m_EditorClassIdentifier: 
+  locationStorySprite: {fileID: 21300000, guid: 89e81cafbd815c3409b4070243bad3d9,
+    type: 3}
+  task: {fileID: 11400000, guid: 6e1dabf9c1f40264c810e0df3f940013, type: 2}
+  address: "Lukiokatu 4, 13100 H\xE4meenlinna"
+  latitude: 60.999187
+  longitude: 24.465069
+  fiTitle: Pakaritupa
+  fiPlace: Willa Vaski
+  fiText: "Kahvitellessaan syntym\xE4kotinsa puutarhassa 1988 Isa Kuparinen muisteli
+    talon vaiheita. \r\n\r\nPalanderin pakarituvassa oli Isakin lapsena leiponut
+    kuuluisia muhkeita korvapuusteja. Pakarikauden j\xE4lkeen oli talon pitk\xE4aikainen
+    henget\xE4r Aino Suolahti nimennyt rakennuksen Willaksi.\r\n\r\nSuomen itsen\xE4istymisen
+    kuohunta ei h\xE4irinnyt puutarhaidylli\xE4, mutta 1918 oli pihalla kaaos. Isa
+    muisti viel\xE4kin kauhean pamauksen ammusvaunun r\xE4j\xE4hdetty\xE4 ratapihalla.
+    \r\n\r\nKun nuori Isa ja yst\xE4v\xE4ns\xE4 Elli Palander hoitivat pihaan tuotuja
+    haavoittuneita, naiset saivat idean neuloa lohdutukseksi l\xE4mpimi\xE4 sukkia.
+    Uutuudet nimettiin Willasukiksi, sill\xE4 idea kirjoneulekuvioihin tuli Willan
+    upeasta puuportista. \r\n\r\nKun talo oli myyty 20 vuotta sitten H\xE4meenlinnan
+    sotilaspiirin esikunnalle, tuli lapsuudenkodista toimisto.\r\n\r\nT\xE4n\xE4\xE4n
+    Isa oli iloinen, ett\xE4 rouva Aro, joka juuri oli perheineen vuokrannut talon
+    H\xE4meenlinnan kaupungilta, kutsui h\xE4net puutarhaansa lepuuttamaan 100-vuotiaita
+    koipiaan ja tarinoimaan menneist\xE4.\r\n"
+  enTitle: Bakehouse
+  enPlace: Willa Vaski
+  enText: "In 1988, while having coffee in the garden of the house where she was
+    born, Isa Kuparinen looked back on its history. \r\n\r\nIn her childhood, Isa
+    had participated in the baking of the hefty cinnamon rolls in the Palander Bakehouse.
+    After its bakehouse years, the long-time lady of the house, Aino Suolahti, had
+    decided to call it Willa.\r\n\r\nThe turmoil surrounding the early years of Finnish
+    independence did not interfere with the garden\u2019s idyll, but in 1918, there
+    was a chaotic event outside. Isa still remembered the horrible blast when a railway
+    carriage full of ammunition exploded in the railway yard. \r\n\r\nWhen young
+    Isa and her friend, Elli Palander, were caring for the injured brought into the
+    garden, they got the idea that they would comfort the wounded by handing out
+    warm, hand-knit socks. Their elaborate patterns were inspired by the wooden gates
+    of the house. \r\n\r\nAfter the house was sold, some 20 years earlier, to the
+    headquarters of the H\xE4meenlinna Military District, Isa\u2019s childhood home
+    was turned into an office.\r\n\r\nOn this day, Isa was delighted that Mrs Aro,
+    whose family had just rented the house from the City of H\xE4meenlinna, invited
+    her to the garden to rest her 100-year-old feet and tell stories of the old times.\r"

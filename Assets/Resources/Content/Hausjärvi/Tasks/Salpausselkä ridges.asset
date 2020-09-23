@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a820a2ca58514144ab9f50b01a6196da, type: 3}
+  m_Name: "Salpausselk\xE4 ridges"
+  m_EditorClassIdentifier: 
+  taskviewSprite: {fileID: 21300000, guid: 16385afbeb8219a4a940cc45372cc3cc, type: 3}
+  answers:
+  - 3
+  - kolme
+  - three
+  isARTask: 0
+  fiTitle: "Salpausselk\xE4"
+  fiText: "Salpaussel\xE4t ovat j\xE4\xE4kauden p\xE4\xE4t\xF6svaiheessa syntyneit\xE4
+    maapinnan muodostumia, harjuja. N\xE4m\xE4 erimittaiset harjumuodostumat kulkevat
+    Suomen kartalla l\xE4nsi \u2013 it\xE4 suunnassa. Kaikki Salpaussel\xE4t sijaitsevat
+    Etel\xE4-Suomessa ja yksi niist\xE4 ulottuu Kanta-H\xE4meeseen. Kuinka monta
+    Salpausselk\xE4\xE4 Suomessa on? (vinkki: vastaa vain numerolla)"
+  enTitle: "Salpausselk\xE4 ridges"
+  enText: "The Salpaussel\xE4t are eskers formed by the ice age. These eskers are
+    different length and are situated west- east direction in the Southern Finland.
+    One of these Salpausselk\xE4 eskers are also in H\xE4me Region. How many Salpausselk\xE4
+    eskers there are in Finland? (hint: answer by number)"

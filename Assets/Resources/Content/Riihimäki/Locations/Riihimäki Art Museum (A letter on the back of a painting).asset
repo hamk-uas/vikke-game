@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c09d8cd5454d694990f6bd9dc01d641, type: 3}
+  m_Name: "Riihim\xE4ki Art Museum (A letter on the back of a painting)"
+  m_EditorClassIdentifier: 
+  locationStorySprite: {fileID: 21300000, guid: 446d12fff8a6d5e42be3eec38766c1dc,
+    type: 3}
+  task: {fileID: 11400000, guid: 780a1e0af2652744daae331a6fb99feb, type: 2}
+  address: "TEMPPELIKATU 8, 11100 RIIHIM\xC4KI"
+  latitude: 60.73663
+  longitude: 24.76781
+  fiTitle: Kirje taulun takana
+  fiPlace: "Riihim\xE4en taidemuseo"
+  fiText: "Tornator Oy:n Lahden rullatehtaan is\xE4nn\xF6itsij\xE4, patruuna G.A.
+    Enbom polttelee sikaria ja lukee 12.4.1933 Tammisaaressa p\xE4iv\xE4tty\xE4 kirjett\xE4.
+    Enbom oli tiedustellut enkeliaiheisesta taulustaan. \r\n\r\nKirjeen on l\xE4hett\xE4nyt
+    taulun maalannut taiteilijatar Helene Schjerfbeck. H\xE4n oli hahmotellut teosta,
+    jossa Kristuksen k\xE4sivarsien alla olisi enkelit ja taustana musta j\xE4rvi
+    ja valkoiset vaahtop\xE4\xE4t. \r\n\r\n\u201DEn tavoitellut siev\xE4\xE4 tyyli\xE4,
+    vaan synkk\xE4\xE4 ja raskasta vaikutelmaa. Teos j\xE4i kuitenkin toteuttamatta
+    voimien puutteen vuoksi.\u201D Vaaleanpunasiipisen enkelin mallina toimi naapurin
+    mustatukkainen tytt\xF6. \u201DTytt\xF6 tuli kuulemma sittemmin uskoon, vaikka
+    en kertonut mink\xE4laiseen aiheeseen h\xE4nt\xE4 k\xE4ytin\u201D. \r\n\r\nHelene
+    arvelee kirjoittaneensa asiasta liiankin pitk\xE4sti, mutta on ilahtunut taulun
+    tuottaessa mielihyv\xE4\xE4. Kirje loppuu \u201DErinomaisella kunnioituksella,
+    Helene Schjerfbeck\u201D. \r\n\r\nEnbom on mieliss\xE4\xE4n. H\xE4n katsoo teosta
+    uusin silmin: se on her\xE4nnyt eloon! \r\n\r\nKirje l\xF6ytyi Riihim\xE4en taidemuseosta
+    taulun takaa. Piilottiko Enbom sen, ett\xE4 teos her\xE4isi eloon viel\xE4 vuosikymmenienkin
+    p\xE4\xE4st\xE4?\r"
+  enTitle: 'A letter on the back of a painting '
+  enPlace: "Riihim\xE4ki Art Museum"
+  enText: "The head of the Tornator bobbin factory in Lahti, G. A. Enbom is smoking
+    a cigar and reading a letter dated 12 April 1933 in Tammisaari. Enbom had inquired
+    about an angel painting. \r\n\r\nThe letter has been sent by the artist who painted
+    the piece: Helene Schjerfbeck. She had made sketches for a work in which angels
+    were positioned under the arms of Christ, with a black lake and white-crusted
+    waves in the background. \r\n\r\n\"I did not seek a pretty style: I wanted it
+    to be gloomy and heavy. But I was too weak to paint it.\u201D The black-haired
+    girl from the neighbour had modelled for the pink-winged angel. \u201CThey told
+    me that she found God after that, and I never even told her what she was modelling
+    for!\u201D \r\n\r\nHelene suspects that maybe her letter was too lengthy, but
+    that she is delighted that the painting is a source of joy for someone. The letter
+    is concluded: \u201CWith utmost respect, Helene Schjerfbeck\u201D. \r\n\r\nEnbom
+    is pleased. He looks at the work with new eyes and feels it has come alive! \r\n\r\nThe
+    letter was found on the back of the painting at the Riihim\xE4ki Art Museum.
+    Did Enbom hide it so that the work could still come alive decades later?\r"

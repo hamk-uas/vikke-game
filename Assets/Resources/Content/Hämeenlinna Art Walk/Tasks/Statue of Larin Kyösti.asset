@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a820a2ca58514144ab9f50b01a6196da, type: 3}
+  m_Name: "Statue of Larin Ky\xF6sti"
+  m_EditorClassIdentifier: 
+  taskviewSprite: {fileID: 21300000, guid: aad9c8207e6b2b745b4aba01030b5857, type: 3}
+  answers:
+  - oikea
+  - right
+  isARTask: 0
+  fiTitle: "Larin Ky\xF6stin patsas"
+  fiText: "Larin-Ky\xF6sti oli h\xE4meenlinnalainen runoilija. H\xE4nen kunniakseen
+    on pystytetty patsas H\xE4meenlinnan keskustaan Toripuistoon. Kumpi jalka Larin-Ky\xF6sti
+    patsaassa on korkeammalla?"
+  enTitle: "Statue of Larin Ky\xF6sti"
+  enText: "Larin-Ky\xF6sti was a famous Finnish lyricist from H\xE4meenlinna. His
+    statue can be found in the H\xE4meenlinna city center. Which leg in the statue
+    is higher, right or left?"

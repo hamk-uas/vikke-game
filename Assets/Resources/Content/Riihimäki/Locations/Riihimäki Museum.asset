@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c09d8cd5454d694990f6bd9dc01d641, type: 3}
+  m_Name: "Riihim\xE4ki Museum"
+  m_EditorClassIdentifier: 
+  locationStorySprite: {fileID: 21300000, guid: 02801b69069d32342b5dddf03d067f97,
+    type: 3}
+  task: {fileID: 11400000, guid: 3481a0fb40e96e44db652ec5b5d82ffc, type: 2}
+  address: "\xD6llerinkatu 3 11130 Riihim\xE4ki"
+  latitude: 60.73607
+  longitude: 24.77579
+  fiTitle: Suuria uutisia!
+  fiPlace: "Riihim\xE4en kaupunginmuseo"
+  fiText: "Rakas kotiv\xE4ki, \r\n\r\nRautatieasemalta uudelle ty\xF6paikalleni Ratainsin\xF6\xF6rin
+    talolle reitti kulki kauniin asemanpuiston ohi mukulakivikatua m\xE4elle ja siit\xE4
+    oikealle. Punainen iso talo kauniissa pihapiiriss\xE4.\r\n\r\nRatainsin\xF6\xF6ri
+    Nikolai Thunebergin rouva n\xE4ytti ullakkohuoneeni sek\xE4 teht\xE4v\xE4ni.
+    Perheelt\xE4 ja talon vierailta sain kuulla paikkakunnasta. Vapaahetkin\xE4 istuin
+    asemanpuistossa ja tunnistin esimerkiksi kunnioitetun asemap\xE4\xE4llikk\xF6
+    Anton Wilhelm \xD6llerin ja ravintoloitsija sek\xE4 hotellinpit\xE4j\xE4 Olivia
+    Ax\xE9enin. \r\n\r\nRatainsin\xF6\xF6rin pihaa hoitaa nuori mies, Johan, rautatiel\xE4isen
+    poika. Keksin usein asiaa piharakennuksen pesutuvalle sek\xE4 kaivolle. H\xE4nelt\xE4
+    sain kuulla Riihim\xE4est\xE4 lis\xE4\xE4. \r\n\r\nKerran Johan tuli noutamaan
+    minua ja vei mukulakivikatua asemalle jamaankuuluun ravintolaan. Illalla tein
+    p\xE4\xE4t\xF6kseni j\xE4\xE4d\xE4 Riihim\xE4elle. Johan kihlasi minut. Tuntuu,
+    ett\xE4 t\xE4\xE4ll\xE4 nuoressa asemakyl\xE4ss\xE4 kaikki on mahdollista, oma
+    talokin! Talo, jonka pihalla mahtuvat sitten lapsetkin telmim\xE4\xE4n.\r\nRiihim\xE4kel\xE4iset
+    lapset. \r\nRakkain terveisin, \r\nAnna\r"
+  enTitle: Great news!
+  enPlace: "Riihim\xE4ki Museum"
+  enText: "Dear family, \r\n\r\nWhen I arrived at the Railway Engineers\u2019 Building,
+    I passed the beautiful park near the station, went up the cobblestone streets
+    to the hill and to the right. This is an impressive, red building with a beautiful
+    yard.\r\n\r\nRailway engineer Nikolai Thuneberg\u2019s wife showed me to my room
+    in the attic and to my chores. The family and guests visiting the building told
+    me about the town. In my free time, I went to the park next to the station, and
+    I could recognise the highly respected stationmaster, Anton Wilhelm \xD6ller,
+    and the restaurant and hotel owner, Olivia Ax\xE9en. \r\n\r\nThe garden of the
+    Railway Engineers\u2019 Building is tended by a young man called Johan, who is
+    the son of a railway worker. I often end up with chores in the laundry room and
+    at the well. Johan has told me much about Riihim\xE4ki. \r\n\r\nOnce, Johan came
+    to pick me up and took me to the station. We walked the cobblestone streets and
+    went to the restaurant that is famous across the country. That evening, I decided
+    to stay in Riihim\xE4ki. Johan and I became engaged. I feel that everything is
+    possible here, in this young railway town! Even having a house of our own with
+    a big enough garden for children to play at.\r\nChildren from Riihim\xE4ki. \r\nSincerely,
+    \r\nAnna\r"

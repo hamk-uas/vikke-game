@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c09d8cd5454d694990f6bd9dc01d641, type: 3}
+  m_Name: Vanaja Church
+  m_EditorClassIdentifier: 
+  locationStorySprite: {fileID: 21300000, guid: 33bb7e303dbd4ae42a9ab25e81cf0bbd,
+    type: 3}
+  task: {fileID: 11400000, guid: 9b9e8c481a156a34da9d22030ed63a95, type: 2}
+  address: "Hautausmaantie 20, 13110 H\xE4meenlinna"
+  latitude: 60.978992
+  longitude: 24.503702
+  fiTitle: Vanha Aksel ja saarnastuoli
+  fiPlace: Vanajan kirkko
+  fiText: "L\xE4hes elinik\xE4ns\xE4 seurakuntaa palvellut pastori Aksel kulki Vanajan
+    kirkon seinustaa ja kosketti yht\xE4 kirkon suurista nurkkakivist\xE4. Se tuntui
+    kylm\xE4lt\xE4 hallay\xF6n j\xE4lkeen, vaikka p\xE4ivisin aurinko viel\xE4 l\xE4mmitti
+    alkusyksyn s\xE4teill\xE4\xE4n. \r\n\r\nAksel kiipesi lempipaikkaansa, kirkon
+    harvinaiseen ulkoiseen saarnastuoliin. Aksel oli aina iloinnut siit\xE4, ett\xE4
+    Vanajan kirkon l\xE4nsip\xE4\xE4tyyn oli rakennettu tuo paikka. Se on aikoinaan
+    ollut k\xE4yt\xF6ss\xE4 suurina juhlapyhin\xE4, kun kirkko t\xE4yttyi. Sielt\xE4
+    on my\xF6s luettu maallisen hallinnon alaan kuuluvia tiedotuksia ja kuulutuksia.
+    Nyky\xE4\xE4n saarnastuolia k\xE4ytet\xE4\xE4n harvoin, mutta Aksel on nauttinut
+    noista kerroista, kun on saanut saarnata alas ker\xE4\xE4ntyneelle kirkkov\xE4elle.
+    Olihan kirkko sis\xE4lt\xE4kin tunnelmallinen, mutta varsinkin kauniina kes\xE4p\xE4ivin\xE4
+    oli mukavaa puhua seurakunnalle ulkona.\r\n\r\nMuutamaa p\xE4iv\xE4\xE4 my\xF6hemmin
+    Aksel nukkui pois. H\xE4net siunattiin ja haudattiin Vanajan kirkon viereiselle
+    hautausmaalle. Mutta joskus kirpein\xE4 alkusyksyn aamuina, auringons\xE4teiden
+    l\xE4vist\xE4ess\xE4 usvan, voit n\xE4hd\xE4 Akselia muistuttavan hahmon saarnastuolistaan.\r"
+  enTitle: Old Aksel and the pulpit
+  enPlace: Vanaja Church
+  enText: "Pastor Aksel, who had served the parish for almost his entire life, was
+    walking along the external wall of the Vanaja Church and touched one of its massive
+    corner stones. After a freezing night, the stone was still cold, even though
+    the days were warm. \r\n\r\nAksel climbed to his favourite spot, the exterior
+    pulpit of the church, a very rare construction. He had always been very happy
+    that the pulpit had been built on the western end of the church. Once, it was
+    used on major holidays only, when the church was fully packed. Secular, administrative
+    announcements were also made from the pulpit. Nowadays, it is not often used,
+    but Aksel has enjoyed all the occasions when he has had the chance to preach
+    to the congregation below. There is a special feeling in the church, but speaking
+    to the congregation outdoors, especially on a beautiful summer day, is a unique
+    feeling.\r\n\r\nA few days later, Aksel passed away. His funeral service took
+    place at the Vanaja Church and he was buried in its graveyard. But sometimes,
+    on frosty autumn mornings, when the sun\u2019s rays penetrate the fog, you can
+    see a figure that resembles Aksel in the exterior pulpit.\r"

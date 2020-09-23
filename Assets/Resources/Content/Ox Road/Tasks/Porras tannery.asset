@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a820a2ca58514144ab9f50b01a6196da, type: 3}
+  m_Name: Porras tannery
+  m_EditorClassIdentifier: 
+  taskviewSprite: {fileID: 21300000, guid: f79b1b6622dde55449be0c9d78407032, type: 3}
+  answers:
+  - ivar
+  isARTask: 0
+  fiTitle: Portaan Nahkurinverstas
+  fiText: "Etsi nahkurinverstasrakennuksen p\xE4\xE4sis\xE4\xE4nk\xE4ynnin oven luota
+    selostus verstaan historiasta. Poimi sielt\xE4 nahkurinverstaan perustajan toinen
+    nimi ja sy\xF6t\xE4 se vastauksena."
+  enTitle: Porras tannery
+  enText: Go to the main entrance of the tannery building and search a description
+    of the history of the place. Read the text to find the middle name of the founder
+    of the tannery and enter that name as the answer.

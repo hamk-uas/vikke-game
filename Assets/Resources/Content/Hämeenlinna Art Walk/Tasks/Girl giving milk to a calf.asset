@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a820a2ca58514144ab9f50b01a6196da, type: 3}
+  m_Name: Girl giving milk to a calf
+  m_EditorClassIdentifier: 
+  taskviewSprite: {fileID: 21300000, guid: 1116399f61feb634bbbff078a21188c9, type: 3}
+  answers:
+  - 3
+  - kolme
+  - three
+  isARTask: 1
+  fiTitle: Laske vasikat
+  fiText: "Etsi patsaan kyljest\xE4 laatta, jossa kerrotaan patsaan tiedot. Avaa
+    skanneri, ja tarkastele laattaa sen l\xE4pi. Kun olet tarpeeksi l\xE4hell\xE4
+    laattaa, n\xE4et el\xE4inaitauksen, jossa on erilaisia maaseudun el\xE4imi\xE4.\n\nKuinka
+    monta vasikkaa n\xE4et aitauksessa?"
+  enTitle: Count the calfs
+  enText: 'Find a plaque on the side of the granite base that contains information
+    about the sculpture. Open the scanner and view the plaque through it. When you''re
+    close enough to the plaque, you''ll see a pen with various farm animals.
+
+
+    How
+    many calfs do you see in the pen?'

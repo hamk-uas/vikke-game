@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c09d8cd5454d694990f6bd9dc01d641, type: 3}
+  m_Name: Palander House
+  m_EditorClassIdentifier: 
+  locationStorySprite: {fileID: 21300000, guid: 5bcc879286ad6174696bdf0ab10afd93,
+    type: 3}
+  task: {fileID: 11400000, guid: 534f8efe4772609479d6431b3e53c58e, type: 2}
+  address: "Linnankatu 16, 13100 H\xE4meenlinna"
+  latitude: 60.99913
+  longitude: 24.464737
+  fiTitle: "Edvardin-p\xE4iv\xE4"
+  fiPlace: Palanderin talo
+  fiText: "Ernesti Suolahti muistelee, miten Palandereilla oli tapana viett\xE4\xE4
+    1880-luvulla h\xE4nen is\xE4ns\xE4, lehtori Edvard Palanderin, nimip\xE4iv\xE4\xE4
+    suurena Edvardin-p\xE4iv\xE4n juhlana, joka erosi kovasti arjen vaatimattomasta
+    rauhallisuudesta.\r\n\r\nValmistelut keitti\xF6ss\xE4 alkoivat varhain. Siell\xE4
+    valtaa piti kuulu keitt\xE4j\xE4t\xE4r rouva Heerman, joka oli saanut oppinsa
+    kuvern\xF6\xF6ri Ammondin taloudessa. Ernesti sai juosta veljens\xE4 Hugon kanssa
+    jatkuvasti kaupungilla asioilla, joista mieluisimpia olivat tupakkaostokset.\r\n\r\nOhjelmaa
+    tarjosi normaalilyseon kahdeksanhenkinen oppilasorkesteri, joka jo aamulla piipahti
+    juhlavassa salissa opettajansa kunniaksi. Mukana oli my\xF6s sittemmin s\xE4velt\xE4j\xE4n\xE4
+    tunnettu Jean Sibelius.\r\nIllalla saapuivat vieraat tavanmukaisine tervehdyksineen.
+    Herroille oli katettu totivehkeet is\xE4n kamariin, ja naisv\xE4ki nautti viini\xE4
+    ja pikkuleipi\xE4 salissa. Nuorisolle oli f\xF6rmaakissa punssia. \r\n\r\nKellon
+    l\xE4hetess\xE4 kymment\xE4 ovet avattiin ruokasaliin ja ilonpitoa jatkui pikkutunneille
+    asti. Kumma kyll\xE4 varhain seuraavana aamuna oltiin charmikkaasti ylh\xE4\xE4ll\xE4,
+    vailla v\xE4symyksen merkki\xE4k\xE4\xE4n.\r"
+  enTitle: "Edvard\u2019s day"
+  enPlace: Palander House
+  enText: "Ernesti Suolahti recalls how the Palanders used to celebrate the name
+    day of his father, Edvard Palander, a teacher in the 1880s, with a big feast,
+    so different from the modest and quiet life they usually led.\r\nPreparations
+    in the kitchen started well in advance. The kitchen was the domain of the cook,
+    Mrs Heerman, who had learned the profession in the household of governor Ammond.
+    Ernesti and his brother Hugo were frequently asked to run errands in town. Their
+    favourite was going to the tobacco shop.\r\n\r\nThe lyceum\u2019s eight-player
+    student ensemble performed. They had already paid a visit to their teacher in
+    the morning and played in the imposing drawing room. The octet included Jean
+    Sibelius, who later became a famous composer.\r\nThe guests arrived in the evening
+    with their customary presents. The ingredients for hot toddy had been placed
+    in the host\u2019s chambers for the gentlemen, and the ladies enjoyed wine and
+    biscuits in the drawing room. There was punch served in the parlour for the young
+    people. \r\n\r\nWhen it was nearing ten o\u2019clock, the doors to the dining
+    hall swung open, and the festivities continued until the wee hours. As odd as
+    it sounds, everyone woke up early, but no-one looked tired.\r"

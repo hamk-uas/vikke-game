@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c09d8cd5454d694990f6bd9dc01d641, type: 3}
+  m_Name: Mantere Hill Fort
+  m_EditorClassIdentifier: 
+  locationStorySprite: {fileID: 21300000, guid: 93a5e35c8e08799419b511c7b569c5c5,
+    type: 3}
+  task: {fileID: 11400000, guid: a93c28f0e9a5b844ea7ff7b6dd100fd2, type: 2}
+  address: "Harvialantie 359, 13250 H\xE4meenlinna"
+  latitude: 60.98133
+  longitude: 24.530148
+  fiTitle: Kun taistelu on ohi
+  fiPlace: Mantereenlinna
+  fiText: "Taistelu oli ohi. T\xE4ll\xE4 kertaa ry\xF6st\xE4j\xE4t oli ly\xF6ty,
+    eik\xE4 yksik\xE4\xE4n niist\xE4 ollut p\xE4\xE4ssyt etel\xE4isest\xE4 eik\xE4
+    pohjoisestakaan porttiaukosta. Muualla vallit suojasivat ja niiden suojasta pystyi
+    ampumaan nuolia. L\xE4nsireunan kivivallilta oli kaadettu kiehuvaa vett\xE4 ry\xF6st\xE4jien
+    niskaan. Vilja oli pit\xE4nyt tulta isojen astioiden alla ja nuoret pojat olivat
+    kantaneet vett\xE4 vallille. \r\n\r\nVilja olisi mieluummin mennyt ampumaan nuolia
+    vihollisen nahkaan, mutta siihen ei naisia p\xE4\xE4stetty. Vaikka h\xE4n oli
+    montaa miest\xE4 parempi ampumaan. Se oli Viljasta niin v\xE4\xE4rin, mutta ei
+    h\xE4n sit\xE4 sanonut \xE4\xE4neen. Olisi pian joutunut pois linnavuorelta,
+    miss\xE4 oli muuten turvallista el\xE4\xE4 \xE4idin ja vanhan is\xE4n kanssa.
+    Is\xE4 oli sepp\xE4 ja he saivat asua vuorella, sepp\xE4\xE4 tarvittiin aina
+    nuolenp\xE4it\xE4 ja miekkoja tekem\xE4\xE4n. \r\n\r\nVilja olisi halunnut osallistua
+    linnavuorten viestiin, oli kuullut, kun miehet siit\xE4 puhuivat. Mit\xE4 jos
+    mieheksi pukeutuisi? H\xE4n oli nopsajalkainen ja saisi miehen asun jostain varastettua,
+    kun olutp\xE4iss\xE4\xE4n nukkuivat taistelun voitettuaan. Siin\xE4p\xE4 suunnitelma,
+    Vilja ajatteli ja h\xE4visi h\xE4m\xE4r\xE4\xE4n iltaan."
+  enTitle: After the Battle
+  enPlace: Mantere Hill Fort
+  enText: "The battle was over. The raiders had been defeated, and no-one had gotten
+    in through the South or North Gate. The fort was surrounded by earthwork that
+    was a good shelter for shooting arrows. They had poured boiling hot water on
+    the raiders from western stone embankments. Vilja had been keeping a fire under
+    the massive pots, and the young boys had carried the water to the embankment.\n\nVilja
+    would have preferred to shoot arrows against the enemy, but women could not do
+    that, even though she was a better shooter than many of the men. Vilja thought
+    this an injustice, but she did not say anything about it. She could have been
+    expelled from the hill fort that was such a safe place, in other respects, for
+    her to live with her mother and elderly father. Her father was a blacksmith and
+    they were allowed to live on the hill, because a blacksmith was always needed
+    to forge arrowheads and swords.\n\nVilja wanted to run in the hill fort relay,
+    she had overheard the men talking about it. What if she dressed as a man? She
+    was quick on her feet and could obtain a man\u2019s clothes somewhere, when they
+    were sleeping after having too much beer after a battle. \u201CSuch a great plan!\u201D
+    Vilja thought before disappearing into the dusk."

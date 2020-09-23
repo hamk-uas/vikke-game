@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a820a2ca58514144ab9f50b01a6196da, type: 3}
+  m_Name: Kaukolanharju ridge
+  m_EditorClassIdentifier: 
+  taskviewSprite: {fileID: 21300000, guid: 59f0001a2a4bb42478ccd605dbc0ecf0, type: 3}
+  answers:
+  - punainen
+  - red
+  isARTask: 0
+  fiTitle: Kaukolanharju
+  fiText: "Kauniilla Kaukolanharjulla kohoaa 1926 valmistunut n\xE4k\xF6torni. Tornista
+    avautuu henke\xE4salpaavat maisemat, jotka kuuluisa taiteilija Albert Edelfelt
+    on taltioinut tunnetussa maalauksessaan N\xE4kym\xE4 Kaukolanharjulta (1889-1890).
+    Tornin vierelt\xE4 voi l\xF6yt\xE4\xE4 Edefeltin muistokiven.\r\n\r\nMink\xE4
+    v\xE4rinen n\xE4k\xF6torni on?"
+  enTitle: Kaukolanharju ridge
+  enText: "In the beautiful Kaukola esker is 1926 build tower. From the top of the
+    tower you can see the amazing scenery over forests and lakes. Finland\u2019s
+    famous painter Albert Edelfelt painted the scenery to his famous painting called
+    \u201CView from the Kaukola esker\u201D (1889-1890). Next to the tower you can
+    find Edelfelt\u2019s memorial. Which color is the tower?"

@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a820a2ca58514144ab9f50b01a6196da, type: 3}
+  m_Name: First elementary school
+  m_EditorClassIdentifier: 
+  taskviewSprite: {fileID: 21300000, guid: 1c3c967d6cd29d245a7409a735ae1adf, type: 3}
+  answers:
+  - "v\xE4rit"
+  - colors
+  - colours
+  - collour
+  - collor
+  isARTask: 0
+  fiTitle: "Suomen ensimm\xE4inen kansakoulu"
+  fiText: "Kotiin p\xE4\xE4sty\xE4\xE4n Matti meni innoissaan mummun luokse ja kysyi,
+    \"Mummu, k\xE4vitk\xF6 sin\xE4 Suomen ensimm\xE4ist\xE4 kansakoulua, kun n\xE4yt\xE4t
+    niin vanhalta?\u201D, johon mummu vastasi naurahtaen, ett\xE4 \u201D En sent\xE4\xE4n
+    niin vanha ole, mutta \xE4itini opiskeli aikoinaan siell\xE4\u201D. \r\n\r\nMatti
+    ja mummu vertailivat uuden ja vanhan Eskon koulun yht\xE4l\xE4isyyksi\xE4 ja
+    totesivat, ett\xE4 uusi Eskon koulu on rakennettu kunnioittaen Suomen ensimm\xE4ist\xE4
+    kansakoulua. \r\n\r\nKuinka vanhan koulun kunnioitus n\xE4kyy uudessa koulurakennuksessa;
+    koko, muoto vai v\xE4rit?"
+  enTitle: The first elementary school in Finland
+  enText: "After coming home, Matti asked excited:\u201D Grandma, did you go to the
+    Finland\u2019s first elementary school, because you look so old?\u201D Grandma
+    answered laughing:\u201D I\u2019m not that old, but my mother went that school.\u201D
+    \r\n\r\nMatti and grandma compared the new and old schools\u2019 differences
+    and similarities. They noticed that the new school was build honoring the old
+    school. How can you see the respect in the new school? Is it the size, form or
+    colors of the building?"

@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c09d8cd5454d694990f6bd9dc01d641, type: 3}
+  m_Name: Korteniemi sauna
+  m_EditorClassIdentifier: 
+  locationStorySprite: {fileID: 21300000, guid: 54c653dc1b777d04d9c40f67b3e2aab3,
+    type: 3}
+  task: {fileID: 11400000, guid: 149902df1808f044d86e795e62f4454a, type: 2}
+  address: "31350 Liesj\xE4rvi, Korteniementie 270, Tammela"
+  latitude: 60.653603
+  longitude: 23.897741
+  fiTitle: "Kun ty\xF6t on tehty"
+  fiPlace: Korteniemen sauna
+  fiText: "Mets\xE4nvartija Kalle L\xF6nngrenin kiire oli ohi. Ruis oli leikattu
+    viikatteella, kuivattu kuhilailla ja nyt lopulta puitukin varstoilla riihess\xE4.
+    Apuna oli vaimo ja poika ja taloissa apuna kulkeva renki Ville. Nyt oli savusauna
+    l\xE4mmin ja saunan j\xE4lkeen odotti vaimon tuvassa leipoma l\xE4mpim\xE4inen
+    ja kahvi. Herkku, jota nautittiin harvoin, juhlahetkin\xE4, kuten t\xE4n\xE4\xE4n.
+    \r\n\r\nSauna on h\xE4m\xE4r\xE4. Sen pehme\xE4t l\xF6ylyt helliv\xE4t kipeytyneit\xE4
+    lihaksia ja niveli\xE4. Kalle sulkee silm\xE4ns\xE4 ja hengitt\xE4\xE4 l\xE4mmint\xE4
+    ilmaa. Vaimo ja poika ovat hiljaa, tiet\xE4v\xE4t hekin, ett\xE4 se on saunassa
+    tapana. Hyv\xE4 on saunassa istua ja ajatella ja rauhallisesti kes\xE4isell\xE4
+    vihdalla paikkoja vihtoa.\r\n\r\nV\xE4lill\xE4 pit\xE4\xE4 k\xE4yd\xE4 vilvoittelemassakin,
+    niin kipakasti kiuas sihahtaa. Lopulta kaikki ovat puhtoisia, saunan l\xE4mmitt\xE4mi\xE4.
+    Kalle heitt\xE4\xE4 viel\xE4 l\xF6ylyt ulos menness\xE4\xE4n.\r\n\u201DMiksi\u201D,
+    poika kysyy is\xE4lt\xE4\xE4n. \r\n\u201DSaunatonttuhan se siell\xE4 kylpee meid\xE4n
+    j\xE4lkeen, etk\xF6s sit\xE4 muista. Saunatontulle pit\xE4\xE4 aina l\xF6ylyt
+    j\xE4tt\xE4\xE4, muuten vihastuu ja seuraavalla kerralla ei ole pehmoiset l\xF6ylyt,
+    vaan niin kipakat, ett\xE4 menee varpaatkin rullalle\u201D, vastaa is\xE4 hymyillen.\r"
+  enTitle: After the work is done
+  enPlace: Korteniemi sauna
+  enText: "The rush season is over for forest warden Kalle L\xF6nngren. Rye had been
+    cut with scythes, left to dry in stooks and finally threshed with flails in the
+    barn. His wife, son and farm hand Ville had helped him with all the work. Now,
+    the smoke sauna was hot, and afterwards he would be greeted with bread freshly
+    baked by his wife and coffee, a delicacy you only had on special moments like
+    today. \r\n\r\nThe sauna is dimly lit. The soft heat caresses his sore muscles
+    and joints. Kalle closes his eyes and breathes in the warm air. His wife and
+    son do not speak either, both of them aware that the sauna is a place of silence.
+    It feels nice to sit here in the sauna, just let your mind wander and gently
+    use the bath whisk.\r\n\r\nThe hiss of the stove is so powerful that every once
+    in a while, you have to go out for a minute to cool down. Finally, everyone is
+    clean and feeling warm. Kalle throws water on the stove for the final time as
+    he leaves.\r\n\"Why did you do that?\" the boy asks his father. \r\n\"The sauna
+    elf will take his sauna bath after us, remember? You have to put on heat for
+    the sauna elf or he will be angry and next time the heat in the sauna will not
+    be soft. Instead, it will be so fiery that your toes will curl,\u201D his dad
+    answers, smiling.\r"

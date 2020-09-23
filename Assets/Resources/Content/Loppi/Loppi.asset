@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56a04c58f8da67246b528c1b0a0e4f98, type: 3}
+  m_Name: Loppi
+  m_EditorClassIdentifier: 
+  storytellingSprite: {fileID: 21300000, guid: c5cb1584bfc0a3e4f8b4fe1b3ab37cc4, type: 3}
+  locationMapSprite: {fileID: 21300000, guid: 00b19a03b8bba8d4e942cdf7b50e2265, type: 3}
+  locations:
+  - {fileID: 11400000, guid: 27dd0d72cfe9baf4983d92315a5dfbb7, type: 2}
+  - {fileID: 11400000, guid: 0806e839c0d176d46bf1daa6348e32fb, type: 2}
+  - {fileID: 11400000, guid: 795df089e5c19c346b044d1f589f28fc, type: 2}
+  - {fileID: 11400000, guid: ce933a8b2368e9941b71941aa4db0eb7, type: 2}
+  fiTitle: "Oletko n\xE4hnyt j\xE4rrej\xE4?"
+  fiDesc: Loppi
+  fiIntroText: "J\xE4rrit syntyiv\xE4t jo silloin, kun j\xE4\xE4 suli ja maa paljastui
+    v\xE4hitellen. Kun ilma l\xE4mpeni ja syntyi mets\xE4, sen vihre\xE4 ja pehme\xE4
+    sammal, sen moninaiset kukat ja kasvit. J\xE4rrit ovat rauhaarakastavia ja iloisia.
+    Ne keinuvat suopursujen pehmoisissa kukinnoissa, kiipeilev\xE4t m\xE4ntyjen kaarnakoloissa.
+    Sy\xF6v\xE4t yhdess\xE4 marjan sielt\xE4, toisen t\xE4\xE4lt\xE4 ja el\xE4v\xE4t
+    juuri niin onnellisina kuin j\xE4rrit voivat el\xE4\xE4. \t\r\n\r\nJ\xE4rrit
+    ovat aika \xE4rripurrin n\xE4k\xF6isi\xE4, sen kertoo l\xE4hteen ja lammen pinta,
+    mutta niill\xE4 on suuri syd\xE4n, pehmoinen ja l\xE4mmin. J\xE4rviyl\xE4nk\xF6
+    on j\xE4rrien syntypaikka, niiden el\xE4m\xE4nehto. Kyll\xE4 ne silloin t\xE4ll\xF6in
+    uskaltavat sielt\xE4 tehd\xE4 retki\xE4 muuallekin, varsinkin silloin, kun luonnon
+    \xF6hk\xF6m\xF6nki\xE4iset, keijut, kasvit tai el\xE4imet kutsuvat niit\xE4 apuun.
+    \r\n\r\nKerran kauan sitten Kaakkom\xE4en el\xE4imet olivat suuressa pulassa
+    ja tarvittiin j\xE4rrej\xE4 pelastamaan koko karja \u2013 no, sanovat ihmisten
+    auttaneen, mutta ainahan ei totuutta parane paljastaa. Poronpolkua pitkin j\xE4rrit
+    kulkevat, mahtavatko tavata Ainon, Helmin ja Eliaksen t\xE4n\xE4\xE4n?\r"
+  fiOutroText: "J\xE4rrit ovat ihmiselle vaarattomia. Ne el\xE4v\xE4t sulassa sovussa,
+    jos ihminen kunnioittaa luontoa ja el\xE4\xE4 yhten\xE4 sen monimuotoisuuden
+    osana. Luonto antaa paljon, kuten Eliakselle. Luonto antaa my\xF6s paikan leikki\xE4,
+    paikan l\xF6yt\xE4\xE4 mielenrauhaa ja lohtua, kuten Ainolle.\r\n\r\nJ\xE4rrit
+    ovat n\xE4hneet paljon. Kohdanneet monenlaisia kulkijoita, n\xE4hneet ilot ja
+    surut, joita ihminen kantaa mukanaan luontoon etsiess\xE4\xE4n tasapainoa. J\xE4rrit
+    osaavat my\xF6s tasoittaa polut, osoittaa kauneimmat maisemat, antaa vahvimmat
+    luonnon ja maan tuoksut, lintujen laulut ja el\xE4inten, kaikkien luonnossa el\xE4vien,
+    merkit ihmiselle. Niin, ett\xE4 kaikki voivat el\xE4\xE4 luonnossa sovussa, toisilleen
+    tilaa antaen.\r\n\r\nJ\xE4rviyl\xE4ngoll\xE4 voit n\xE4hd\xE4 vilauksen niist\xE4,
+    jos annat mielellesi vapauden ja otat vastaan luonnon sellaisena kuin se on.\r"
+  enTitle: "Have you seen a j\xE4rri?"
+  enDesc: Loppi
+  enIntroText: "J\xE4rris were born back in the day when ice melted, and the ground
+    was gradually revealed underneath. When the air began to warm and the forest
+    was formed, its lushness and softness of the moss, the numerous flowers and plants.
+    J\xE4rris are peaceful and happy. They like to swing on the soft petals of the
+    marsh tea, climb in the holes in the bark of the pine trees. They eat one berry
+    here, another one there, and lead such a happy life that only j\xE4rris are capable
+    of. \t\r\nJ\xE4rris look quite sparky, they can see this themselves on the surface
+    of the spring or the pond, but they have big hearts, soft and warm. The j\xE4rris
+    were born on the highlands by the lakes that are their lifeline. Sometimes, they
+    venture out elsewhere, especially when the little critters of nature, fairies,
+    plants or animals, ask for their help. \r\n\r\nOnce upon a time, the animals
+    at Kaakko Hill were in great trouble, and j\xE4rris were needed to save the cattle
+    \u2013 well, some claim that people helped, but sometimes it is better not to
+    tell the whole truth. J\xE4rris are now on the Poronpolku trail; maybe they will
+    bump into Aino, Helmi and Elias today?\r"
+  enOutroText: "J\xE4rris are not a threat to people. They live in peace as long
+    as humans respect nature and live as a part of its biodiversity. Nature has a
+    lot to offer, to Elias for example. It is also a great place to play, and to
+    look for peace of mind and consolation, like for Aino.\r\n\r\nJ\xE4rris have
+    seen many things. They have met many types of passers-by, witnessed the joys
+    and sorrows that people take with them into the wilderness in search of harmony.
+    J\xE4rris also know how to pave the paths, show people the most beautiful landscapes,
+    exude the strongest odours from nature and the earth, the most beautiful songs
+    of the birds and the traces of the animals, and everything living in nature.
+    So that everyone can live in peace and harmony, giving each other space.\r\n\r\nYou
+    can catch a glimpse of them at the lake district, if you let your mind run free
+    and accept nature in its true form.\r"

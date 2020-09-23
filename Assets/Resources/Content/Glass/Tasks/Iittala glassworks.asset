@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a820a2ca58514144ab9f50b01a6196da, type: 3}
+  m_Name: Iittala glassworks
+  m_EditorClassIdentifier: 
+  taskviewSprite: {fileID: 21300000, guid: dc85153e44c5cf14fb53a4ffa9946492, type: 3}
+  answers:
+  - 1881
+  isARTask: 0
+  fiTitle: Iittalan lasitehdas
+  fiText: "Mik\xE4 vuosiluku on kirjoitettu tehdasrakennuksen sein\xE4n yl\xE4osaan?"
+  enTitle: Iittala glassworks
+  enText: What is the year (that is) written on the top of the wall of the factory
+    building?

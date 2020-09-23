@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c09d8cd5454d694990f6bd9dc01d641, type: 3}
+  m_Name: "Statue of Larin Ky\xF6sti"
+  m_EditorClassIdentifier: 
+  locationStorySprite: {fileID: 21300000, guid: aad9c8207e6b2b745b4aba01030b5857,
+    type: 3}
+  task: {fileID: 11400000, guid: 99f5003acd91a6f42b1da0499d0a67a2, type: 2}
+  address: "Linnankatu 3, 13100 H\xE4meenlinna"
+  latitude: 60.996674
+  longitude: 24.466183
+  fiTitle: "Mit\xE4 kuuluu kaverille?"
+  fiPlace: "Larin Ky\xF6stin patsas"
+  fiText: "Larin-Ky\xF6sti istuu k\xE4teens\xE4 nojaten.\n\n\u201DMin\xE4kin haluaisin
+    joskus kirjoittaa kirjan\u201D, rouva Wegelius tunnustaa Viktor Janssonille.\n\n\u201DTiesitk\xF6s,
+    ett\xE4 minun ensimm\xE4isen teokseni T\xE4n pojan kev\xE4trallatuksia, joka
+    julkaistiin 1897, ensipainos myytiin loppuun yhdess\xE4 kuukaudessa. Sanovat,
+    ett\xE4 runoissa oli huoletonta kulkuriromantiikkaa sek\xE4 kes\xE4n, H\xE4meen
+    luonnon ja sen ihmisten kuvausta\u201D, kertoo Larin-Ky\xF6sti.\n\nRouva katselee
+    Larin-Ky\xF6sti\xE4 entist\xE4 kunnioittavammin.\n\n\u201DMit\xE4 runoilija nyt
+    siin\xE4 istuessaan pohtii?\u201D\n\n\u201DMonenlaista. Ett\xE4 mit\xE4 kuuluu
+    koulukaverilleni Eino Leinolle? Ja mahdatkos muuten tiet\xE4\xE4 mik\xE4 minun
+    oikea nimeni on. Jos rupeat kirjailijaksi, pit\xE4\xE4 ottaa taiteilijanimi.
+    Ainakin jos olet runoilija.\u201D\n\n\u201DTied\xE4n min\xE4 nimesi. Se on Karl
+    Gustaf Larson ja sinut on siihen ikuistanut yst\xE4v\xE4si Mikko Hovi.\u201D\n\nSit\xE4,
+    mit\xE4 kuuluu Eino Leinolle, ei Rouva Wegelius tiennyt. Niinp\xE4 h\xE4n ja
+    keskustelua kauempaa seurannut Viktor Jansson jatkavat matkaa ja Larin-Ky\xF6sti
+    j\xE4\xE4 edelleen pohtimaan."
+  enTitle: How is your friend?
+  enPlace: "Statue of Larin Ky\xF6sti"
+  enText: "Larin-Ky\xF6sti is sitting down and leaning on his hand.\n\n\"I would
+    like to write a book, too\", Mrs Wegelius confesses to Viktor Jansson.\n\n\"Did
+    you know that my first book, a collection of spring poems, was released in 1897
+    and the first edition was sold out in one month. They say that the poems were
+    full of carefree vagabond romantics and descriptions of summer, Tavastia landscapes
+    and its people\", Larin-Ky\xF6sti speaks out.\n\nShe looks at Larin-Ky\xF6sti
+    with increasing respect.\n\n\"And what is the poet thinking now, sitting here?\"\n\n\u201DMany
+    things. How is my old friend from school, Eino Leino? And I wonder if you know
+    my real name. If you become a writer, you will need a pen name. At least if you
+    are a poet.\"\n\n\"I know your name. It is Karl Gustaf Larson and you were captured
+    here by your friend, Mikko Hovi.\"\n\nMrs Wegelius was unaware of any news from
+    Eino Leino. So, he and Viktor Jansson, who had taken a step back to watch them,
+    continued their walk, and Larin-Ky\xF6sti is left with his thoughts."

@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56a04c58f8da67246b528c1b0a0e4f98, type: 3}
+  m_Name: "Riihim\xE4ki"
+  m_EditorClassIdentifier: 
+  storytellingSprite: {fileID: 21300000, guid: 9b81b03a69b26974e8571de42414cb06, type: 3}
+  locationMapSprite: {fileID: 21300000, guid: 918da0da7dbc08045afe13c1e97ef374, type: 3}
+  locations:
+  - {fileID: 11400000, guid: 7e45e003f4f65924fbcbda52b94aa10f, type: 2}
+  - {fileID: 11400000, guid: 893c94a2dd40d5d4eabdd473609da962, type: 2}
+  - {fileID: 11400000, guid: 09f4f2ef24dea4f4487dccea6977d088, type: 2}
+  - {fileID: 11400000, guid: 91c47d5018b9626498b9755512d32822, type: 2}
+  - {fileID: 11400000, guid: 8d9dc38dfe6b3c043ac55936e4ff4c9b, type: 2}
+  fiTitle: Pisara onnea
+  fiDesc: "Riihim\xE4ki"
+  fiIntroText: "V\xE4in\xF6 oli ollut oppipoikana lasitehtaalla niin nuoresta kuin
+    sinne lasitehtaan alkuvuosina p\xE4\xE4si. H\xE4n auttoi omalla tienestill\xE4\xE4n
+    perhett\xE4\xE4n, jossa oli \xE4iti ja kolme sisarta. Is\xE4 oli menehtynyt aiemmin
+    rakennusonnettomuudessa ja perheen leip\xE4 oli hyvin pieni. \r\n\r\nV\xE4in\xF6-poika
+    on jo hollaajana, apumiehen\xE4, ja kiinnostunut siit\xE4, mit\xE4 kaikkea lasista
+    voi tehd\xE4. Joskus h\xE4n j\xE4\xE4 salaa tehtaalle seuraamaan puhaltajien
+    ty\xF6t\xE4 oppiakseen sen ja ehk\xE4 salaa kokeillakseenkin miten ja mit\xE4
+    h\xE4n saisi aikaiseksi.  \r\n\r\nEr\xE4\xE4n\xE4 y\xF6n\xE4 h\xE4n nukahtaa
+    ja her\xE4\xE4 y\xF6ll\xE4 puhaltaakseen kauneimman lasipisaran, jonka sis\xE4ll\xE4
+    keijukainen n\xE4ytt\xE4\xE4 tanssivan. Ohuesta lasista puhallettu aarre voi
+    s\xE4rky\xE4 eik\xE4 kukaan kuitenkaan uskoisi V\xE4in\xF6n sen puhaltaneen.
+    \r\n\r\nMihin V\xE4in\xF6 k\xE4tkee aarteensa? Miss\xE4 se s\xE4ilyisi ja voisiko
+    se tuoda V\xE4in\xF6lle omaisuuden, jolla rakentaa el\xE4m\xE4\xE4 eteenp\xE4in?
+    El\xE4m\xE4 rautatien varrella kohisi eteenp\xE4in ja V\xE4in\xF6 seurasi tapahtumia
+    koko syd\xE4mell\xE4\xE4n, h\xE4n oli osa t\xE4t\xE4 kasvavaa kyl\xE4\xE4.\r"
+  fiOutroText: "\u201DSe oli kaunis, kes\xE4kuinen aamu\u201D, V\xE4in\xF6 muistelee
+    vanhana miehen\xE4 lapsenlapsilleen. \r\n\u201DTied\xE4 oliko se unta vai totta,
+    mutta kastepisara se oli, ja auringon s\xE4de sai sen loistamaan ja \r\ntanssimaan
+    auringon nousussa. Sellaista kauneutta on kaikkialla, kun vaan pys\xE4htyy ja
+    katsoo tarkasti.\u201D\r\n\r\nLapset kuuntelivat V\xE4in\xF6-pappaa hiljaa. He
+    olivat oppineet, ett\xE4 papalla oli mielenkiintoisia tarinoita.\r\n\u201DPaljon
+    kauniita esineit\xE4 luotiin lasitehtaalla. Toisilla on kyky luoda sit\xE4, mutta
+    kaikilla on kyky n\xE4hd\xE4\r\nkauneutta, kun sit\xE4 kyky\xE4 vain harjoittaa
+    ja unohtaa kiireen. Kauneuden arkisto on syd\xE4mess\xE4, siell\xE4 ne s\xE4ilyv\xE4t
+    l\xE4pi el\xE4m\xE4n.\u201D\r\n\r\nV\xE4in\xF6 oli t\xF6iss\xE4 lasitehtaalla
+    el\xE4keik\xE4\xE4n asti. H\xE4n oli arvostettu ty\xF6mies, joka s\xE4\xE4st\xE4v\xE4isen\xE4
+    miehen\xE4 osti talon ja perusti perheen. H\xE4n osallistui monella tavalla rakentuvan
+    kaupungin el\xE4m\xE4\xE4n ja luottamustoimiin, ja nautti kaikkien h\xE4net tunteneiden
+    arvostusta el\xE4m\xE4ss\xE4\xE4n. H\xE4n oli suomalainen ty\xF6mies, ulkomuoto
+    ehk\xE4 hiukan rosoinen, arjessa sitkastunut. Oppeja ei paljon ollut koulussa
+    saanut, mutta syd\xE4men sivistyst\xE4 oli muillekin jakaa.\r"
+  enTitle: Drop of luck
+  enDesc: "Riihim\xE4ki"
+  enIntroText: "V\xE4in\xF6 had been an apprentice at the glass factory since the
+    time he was first allowed in the studio in the early years of the factory. He
+    used his meagre income to help his family, his mother and three sisters. His
+    father had died in a construction accident and the family did not have much to
+    live on. \r\nEven though he was still a boy, V\xE4in\xF6 has become an assistant
+    at the glass factory. He is interested in everything one can make from glass.
+    Sometimes, he secretly stays behind at the factory to watch the glassblowers
+    work, because he wants to learn, and maybe to experiment with what he himself
+    could make and how.  \r\n\r\nOne night he falls asleep and wakes up, in the middle
+    of the night, to blow the most beautiful glass bubble, in which a fairy seems
+    to be dancing. The treasure is made of thin glass, so it is very fragile, and
+    no-one would believe that V\xE4in\xF6 made it anyway. \r\n\r\nWhere should V\xE4in\xF6
+    hide his treasure? Where would it remain intact and could it help V\xE4in\xF6
+    to earn a fortune that would help him in his life? Life next to the railroad
+    tracks kept clattering on, and V\xE4in\xF6 was watching the events with his whole
+    heart, as a part of this growing town.\r"
+  enOutroText: "\"It was a beautiful morning in June\", V\xE4in\xF6, now already
+    an old man, tells his grandchildren. \r\n\"I am not sure if it was dream or true,
+    but there was a dewdrop, and a ray of sun made it glow and \r\ndance in the rising
+    sun. You can find beauty like that everywhere, if you just take your time and
+    look around carefully.\u201D\r\n\r\nThe children were quiet, carefully listening
+    to Grandpa V\xE4in\xF6. They knew that Grandpa had the best stories.\r\n\"Many
+    beautiful artefacts were made at the glass factory. Only some people have the
+    ability to create beauty, but anyone can see\r\nit, if you just practice and
+    let go of all the distractions. The beauty archives are located in your heart
+    and stay there throughout your life.\"\r\n\r\nV\xE4in\xF6 worked at the glass
+    factory until his retirement. He was a respected worker, and careful with his
+    money, so he could buy a house and start a family. He was engaged in the life
+    of the growing city in many ways: he held positions of trust, for example. Everyone
+    who knew him respected him. He was a hard-working Finnish man, maybe a bit rough
+    on the outside, toughened up by life. He did not have much schooling, but his
+    heart was full of wisdom.\r"

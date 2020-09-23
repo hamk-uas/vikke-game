@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c09d8cd5454d694990f6bd9dc01d641, type: 3}
+  m_Name: Juteini House
+  m_EditorClassIdentifier: 
+  locationStorySprite: {fileID: 21300000, guid: 155128b8b6f0449408a2004f52f8562c,
+    type: 3}
+  task: {fileID: 11400000, guid: 0a1585c4043110e46808f6c566cad209, type: 2}
+  address: Kauppatie 3, 13720 Hattula
+  latitude: 61.055527
+  longitude: 24.373808
+  fiTitle: Arvon mekin ansaitsemme
+  fiPlace: Juteini-talo
+  fiText: "\u201DMit\xE4 Jacob Jud\xE9n eli Jaakko Juteini sanoisi, jos olisi nyt
+    t\xE4ss\xE4, Jaakko Juteinin talon vihki\xE4isiss\xE4?\u201D Kysyi juhlapuhuja
+    t\xE4ydelt\xE4 salilta. Ihmiset istuivat arvokkaasti, juhlapukineissaan.\r\n\u201DMit\xE4p\xE4
+    min\xE4. Sanoisin ihan niin kuin sanoin omassa ajassani, ett\xE4 arvon mekin
+    ansaitsemme Suomen maassa suuressa. Minulle se on aina ollut suuri, koska se
+    on meid\xE4n kotimaamme. Ja edelleen se vaan on niin, ettei se leip\xE4 kasva
+    maatessa ja onni on, jos saa ty\xF6ns\xE4 t\xE4ytt\xE4\xE4\u201D, mietti Jaakko
+    Juteini takariviss\xE4.\r\n\r\nJaakko Juteini pohti, ettei h\xE4n olisi t\xE4t\xE4
+    kyll\xE4 arvannut. Ett\xE4 ihan t\xE4llaisen pytingin h\xE4nen muistokseen rakentavat.
+    Mutta mukava oli poiketa katsomaan. N\xE4hd\xE4, ett\xE4 suomen kieli kukoisti,
+    ett\xE4 kirjastosta kirjoja sai ihan ilman lainata. H\xE4nenkin kirjoittamansa
+    kirjat sielt\xE4 l\xF6ytyiv\xE4t. Ja kuvakin, vaikka siin\xE4 h\xE4n n\xE4ytti
+    kyll\xE4 vanhalta. Patsaan olivat pihalle pystytt\xE4neet, siin\xE4 sent\xE4\xE4n
+    nuoruuden voima viel\xE4 n\xE4ht\xE4viss\xE4. \r\n\r\nJaakko Juteini myh\xE4ili
+    tyytyv\xE4isen\xE4 ja kuunteli juhlapuhujaa, miten kuntalaisille t\xE4m\xE4 talo
+    tulisi aina olemaan t\xE4rke\xE4 kokoontumispaikka."
+  enTitle: Respect for the Finns
+  enPlace: Juteini House
+  enText: "\u201CWhat would Jacob Jud\xE9n, also known by his Finnish name Jaakko
+    Juteini, say, if he was here now, at the inauguration of a building carrying
+    his name?\u201D asked the speaker. The house was full. People were dressed for
+    the occasion and sitting gracefully.\n\n\"Well, you know me. I would say exactly
+    what I used to say: \u201CWe Finns also deserve respect, in this mighty country.\u201D
+    I always thought of Finland as mighty, because it is our native land. And so
+    it still is: lying in bed does not get you bread and it is a blessing to be able
+    to do a day\u2019s work\u201D, Jaakko Juteini thought to himself in the back
+    row.\n\nHe was thinking that he really did not see this coming: such a fine building
+    carrying his name! It had been nice to pop in and have a look. And to see that
+    the Finnish language was thriving and that you could borrow books from the library
+    for free. They also had the books he had written. And his picture. Although he
+    looked old in it. They had also erected a statue for him, and that, at least,
+    showed him in his dynamic youth.\n\nJaakko Juteini was smiling contentedly as
+    he listened to the speaker explaining that this building would become an important
+    place for the locals to get together."

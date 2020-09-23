@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a820a2ca58514144ab9f50b01a6196da, type: 3}
+  m_Name: Wetterhoff
+  m_EditorClassIdentifier: 
+  taskviewSprite: {fileID: 21300000, guid: 504134ab83f03f244bd78835790b9214, type: 3}
+  answers:
+  - 1885
+  isARTask: 0
+  fiTitle: Wetterhoff
+  fiText: "Fredrika Wetterhoff omisti el\xE4m\xE4ns\xE4 v\xE4h\xE4varaisten tytt\xF6jen
+    kouluttamiseen ja perusti H\xE4meenlinnaan tytt\xF6jen ty\xF6koulun. Koulutus
+    on siirtynyt H\xE4meen ammattikoreakouluun, mutta viel\xE4 nyky\xE4\xE4n Wetterhoffin
+    talo on luovien alojen yritysten keskus, jossa Fredrikan perint\xF6 el\xE4\xE4
+    edelleen. Talossa on toimitiloja, myym\xE4l\xF6it\xE4, kokous- ja tapahtumatiloja.\r\n\r\nMin\xE4
+    vuonna Fredrika Wetterhoff perusti koulun?"
+  enTitle: Wetterhoff
+  enText: "Fredrika Wetterhoff owned her whole life to the education of the girls.
+    She established a school for girls in H\xE4meenlinna. The education is nowadays
+    in the H\xE4me University of Applied Sciences, but in the Wetterhoff house is
+    working as a place for the creative field\u2019s companies and organizations.
+    In which year Fredrika Wetterhoff established the school?"

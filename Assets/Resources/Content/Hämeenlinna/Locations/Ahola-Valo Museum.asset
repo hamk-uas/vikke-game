@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c09d8cd5454d694990f6bd9dc01d641, type: 3}
+  m_Name: Ahola-Valo Museum
+  m_EditorClassIdentifier: 
+  locationStorySprite: {fileID: 21300000, guid: 3d2a57558db6b5f4dbbfb2e75223017f,
+    type: 3}
+  task: {fileID: 11400000, guid: fc1bddc7a8a691b42a3edf02cae9301e, type: 2}
+  address: "Verkatehdas, Viipurintie 4, 13200 H\xE4meenlinna"
+  latitude: 60.99838
+  longitude: 24.476473
+  fiTitle: Terveydeksi!
+  fiPlace: Ahola-Valo museo
+  fiText: "\u201DOnneksi olkoon, olet voittanut lasillisen Ahola-Valon terveysjuomaa!\u201D\r\nAatos
+    on ihmeiss\xE4\xE4n: \u201DMiksi?\u201D\r\n\u201DOlet niin pitk\xE4\xE4n ja syventyneen\xE4
+    tarkastellut tuota taulua. Se on minunkin mielitauluni. Annan \r\njokaiselle,
+    joka siihen keskittyy, terveysjuoman\u201D, toteaa galleristi hymyillen.\r\n\u201DSinulla
+    t\xE4ytyy olla kaunis sielu!\u201D\r\nAatos on H\xE4meenlinnan Verkatehtaalla
+    pieness\xE4 taidekehyst\xE4m\xF6ss\xE4. \r\n\u201DT\xE4\xE4lt\xE4k\xF6 min\xE4
+    l\xF6yd\xE4n oman sieluni?\u201D\r\nTaulu on Aleksanteri Ahola-Valon kuvitusty\xF6
+    Katri Valan runoon Tee minut kaltaisekseni maa, alituisesti uudistuvaksi, alituisesti
+    uutta luovaksi. Runo ja taulu on luovuuden ylistyslaulu. \r\nAatos miettii omaa
+    el\xE4m\xE4\xE4ns\xE4 ja Ahola-Valoa. H\xE4n muistaa Ahola-Valon tunnuslauseen:
+    Meid\xE4n tulee luoda terveytt\xE4 ja terveyden kautta kauneutta ja meid\xE4n
+    tulee luoda el\xE4m\xE4\xE4, joka on itsess\xE4\xE4n taidetta. \r\nAatos vaipuu
+    mietteisiins\xE4.\r\n\u201DKyll\xE4. Terveys, taide ja el\xE4m\xE4 ovat yht\xE4.
+    Kaikella on suuntansa. Taiteen teht\xE4v\xE4 on n\xE4ytt\xE4\xE4 suuntaa. \u201D\r\nAatos
+    nostaa voittamansa terveysjuoman huulilleen\r\n\u201DTerveydeksi! T\xE4m\xE4
+    on hyv\xE4\xE4. T\xE4t\xE4 pit\xE4\xE4 saada lis\xE4\xE4!\u201D\r"
+  enTitle: Bless you!
+  enPlace: Ahola-Valo Museum
+  enText: "\"Congratulations, you have won a glass of the Ahola-Valo health drink!\u201D\r\nAatos
+    is perplexed: \u201CBut why?\u201D\r\n\"You have been viewing this table for
+    such a long time so attentively. It is my favourite, too. \r\nEveryone who gets
+    absorbed into the work is treated to a health drink,\u201D the gallerist explains
+    with a smile.\r\n\u201CYou must have a beautiful soul!\u201D\r\nAatos is at the
+    small framing gallery at Verkatehdas, in H\xE4meenlinna. \r\n\u201CIs this where
+    I will find my soul?\"\r\nThe painting is a work of illustration by Aleksanteri
+    Ahola-Valo to a poem by Katri Vala: \u201CConvert me to be like you, earth, to
+    be able to constantly revive, to create something anew.\u201D Both the poem and
+    the painting praise creativity. \r\nAatos thinks about his life and Ahola-Valo.
+    He remembers Ahola-Valo\u2019s motto: We must generate health and, through health,
+    beauty; and we must generate life, as it is a form of art in itself. \r\nAatos
+    is sunk in thought.\r\n\u201CYes. Health, art and life are all one. Everything
+    has a direction. The purpose of art is to lead the way.\u201D\r\nAatos raises
+    the health drink to his lips.\r\n\u201CA toast to health! Oh, this is nice. I
+    want more!\u201D\r"

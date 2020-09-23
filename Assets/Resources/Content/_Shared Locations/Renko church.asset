@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c09d8cd5454d694990f6bd9dc01d641, type: 3}
+  m_Name: Renko church
+  m_EditorClassIdentifier: 
+  locationStorySprite: {fileID: 21300000, guid: 6e98a36f4f714e3499e7647a70c45bf6,
+    type: 3}
+  task: {fileID: 11400000, guid: a802bc7154d060940bef5267f667205b, type: 2}
+  address: Rengonraitti 15, 14300 Renko
+  latitude: 60.893974
+  longitude: 24.286963
+  fiTitle: "Pyh\xE4n Jaakon kirkossa"
+  fiPlace: Rengon kirkko
+  fiText: "Vaeltajan kaapu on haalistunut, jalkineet kuluneet eik\xE4 matkassa ole
+    kepin lis\xE4ksi kuin pieni s\xE4kki olalla, mit\xE4 lie sen sis\xE4ll\xE4. Pitk\xE4\xE4n
+    h\xE4n seisoo kirkon ovella ennen kuin astuu sis\xE4lle Pyh\xE4n Jaakon kirkkoon.
+    H\xE4n kumartaa p\xE4\xE4ns\xE4, k\xE4si tekee ristin merkin rintaan ja hiljaa
+    istuu vaeltaja kirkon viimeiseen penkkiin.\r\nVain huulet aavistuksen liikkuen
+    h\xE4n lukee Pyh\xE4n Jaakon rukousta: \r\n\u201DValtias, Herra, joka l\xE4hestyt
+    meit\xE4 armolla ja laupeudella, ja olet antanut meille, kurjille, syntisille
+    ja arvottomille palvelijoillesi rohkeuden seist\xE4 pyh\xE4n uhrialttarisi edess\xE4\u2026\u201D\r\n\r\nRukouksen
+    luettuaan vaeltaja katselee ymp\xE4rilleen ja n\xE4kee kirkon kauneuden, sen
+    vanhat alttaritekstiilit ja kynttil\xE4njalat, sen k\xE4yt\xF6ss\xE4 kuluneet
+    penkit. Kirkon muoto on niin erilainen, kahdeksankulmainen ja isoista ikkunoista
+    tulvii valoa. Mielen valtaa kiitollisuus. \r\n\r\nKirkon ulkopuolella vastaan
+    tulee toinen vaeltaja.\r\n\u201DMist\xE4 kaukaa tulet? Pyhiinvaelluksella min\xE4kin\u201D,
+    nuori mies sanoo.\r\n\u201DEi pitk\xE4lt\xE4, mutta aikojen takaa. Mene sis\xE4lle,
+    siell\xE4 on rauha\u201D, vaeltaja vastaa hymyillen.\r"
+  enTitle: Church of St James the Great
+  enPlace: Renko church
+  enText: "The pilgrim is wearing a faded robe, worn-out shoes and carrying only
+    a tiny bag and his cane. He stands at the door of the church for a long time
+    before entering the Church of St James the Great. He nods his head, makes the
+    sign of the cross over his chest and seats himself quietly on the back pew.\r\nOnly
+    his lips move slightly as he utters the Prayer of St James: \r\n\u201CO Sovereign
+    Lord, who hast visited us in compassion and mercies, and hast freely given to
+    us, Thy humble and sinful and unworthy servants, boldness to stand at Thy holy
+    altar...\u201D\r\n\r\nAfter saying the prayer, the pilgrim looks around and sees
+    the beauty of the church, its ancient altar textiles and candlesticks, the pews
+    worn out from use. The church has such a distinct shape, an octagon, and flooded
+    with light coming in from the vast windows. He feels grateful. \r\n\r\nHe meets
+    another pilgrim outside the church.\r\n\"Are you coming from afar? I am on a
+    pilgrimage too,\u201D the young man says.\r\n\u201CNot from a faraway place,
+    but a faraway time. Go in, you will find peace there,\u201D the pilgrim replies,
+    smiling.\r"

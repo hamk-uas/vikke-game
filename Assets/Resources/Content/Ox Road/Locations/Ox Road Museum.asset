@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c09d8cd5454d694990f6bd9dc01d641, type: 3}
+  m_Name: Ox Road Museum
+  m_EditorClassIdentifier: 
+  locationStorySprite: {fileID: 21300000, guid: 2c70ce8e71cb2364880b76a042eb9e93,
+    type: 3}
+  task: {fileID: 11400000, guid: 59af3a6823553c9478eb3e06f3202e34, type: 2}
+  address: "Sajatie 13, 14300 H\xE4meenlinna"
+  latitude: 60.894207
+  longitude: 24.285666
+  fiTitle: "El\xE4m\xE4nmenoa"
+  fiPlace: "Rengon kotiseutumuseo, H\xE4rk\xE4tien museo"
+  fiText: "El\xE4m\xE4nmenosta se kertoo. Tavallisten kuolevaisten ja v\xE4h\xE4n
+    pyhempien ja t\xE4rke\xE4mpienkin eli kirkon ihmisten ja kruunun asialla liikkuneiden
+    el\xE4m\xE4st\xE4. Vanha lainajyv\xE4makasiini, 1800-luvun puolella rakennettu,
+    on yh\xE4 suoraselk\xE4inen ja ryhdik\xE4s. \r\n\r\nArvokkaana se seisoo harmaan
+    kivikirkon naapurina, mukisematta osastaan olla vaatimattomampi. T\xE4rke\xE4
+    teht\xE4v\xE4 jos on ollut kirkolla, on se ollut lainajyv\xE4makasiinillakin
+    \u2013 toinen tarjosi hengen ja toinen ruumiin ravintoa.\r\n\r\nKirkko ker\xE4\xE4
+    edelleen ihmisi\xE4 sis\xE4lleen useinkin, lainajyv\xE4makasiinin t\xE4ytt\xE4v\xE4t
+    ihmisten el\xE4m\xE4st\xE4 kertovat esineet ja toki k\xE4vij\xE4tkin, jotka ihmettelev\xE4t
+    entisajan el\xE4m\xE4\xE4. Iestetyt h\xE4r\xE4t ja viinakalu, ne ihmisi\xE4 ihmetytt\xE4v\xE4t.
+    Kirkon vanhat aarteet ja H\xE4rk\xE4tien kulkijoiden el\xE4m\xE4 \u2013 siell\xE4
+    niit\xE4 kulki t\xE4rkeit\xE4 kruunun asiallakin liikkuneita. \r\n\r\nOnhan lainajyv\xE4makasiinissa
+    toki siihenkin liittyvi\xE4 ty\xF6kaluja, niit\xE4 arkisimmista arkisimpia. Monelle
+    se on ihmeellist\xE4, tuo mennyt el\xE4m\xE4, huokailee suoraryhtinen makasiini
+    ja toivottaa taas h\xE4mm\xE4stelij\xE4t tervetulleeksi.\r"
+  enTitle: Daily life
+  enPlace: Renko Local Museum, Ox Road Museum
+  enText: "It is about ordinary life. The life of ordinary people and those who were
+    a little holier or more important: people of the church and those engaged in
+    the matters of the crown. A former grain warehouse, built in the 1800s, still
+    stands there upright and mighty-looking. \r\n\r\nIt is standing next to the grey
+    stone church, not complaining about having to be the more modest one of the two.
+    The church had an important task, but so did the grain warehouse from which those
+    in need could borrow seed grains \u2013 one offered food for the soul, the other
+    for the body.\r\n\r\nPeople still come to the church; and the grain warehouse
+    is filled with exhibits telling the stories of the ordinary life of people. Visitors
+    too, of course, marvelling at the life of the days past, such as yoked oxen and
+    moonshine-making equipment. The treasures of the old church and life of the people
+    who used to travel on the Ox Road, where those running the matters of the crown
+    also travelled. \r\n\r\nThe warehouse also features tools from those times, the
+    most mundane items of all. Some find it so peculiar, the life of the past. The
+    beautiful warehouse building sighs when welcoming yet another group in to marvel
+    its exhibits.\r"

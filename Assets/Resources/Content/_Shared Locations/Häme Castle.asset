@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c09d8cd5454d694990f6bd9dc01d641, type: 3}
+  m_Name: "H\xE4me Castle"
+  m_EditorClassIdentifier: 
+  locationStorySprite: {fileID: 21300000, guid: 1d75cdb401e2287429aaa0ba6b4a5b60,
+    type: 3}
+  task: {fileID: 11400000, guid: 8db392c6970d9b947b908aef1efadc13, type: 2}
+  address: "Kustaa III:n katu 6, 13100 H\xE4meenlinna"
+  latitude: 61.00372
+  longitude: 24.459309
+  fiTitle: "Noitamiehen salaper\xE4inen kuolema"
+  fiPlace: "H\xE4meen linna"
+  fiText: "Kauan sitten oli lakina, ett\xE4 kaikkein pahimmat rikolliset tuomittiin
+    kuolemaan. N\xE4in k\xE4vi Esko ja Urbanus Niilonpojalle, jotka oli tuomittu
+    k\xE4r\xE4jill\xE4 hirve\xE4st\xE4 teosta, noituudesta!\r\n\r\nPaholaisen kanssa
+    sopimuksen tehneet veljekset tuotiin H\xE4meen linnaan vuonna 1665 odottamaan
+    rangaistustaan. Heid\xE4n l\xE4sn\xE4olonsa kammotti kaikkia. \r\n\r\nLopulta
+    sattui tapaus, joka pel\xE4stytti linnanv\xE4en suunniltaan: Esko l\xF6ydettiin
+    sellist\xE4\xE4n kuolleena. Oliko h\xE4n kuollut luonnollisesti vaiko tappanut
+    itsens\xE4? Rauhattomien sielujen tiedettiin kummittelevan ja itsemurha oli kaikkein
+    hirvein rikos, joka kutsui Paholaista itse\xE4\xE4n linnanv\xE4en keskuuteen!
+    \r\n\r\nRuumista ei voitu haudata pyh\xE4\xE4n maahan eik\xE4 kirkon muurin ulkopuolelle,
+    seh\xE4n olisi saattanut nousta haudastaan. Ruumis k\xE4tkettiin lukittuun kirstuun
+    odottamaan lis\xE4ohjeita hovioikeudelta.\r\n\r\nLopulta saapui sana: Urbanus
+    oli vapautettava ja l\xE4hetett\xE4v\xE4 tiehens\xE4, ja saisi vied\xE4 kirotun
+    ruumiin mukanaan. \r\n\r\nLinnassa iloittiin, kun p\xE4\xE4stiin eroon sek\xE4
+    el\xE4v\xE4st\xE4 ett\xE4 kuolleesta noitamiehest\xE4!\r"
+  enTitle: The mysterious death of the male witch
+  enPlace: "H\xE4me Castle"
+  enText: "A long time ago, it was laid down in the law that the most heinous criminals
+    be sentenced to death. That was the case with Esko and Urbanus, sons of Niilo,
+    who had been condemned at the court assembly for a horrible deed of witchcraft!\r\n\r\nThe
+    brothers, who had made a pact with the Devil, were brought into the H\xE4me Castle
+    in 1665 to wait for their punishment. Their presence terrified everyone. \r\n\r\nFinally,
+    something happened that scared the people at the castle out of their minds: Esko
+    was found dead in his cell. Did he die a natural death or did he kill himself?
+    It was common knowledge that restless souls haunted the living, and suicide was
+    the most mortal sin of all, and one that calls for the Devil to come among the
+    people of the castle!\r\n"

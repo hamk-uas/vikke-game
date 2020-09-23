@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a820a2ca58514144ab9f50b01a6196da, type: 3}
+  m_Name: "Laurinm\xE4ki (Ill-fated inn)"
+  m_EditorClassIdentifier: 
+  taskviewSprite: {fileID: 21300000, guid: 0e75222ddad9d8d41b7517a8c2790b54, type: 3}
+  answers:
+  - valkama
+  isARTask: 0
+  fiTitle: Kovan onnen kievari
+  fiText: "Torpparimuseon ja R\xE4ik\xE4l\xE4n kievarin raunioitten v\xE4liss\xE4
+    luontopolulla on torpparien muistomerkki. T\xE4m\xE4 korkea monumentti on tehty
+    387 kivest\xE4, jotka on ker\xE4tty janakkalalaisista torpista. Osassa kivist\xE4
+    on torpparin sukunimi kaiverrettuna. Mik\xE4 sukunimi on kaiverrettu seitsem\xE4nteen
+    kiveen ylh\xE4\xE4lt\xE4 alasp\xE4in laskettuna torpparimuseon puoleisessa kulmassa?
+    (Vinkki: R\xE4ik\xE4l\xE4n kievarin kentt\xE4 - torpparien muistomerkki)"
+  enTitle: Ill-fated inn
+  enText: "Along the nature trail, between Crofter\u2019s museum and the ruins of
+    R\xE4ik\xE4l\xE4 Inn you will find Crofter\u2019s memorial. This tall monument
+    is made of 387 stones that have been collected from crofts around Janakkala.
+    Some of them have crofter\u2019s last names carved into them. What is the last
+    name carved to 7th stone from the top on the corner on Crofter\u2019s museum
+    side of the memorial?"

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a820a2ca58514144ab9f50b01a6196da, type: 3}
+  m_Name: Jokioinen museum railway
+  m_EditorClassIdentifier: 
+  taskviewSprite: {fileID: 21300000, guid: 8f2c3f34a1c1b204cbc9a4131d4fa29e, type: 3}
+  answers:
+  - 14
+  - "nelj\xE4toista"
+  - fourteen
+  isARTask: 0
+  fiTitle: Jokioisten museorautatie
+  fiText: "K\xE4vele Minki\xF6n aseman portaille, k\xE4\xE4nn\xE4 katse radalle p\xE4in
+    ja laske kuinka monta kiskoa sinun olisi ylitett\xE4v\xE4, ett\xE4 p\xE4\xE4sisit
+    radan toisella puolella olevalle laiturille?\r\n\r\nMinki\xF6n asemalla on aseman
+    vieress\xE4 kilometritolppa, joka kertoo ratakilometrit Humppilasta Minki\xF6lle
+    ja toisella puolella kyltti Forssasta Minki\xF6lle. Kuinka monta kilometri\xE4
+    Minki\xF6n asema on Humppilan asemalta?\r\n\r\nMik\xE4 on ratakiskojen ja kilometrien
+    summa? (vinkki: vastaa numeroilla)"
+  enTitle: Jokioinen museum railway
+  enText: "Walk up the fron door of Minki\xF6 Station, turn and look at to the track,
+    and count how many rails you should cross to get to the station platform on the
+    other side of the tracks?  \r\n\r\nMinki\xF6 station has a kilometer post next
+    to the station. The post tells the track kilometers from Humppila to Minki\xF6
+    and on the other side of a sign from Forssa to Minki\xF6. How many kilometers
+    is Minki\xF6 station from Humppila station? \r\n \r\n\r\nAdd the answers together.
+    What is the number you get?"

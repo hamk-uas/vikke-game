@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a820a2ca58514144ab9f50b01a6196da, type: 3}
+  m_Name: Tammela Church
+  m_EditorClassIdentifier: 
+  taskviewSprite: {fileID: 21300000, guid: 8a788e248bc89e0448b20454437a41e4, type: 3}
+  answers:
+  - 1785
+  isARTask: 0
+  fiTitle: Tammelan kirkko
+  fiText: "Vanhan tarinan mukaan Tammelan kirkon rakennuspaikka valittiin laittamalla
+    h\xE4rk\xE4pari vet\xE4m\xE4\xE4n kivikuormaa, ja paikkaan jonne h\xE4r\xE4t
+    pys\xE4htyiv\xE4t, rakennettiin kirkko. 1500 -luvun alkupuolella rakentamaan
+    aloitetun kirkon vanha osa on ulottunut saarnastuoliin asti. Milloin kirkon laajennusosa
+    on valmistunut? (vinkki: vastaa vain numeroilla)"
+  enTitle: Tammela Church
+  enText: 'The old story tells that oxen decided the place for the Tammela church.
+    The oxen were pulling stones and where they stopped with the load, was the church
+    built. The church was built in the beginning of 16th century. Later an expansion
+    was built. When was the expansion ready? (hint: answer only by numbers)'

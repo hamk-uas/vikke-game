@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c09d8cd5454d694990f6bd9dc01d641, type: 3}
+  m_Name: Aulanko
+  m_EditorClassIdentifier: 
+  locationStorySprite: {fileID: 21300000, guid: 869510138e73c53479092b23323f9dea,
+    type: 3}
+  task: {fileID: 11400000, guid: 2c80ed14ec228f94dbe458e9556d755b, type: 2}
+  address: "Aulangon Puistomets\xE4, 13210 H\xE4meenlinna"
+  latitude: 61.022263
+  longitude: 24.470125
+  fiTitle: Aulangolla vuonna 1892
+  fiPlace: Aulanko
+  fiText: "Jean Sibelius nojasi m\xE4nnynrunkoon K\xE4rmeskalliolla. H\xE4n oli istunut
+    siin\xE4 jo tovin, katsellut ja kuunnellut kes\xE4isen illan kuvia ja \xE4\xE4ni\xE4
+    ymp\xE4rill\xE4\xE4n. Vanajaveden laakso hehkui keskikes\xE4n sine\xE4 ja vihreytt\xE4.
+    \r\nJokin Sibeliuksen olemuksessa kertoi v\xE4symyksest\xE4. Polulta kuului kuitenkin
+    \xE4rsytt\xE4v\xE4sti l\xE4hestyvi\xE4 askeleita.\r\n\u201DViel\xE4k\xF6 sinua
+    saa kutsua Janneksi?\u201D\r\nJean pomppasi pystyyn ja kaappasi Elli Palanderin
+    reippaaseen halaukseen.\r\n\u201DElli, mist\xE4 tiesit, ett\xE4 olisin t\xE4\xE4ll\xE4?
+    Ja sin\xE4 saat sanoa aina minua Janneksi.\u201D\r\n\u201DOnneksi olkoon. Kullervo
+    sai todella hienon vastaanoton, sit\xE4 on ylistetty joka paikassa.\u201D \r\n\u201DKiitos.
+    Siksi tulinkin t\xE4nne, lapsuuden maisemiin. Halusin olla hulinalta rauhassa
+    ja ime\xE4 voimaa t\xE4st\xE4 uskomattomasta maisemasta, t\xE4st\xE4 kauneudesta,
+    karuudesta ja uljaudesta. Sen haluan kuuluvan musiikistani.\u201D\r\n\u201DSaanko
+    istua hetken seurassasi. Ollaan vaan ihan hiljaa\u201D, Elli vaistosi toisen
+    tarpeen. \r\n\u201DTekisitk\xF6 niin? K\xE4vell\xE4\xE4n sitten yhdess\xE4 alas
+    ja voit kertoa kaiken veljiesi kuulumisista, en ole kuullut heist\xE4 mit\xE4\xE4n
+    pitk\xE4\xE4n aikaan.\u201D\r"
+  enTitle: At Aulanko in 1892
+  enPlace: Aulanko
+  enText: "Jean Sibelius was leaning against the trunk of a pine tree on K\xE4rmeskallio
+    cliff. He had been sitting there for a good while, watching and listening to
+    the summer night, all its sounds and sights. The area around Vanajavesi lake
+    was glowing blue and green in the height of the summer. \r\nSomething in Sibelius\u2019s
+    appearance gave away that he was tired. He was irritated to hear steps nearing
+    on the path.\r\n\u201CCan I still call you Janne?\u201D\r\nJean jumped to his
+    feet and grabbed Elli Palander for an embrace.\r\n\"Elli, how did you know that
+    you would find me here? And you can always call me Janne!\u201D\r\n\"Congratulations.
+    Kullervo was so well received, it has been praised all over!\u201D \r\n\u201CThank
+    you. That is exactly why I am here, in my childhood landscape. I wanted to escape
+    the hustle and bustle and soak up strength from this scenery and its rugged and
+    stately beauty. I want to be able to express it all in my music.\u201D\r\n\u201CCan
+    I sit with you for a while. In silence,\u201D Elli said, sensing what he needed.
+    \r\n\"Would you do that? We can go down together afterwards, and you can tell
+    me all about your brothers, I have not heard from them in such a long time.\u201D\r"

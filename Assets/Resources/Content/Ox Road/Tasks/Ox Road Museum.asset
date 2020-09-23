@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a820a2ca58514144ab9f50b01a6196da, type: 3}
+  m_Name: Ox Road Museum
+  m_EditorClassIdentifier: 
+  taskviewSprite: {fileID: 21300000, guid: bd4d8f87218219e41b7fd57a8c21aad0, type: 3}
+  answers:
+  - 1800
+  - 19
+  - 19th
+  isARTask: 0
+  fiTitle: "H\xE4rk\xE4tien museo"
+  fiText: "H\xE4rk\xE4tien museoon on koottu H\xE4meen H\xE4rk\xE4tien historiasta,
+    paikallisesta talonpoikaiskulttuurista sek\xE4 viereisest\xE4 Rengon kirkosta
+    kertovaa esineist\xF6\xE4. Museosta l\xF6ytyy mm. iestetty h\xE4rk\xE4pari, kievarihevonen
+    ja \"viinakalu\" eli t\xE4ydellinen viinan kotipolttosarja 1800-luvulta sek\xE4
+    viisimetrinen karttapiirros H\xE4meen H\xE4rk\xE4tiest\xE4.\r\n\r\nMill\xE4 vuosisadalla
+    museorakennus on rakennettu? (vihje: vastaa vain numeroilla)"
+  enTitle: Ox Road Museum
+  enText: 'In the Oxen Road museum, you can find things about the Oxen Road history,
+    local farmer culture and objects from the Renko church. There is e.g. complete
+    spirit home brewery from the 19th century and five-meter-long Oxen Road map.
+    In which century the museum building was built? (hint: answer by using only numbers)'

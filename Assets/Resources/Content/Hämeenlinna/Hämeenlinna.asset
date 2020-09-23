@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56a04c58f8da67246b528c1b0a0e4f98, type: 3}
+  m_Name: "H\xE4meenlinna"
+  m_EditorClassIdentifier: 
+  storytellingSprite: {fileID: 21300000, guid: a1bba56feee197944ac22f34bbb8b7ea, type: 3}
+  locationMapSprite: {fileID: 21300000, guid: 313256b2307b30940b2ade77e06b978d, type: 3}
+  locations:
+  - {fileID: 11400000, guid: c017b216ab8dfd24b8a1dcbe53431c35, type: 2}
+  - {fileID: 11400000, guid: b70eff4d3800b8045884834d3870851f, type: 2}
+  - {fileID: 11400000, guid: 98d6d27797343d840839f43cfe54f32f, type: 2}
+  - {fileID: 11400000, guid: 7e21b2b3632cb1547b79be6680cc497b, type: 2}
+  - {fileID: 11400000, guid: c0ff69d1c44a4b74fa2b4c8f3b76f8e1, type: 2}
+  - {fileID: 11400000, guid: d03a9e63a2ed7f040a5438dfa9127819, type: 2}
+  - {fileID: 11400000, guid: e08e82d09901d6c478d8a52572ad1bbf, type: 2}
+  - {fileID: 11400000, guid: eae51441f0359f64a871d98d2477e14f, type: 2}
+  - {fileID: 11400000, guid: 83928700678510743b11403a2dc6c811, type: 2}
+  - {fileID: 11400000, guid: 15526c08b03717b429d875d70e1c5213, type: 2}
+  - {fileID: 11400000, guid: 20c1793966d226b49a6e491fc43c8172, type: 2}
+  fiTitle: Elli ja kadonnut sormus
+  fiDesc: "H\xE4meenlinna"
+  fiIntroText: "Elli Ottilia Palander oli kuusilapsisen katraan vanhin ja ainoa tyt\xE4r.
+    Arvatenkin h\xE4nen aikansa kului lapsena viiden veljens\xE4 kanssa, mutta Elli
+    oli my\xF6s opinhaluinen. Hyv\xE4osaisena h\xE4nt\xE4 kiinnosti my\xF6s auttaminen
+    ja huonompiosaisten parissa teht\xE4v\xE4 hyv\xE4ntekev\xE4isyys sek\xE4 monenlaiset
+    taiteet. H\xE4n oli aikaansa edell\xE4, avarakatseinen ja ennakkoluuloton \u2013
+    siksi h\xE4nt\xE4 pidettiin my\xF6s villin\xE4. H\xE4n ei viihtynyt salongeissa
+    koruommelten parissa.\r\n\r\nElli l\xE4hti mielell\xE4\xE4n kaupungille, tutkimaan
+    el\xE4m\xE4n erilaisia puolia ja h\xE4n halusi n\xE4hd\xE4 monenlaisia paikkoja
+    ja el\xE4m\xE4ntapoja. Retkill\xE4\xE4n h\xE4n tapasi mielenkiintoisia ihmisi\xE4
+    ja n\xE4kee monenlaisia asioita. \r\n\r\nEr\xE4\xE4n\xE4 p\xE4iv\xE4n\xE4 h\xE4n
+    huomaa, ett\xE4 on kadottanut \xE4idilt\xE4\xE4n saamansa sormuksen. \xC4iti
+    ei suutu, mutta huokaa pahoilla mielin. Ellin on l\xF6ydett\xE4v\xE4 koru. Mutta
+    mist\xE4? H\xE4n on kulkenut monessa paikassa, linnassakin ja kuunnellut h\xE4nelle
+    kerrottuja tarinoita. P\xE4\xE4 py\xF6r\xE4ll\xE4 h\xE4n miettii mik\xE4 on totta
+    ja miten kaikki on mahdollista? \r\n\r\nMiten h\xE4n p\xE4\xE4si ajassa eteenp\xE4in
+    ja taaksep\xE4in? Ja miss\xE4 on \xE4idilt\xE4 saatu sormus?\r"
+  fiOutroText: "\u201DLuojan kiitos!\u201D Huokaa Elli Palanderin \xE4iti, Ottilia-rouva.
+    \r\nEllin kuume on vihdoin laskenut. H\xE4n katselee \xE4iti\xE4\xE4n h\xE4mmentyneen\xE4
+    ja miettii, miksi on peiton alla vuoteessaan, vaikka ulkona paistaa aurinko.
+    \r\n\u201D\xC4iti, anteeksi se sormus. En l\xF6yt\xE4nyt sit\xE4.\u201D\r\n\u201DSe
+    on k\xE4dess\xE4si, kultaseni. Hourit siit\xE4 ja rauhoituit vasta, kun laitoin
+    sen sormeesi.\u201D\r\nElli katsoo k\xE4tt\xE4\xE4n, siin\xE4 on sormus.\r\n\u201DMin\xE4
+    k\xE4vin kaukana. Tapasin Elias L\xF6nnrotinkin ja n\xE4in, milt\xE4 kaupunki
+    n\xE4ytt\xE4\xE4 joskus tulevaisuudessa. N\xE4in, miten meit\xE4 muistellaan
+    ja millainen on Janne joskus pienen\xE4 ollut ja mit\xE4 tapahtuu meid\xE4n pakarituvassa
+    sitten, kun aikaa on kulunut tarpeeksi.\r\n\u201DSin\xE4 hourit monta p\xE4iv\xE4\xE4
+    kovassa kuumeessa. \xC4l\xE4 ajattele niit\xE4 en\xE4\xE4, veljet ja is\xE4kin
+    haluavat n\xE4hd\xE4 sinut. Olemme niin onnellisia, ett\xE4 paranet. En\xE4\xE4
+    en p\xE4\xE4st\xE4 sinua kaupungille niin v\xE4hiss\xE4 vaatteissa, olimme niin
+    peloissamme. Janne on kysellyt vointiasi, samoin nuori mies, apteekkariksi opiskeleva
+    Kaarlo Wegelius, tunnetko sin\xE4 h\xE4net? \u201D\r\n\u201DH\xE4n oli is\xE4n
+    nimip\xE4ivill\xE4 apteekkarin kanssa, etk\xF6 muista. Itse sanoit, ett\xE4 h\xE4n
+    olisi hyv\xE4 sulhanen minulle.\u201D\r"
+  enTitle: Elli and the lost ring
+  enDesc: "H\xE4meenlinna"
+  enIntroText: "Elli Ottilia Palander was the oldest of six children and the only
+    girl. When she was a child, she probably spent her time with her five brothers,
+    but Elli also wanted to go to school. She was a well-off girl who was interested
+    in helping others and doing charity work with those less fortunate. She was also
+    interested in art in many forms. She was ahead of her time, open-minded and unprejudiced
+    and \u2013 consequently\u2013 often seen as unruly. She did not enjoy parlours
+    or embroidery.\r\nElli liked to go out to town and see the different sides of
+    life, to get to know different types of places and lifestyles. She met interesting
+    people on her trips and saw many things. \r\n\r\nOne day she noticed that she
+    had lost a ring her mother had given her. Her mother will not be angry, she will
+    just sigh and be upset. Elli has to find the ring. But where? She has been to
+    so many places, even the castle, and listened to all the stories people have
+    told her. Her head was swirling, and she wondered what is true and how can all
+    this be possible? \r\n\r\nHow did she manage to travel forward and back in time?
+    And where is her mother\u2019s ring?\r"
+  enOutroText: "\u201CThank God!\u201D Elli Palander\u2019s mother, Ottilia, exclaims.
+    \r\nElli's fever has finally broken. She is looking at her mother, confused,
+    and wonders why she is under the covers in her bed, even though the sun is shining
+    outside. \r\n\"Mother, I am so sorry about the ring. I could not find it.\"\r\n\u201CYou
+    are wearing it, darling. You were hallucinating and did not calm down until I
+    put it on your finger.\"\r\nElli looks at her hand. The ring is there.\r\n\"I
+    travelled so far. I even met Elias L\xF6nnrot, and saw what the town will look
+    like in the future. I saw how people will remember us, and what Janne was like
+    when he was small, and what will happen in our bakehouse when enough time has
+    passed.\u201D\r\n\"You had a high fever and were hallucinating for days. Stop
+    thinking about it now, your father and brothers want to see you. We are all so
+    happy that you will be fine. I will not let you go out to town so lightly dressed
+    anymore, we were so worried. Janne has inquired how you are, as well as a young
+    man, Kaarlo Wegelius, who is studying to become an apothecary, do you know him?
+    \"\r\n\"He was here for father\u2019s name day party with the apothecary, don\u2019t
+    you remember? You yourself said he would be good fianc\xE9 for me.\""

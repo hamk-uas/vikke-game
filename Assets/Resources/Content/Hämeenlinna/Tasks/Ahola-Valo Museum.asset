@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a820a2ca58514144ab9f50b01a6196da, type: 3}
+  m_Name: Ahola-Valo Museum
+  m_EditorClassIdentifier: 
+  taskviewSprite: {fileID: 21300000, guid: 5d2a60b0a5bc8fe488000715ea9c90bf, type: 3}
+  answers:
+  - 11
+  - yksitoista
+  - eleven
+  isARTask: 0
+  fiTitle: Ahola-Valo museo
+  fiText: "Saavuttaessa Viipurintielt\xE4 Verkatehtaalle on pienen liikkeen ikkunassa
+    Ahola-Valon sielu, ylev\xE4 kuva maailman hengitystapahtumasta. Sielu viekoittelee
+    k\xE4velem\xE4\xE4n sis\xE4\xE4n ja tutustumaan Ahola-Valon viisaan rakkauden
+    maailmaan. Laske kuinka monta kirjainta on liikkeen nimess\xE4?"
+  enTitle: Ahola-Valo Museum
+  enText: "When you arrive in Verkatehdas from Viipurintie there is Ahola-Valo's
+    Soul, a lofty picture of the World breathing in the window of a small shop. The
+    Soul entices you to walk right in and to get\u202F to know Ahola-Valo's world
+    of wise love. \r\n\r\nHow many letters there are in the shop's name?\u202F(hint
+    answer by numbers)"

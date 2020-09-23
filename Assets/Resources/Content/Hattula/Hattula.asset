@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56a04c58f8da67246b528c1b0a0e4f98, type: 3}
+  m_Name: Hattula
+  m_EditorClassIdentifier: 
+  storytellingSprite: {fileID: 21300000, guid: 4c5c6daa00c33ed4aa370d8aa9340bf9, type: 3}
+  locationMapSprite: {fileID: 21300000, guid: 21f8c236b6b2a0a43a89fc04a4cbd1e7, type: 3}
+  locations:
+  - {fileID: 11400000, guid: afbeb8d9fe62d2042a3ded23492fe327, type: 2}
+  - {fileID: 11400000, guid: 19b7e4fd3a029ab4cbe150cc26319f54, type: 2}
+  - {fileID: 11400000, guid: 0e541c8a286a27141a4eba1f5017972b, type: 2}
+  - {fileID: 11400000, guid: 327f4e20c5209da468e2f96fef622cca, type: 2}
+  - {fileID: 11400000, guid: ad017e8bfacc6b1419e8045b957039e3, type: 2}
+  fiTitle: Leijona vartiossa
+  fiDesc: Hattula
+  fiIntroText: "Hattulan Parolannummelta olevan Parolan leijonan k\xE4p\xE4l\xE4n
+    alta on kadonnut kuula.\r\n\r\nMonet ovat sit\xE4 mielt\xE4, ett\xE4 kuulan varastamiseen
+    on tarvittu mystisi\xE4 voimia tai se ainakin ennustaa jotain \u2013 mit\xE4,
+    siit\xE4kin on jokaisella oma mielipiteens\xE4. Miten se oikein p\xE4\xE4si h\xE4vi\xE4m\xE4\xE4n
+    ja miten se on irrotettu? Kysymykset ovat kaikkien huulilla, vastauksia ei kell\xE4\xE4n.\r\n\r\nPaikallinen
+    konstaapeli Laurikainen on apulaistensa kanssa haravoinut maastoa ja kyl\xE4n
+    baarissa kerrotaan, tosijuttuna, ett\xE4 mets\xE4st\xE4 oli l\xF6ytynyt tummanruskea
+    munkin puku.\r\n\r\nSamanaikaisesti leijonapatsaalla k\xE4y kuhina. Joku tuntematon
+    on luvannut tuhannen euroa kuulan tuomisesta paikoilleen. Monenlaista kuulaa
+    sovitellaan leijonan k\xE4p\xE4l\xE4n alle, liian isoja, liian pieni\xE4.\r\n\r\nSitten
+    tulee varsinainen uutinen; ei se munkin puku ollut, vaan vanha sotilaspuku. Kurasta
+    ruskea. Etsinn\xE4tkin siirretty kirkon luokse, siell\xE4 n\xE4hty joku sotilaspuvussa
+    h\xE4m\xE4riss\xE4 vadelmia sy\xF6m\xE4ss\xE4. My\xF6s vieras kulkija, Antero,
+    puhui sy\xF6neens\xE4 vadelmia ja n\xE4hneens\xE4 kummia n\xE4kyj\xE4 sek\xE4
+    puhui jotain aikamatkoista. T\xE4t\xE4 konstaapeli Laurikainen ihmetteli."
+  fiOutroText: "Antero astui Juteinitalon ovesta sis\xE4\xE4n. H\xE4n arveli, ett\xE4
+    siell\xE4 on paikallisia vastaamaan h\xE4nen kysymyksiins\xE4.\r\n\r\nH\xE4n
+    pys\xE4ytti yst\xE4v\xE4llisen n\xE4k\xF6isen vahtimestarin.\r\n\r\n\u201DVoisitteko
+    auttaa minua? Pys\xE4hdyin ohikulkumatkalla t\xE4\xE4ll\xE4 Hattulassa.\r\n\r\nL\xF6ysin
+    muuten hyvi\xE4 vadelmia ja p\xE4\xE4tin lev\xE4t\xE4. Kun her\xE4sin, vieress\xE4ni
+    oli t\xE4llainen kuula, mist\xE4 lie kadonnut?\u201D\r\n\r\nV\xE4ki hiljeni ymp\xE4rill\xE4.\r\n\r\n\u201DSaitte
+    sitten kirkonkin rakennettua, vaikka niin Eriki\xE4 ep\xE4ilitte. Ja Viktor edelleen
+    vartioi\r\n\r\nvaruskunnassa. Anna-paralla kamala kohtalo. Kas Juteinikin on
+    t\xE4\xE4ll\xE4. Hienoa!\u201D Sanoi Antero kerraten asioita, joita h\xE4n oli
+    n\xE4hnyt ja kuullut matkallaan.\r\n\r\nMies laski hitaasti kuulan k\xE4sist\xE4\xE4n
+    lattialle.\r\n\r\n\u201DTaidanpa jatkaa matkaa tuolta Mierolan sillan kautta,
+    siell\xE4 lienee taas rauhallista ja uusi, entist\xE4\r\n\r\nehompi silta valmis\u201D,
+    jatkoi Antero, kun kukaan ei kommentoinut h\xE4nen puheitaan.\r\n\r\nHiljaisuuden
+    vallitessa mies per\xE4\xE4ntyy ovelle, ja h\xE4vi\xE4\xE4 h\xE4m\xE4rtyneeseen
+    iltaan. Kuka kuulan vei, ei koskaan selvinnyt, mutta kaikki olivat tyytyv\xE4isi\xE4
+    sen l\xF6ydytty\xE4."
+  enTitle: A Guarding Lion
+  enDesc: Hattula
+  enIntroText: "The ball under the paw of the Parola Lion, located on Parolannummi,
+    has disappeared.\n\nMany people think that magic was employed in the theft of
+    the ball, or that it is at least a prophecy of something. What exactly happened?
+    Everyone seems to have their own opinion about its disappearance and how it was
+    removed. These questions are on everyone's lips, but no-one has the answers.\n\nLaurikainen,
+    a local police officer, and his assistants have combed the surrounding areas.
+    A story is being told in the village pub that a dark brown monk\u2019s robe was
+    found in the forest.\n\nAt the same time, people were swarming near the lion
+    statue. Someone wishing to stay anonymous had promised one thousand euros if
+    the ball was returned. People were trying out all sorts of balls underneath the
+    lion\u2019s paw: some of them too big, some too small.\n\nThen the news came:
+    it was not a monk\u2019s robe, but an old military uniform, brown with mud. The
+    search now focuses around the church where someone had been seen wearing a uniform
+    and eating raspberries in the dark. A vagabond called Antero also told a story
+    of eating raspberries and seeing strange visions and something about time travel.
+    Police officer Laurikainen was perplexed."
+  enOutroText: "Antero stepped into to the Juteini House looking for locals willing
+    to answer his questions.\n\nHe stopped a friendly-looking doorman.\n\n\"Could
+    you help me? I stopped here in Hattula as I was passing by.\n\nI found some nice
+    raspberries and decided to rest. When I woke up, this ball was lying beside me.
+    I wonder where it came from.\"\n\nEveryone around him was suddenly silent.\n\n\"You
+    managed to build the church after all, even though you were so wary of Erik.
+    And Viktor is still keeping guard at the garrison. Poor Anna, such a horrible
+    fate. And Juteini is here, too. Great!\u201D Antero rambled going through the
+    things he had seen and heard on the way.\n\nThe man slowly placed the ball on
+    the floor.\n\n\"I think I will continue on my way via the Mierola Bridge next,
+    I am sure it will be peaceful there and the new, handsome bridge has been completed\",
+    Antero went on as no-one made any remarks about his stories.\n\nThe man retreats
+    to the door in silence and disappears into the night as dusk is falling. It was
+    never discovered who took the ball, but everyone is happy that it had been found."

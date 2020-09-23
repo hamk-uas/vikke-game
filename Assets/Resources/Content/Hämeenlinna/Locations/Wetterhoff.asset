@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c09d8cd5454d694990f6bd9dc01d641, type: 3}
+  m_Name: Wetterhoff
+  m_EditorClassIdentifier: 
+  locationStorySprite: {fileID: 21300000, guid: b9ce16453db2e374280f269600c7f5b4,
+    type: 3}
+  task: {fileID: 11400000, guid: fa76278816983c348bc724bf620680e1, type: 2}
+  address: "Wetterhoffinkatu 4, 13100 H\xE4meenlinna"
+  latitude: 60.995525
+  longitude: 24.46766
+  fiTitle: "Otteita Fredrikan kuvitteellisesta p\xE4iv\xE4kirjasta vuosina 1884 ja
+    1885"
+  fiPlace: Wetterhoff
+  fiText: "Kev\xE4\xE4ll\xE4 1884\r\nVihdoin kotona! T\xE4\xE4ll\xE4 H\xE4meenlinnassa
+    on jo melkein kes\xE4! Matka kotiin sujui miellytt\xE4v\xE4sti, tulihan rakas
+    yst\xE4v\xE4ni Lucina Hagman minua tervehtim\xE4n Tukholmaan ja yhdess\xE4 matkasimme
+    kotiin. \r\nVuonna 1885 helmikuu\r\nOlen ilokseni p\xE4\xE4ssyt hy\xF6dynt\xE4m\xE4\xE4n
+    Tukholmassa saamiani oppeja ja opettamaan niit\xE4 Lyceekartanon oppilaille!
+    Minulla on monia hienoja oppilaita. Er\xE4skin Sibeliuksen Janne on kyll\xE4
+    hyvin lahjakas musiikillisesti, mutta toivoisin h\xE4nen perehtyv\xE4n ranskan
+    kielen opiskeluun hiukan enemm\xE4n.\r\nP\xE4\xE4tin kirjoittaa H\xE4meen Sanomiin
+    artikkelin, jossa ehdotan, ett\xE4 perustaisimme koulun, jossa opetamme nuoria
+    naisia ty\xF6h\xF6n ja ohjaamme heit\xE4 siveelliseen el\xE4m\xE4\xE4n. Tarkoitushan
+    olisi ett\xE4 voisimme tarjota n\xE4ille nuorille naisille ammatin, jota harjoittaessaan
+    he eiv\xE4t lankea kiusauksiin, vaan saavat itselleen elannon. K\xE4sity\xF6taito
+    ja ompelutaito auttavat heit\xE4 seisomaan olmilla jaloillaan.\r\n23.3.1885\r\nNo
+    niin, t\xE4n\xE4\xE4n se on nyt julkistettu: Olemme yhdess\xE4 muutamien yst\xE4vieni
+    kanssa ilmoittaneet H\xE4meen Sanomissa perustavamme k\xE4sity\xF6koulun! Jumala
+    meit\xE4 t\xE4ss\xE4 siunatkoon!\r"
+  enTitle: Extracts
+  enPlace: Wetterhoff
+  enText: "Spring 1884\r\nHome at last! Summer has almost arrived in H\xE4meenlinna!
+    The trip home was a pleasant one, as my dear friend Lucina Hagman came to Stockholm
+    to meet me and we travelled home together. \r\nIn February 1885\r\nI am delighted
+    to have made use of the knowledge that I acquired in Stockholm, and to pass it
+    on to my students at the Lyceum! I have such fine students. One of them, Janne
+    Sibelius, is musically very talented, but I do wish he took his French studies
+    more seriously.\r\nI decided to write an article in H\xE4meen Sanomat to propose
+    the establishment of a school for young women to learn a trade and thus encourage
+    them to live a decent life. The purpose is that we could offer these young women
+    a trade with which they could earn a living and not fall into temptation. Handicraft
+    and sewing skills would help them to stand on their own feet.\r\n23 March 1885\r\n\u201CIt
+    is official! Together with some friends of mine, we have announced in the newspaper
+    that we will establish a school of handicrafts. God bless our effort!\u201D\r"

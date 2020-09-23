@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c09d8cd5454d694990f6bd9dc01d641, type: 3}
+  m_Name: Hauho Church
+  m_EditorClassIdentifier: 
+  locationStorySprite: {fileID: 21300000, guid: 0a8a80469fccb964b9b32cc7b582f50c,
+    type: 3}
+  task: {fileID: 11400000, guid: 497be70bfdc948f49a5e440b730678ca, type: 2}
+  address: Danielson Kalmarintie 1, 14700 Hauho
+  latitude: 61.17117
+  longitude: 24.558365
+  fiTitle: Bartimeus
+  fiPlace: Hauhon kirkko
+  fiText: "Vanha Bartimeus kuuntelee Hauhon kirkon kellojen soittoa, vanhin niist\xE4
+    on vanhempi kuin h\xE4n itse. Vaikka vanha on h\xE4nkin, yksi Suomen vanhimmista
+    vaivaisukoista.\r\n\r\nNyky\xE4\xE4n Bartimeus saa seist\xE4 sis\xE4ll\xE4, mutta
+    aikoinaan h\xE4n asui kirkon pihalla. Isovihan aikaan, 1700-luvun alussa, h\xE4nen
+    kimppuunsa k\xE4vi joukko kasakoita, iskien h\xE4nt\xE4 miekalla keskelle p\xE4\xE4t\xE4
+    ja vieden h\xE4nen rahalippaansa. Viel\xE4kin p\xE4\xE4ss\xE4 n\xE4kyy syv\xE4
+    lovi.\r\n\r\nBartimeus pit\xE4\xE4 omasta kotikirkostaan paljon, vaikka on h\xE4n
+    n\xE4hnyt muutakin maailmaa. H\xE4n on kiert\xE4nyt n\xE4yttelyiss\xE4 ymp\xE4ri
+    Suomen ja matkustipa h\xE4n kerran pehmustetussa vaneriarkussaan Roomaan asti!
+    Eik\xE4 h\xE4n palannut Italiasta kotiin tyhjin k\xE4sin, lippaaseen oli lahjoitettu
+    liiroja.\r\n\r\nPian kirkkoon alkaa saapua v\xE4ke\xE4 jumalanpalvelukseen. Sokea
+    Bartimeus seisoo k\xE4si ojossa, tukien toisella k\xE4dell\xE4 rahalipasta rintaansa
+    vasten. Monet lapset haluavat k\xE4tell\xE4 h\xE4nen uurteisia k\xE4si\xE4\xE4n
+    ja pudottaa kolikon lippaaseen. Bartimeus lahjoittaa ker\xE4\xE4m\xE4ns\xE4 varat
+    kirkon diakoniaty\xF6n hyv\xE4ksi.\r"
+  enTitle: Bartimeus
+  enPlace: Hauho Church
+  enText: "Old Bartimeus is listening to the bells tolling at the Hauho Church. The
+    oldest one of the bells is older than he is. Of course, he is ancient himself,
+    one of the oldest man-shaped poor boxes in Finland.\r\n\r\nNowadays, they let
+    him stand indoors, but once he used to live in the churchyard. In the early 1700s,
+    in the days of the Great Wrath, he was attacked by a group of cossacks, who hit
+    him in the middle of the head with a sword and stole his money box. You can still
+    see a deep cut in his head.\r\n\r\nBartimeus loves his own church a lot, but
+    he has also seen the world. He has travelled around Finland in exhibitions, and
+    once he travelled all the way to Rome in a padded plywood container! And he did
+    not have to come back from Rome empty-handed, either: there were liras in the
+    box!\r\n\r\nPeople are starting to arrive for the service. The blind Bartimeus
+    is standing, holding his hand out, the money box propped against his chest with
+    his other hand. Children often want to grab his grooved hand and drop a coin
+    into the money box. All the money Bartimeus collects is donated to the welfare
+    services of the parish.\r"

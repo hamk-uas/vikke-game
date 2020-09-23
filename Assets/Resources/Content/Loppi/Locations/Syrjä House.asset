@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c09d8cd5454d694990f6bd9dc01d641, type: 3}
+  m_Name: "Syrj\xE4 House"
+  m_EditorClassIdentifier: 
+  locationStorySprite: {fileID: 21300000, guid: 398271bc7cdf3e646a91cf277c0d15be,
+    type: 3}
+  task: {fileID: 11400000, guid: eacfc88a415a3264c841c23e6557d86a, type: 2}
+  address: Kallaksentie 77, 12600 Loppi
+  latitude: 60.67975
+  longitude: 24.439398
+  fiTitle: "Kaste on langennut\u2026"
+  fiPlace: "Syrj\xE4n talo"
+  fiText: "Ida-t\xE4ti hoiti Aino-tytt\xF6\xE4 h\xE4nen toipilasaikanaan Syrj\xE4n
+    talossa. Aino kun oli niin sairastellut kaupungissa, ett\xE4 koulukin j\xE4i
+    kesken. Syrj\xE4ss\xE4 Ainolla oli yst\xE4v\xE4: Aino ja kirkkoherran tyt\xE4r
+    Helmi olivat syd\xE4nyst\xE4vi\xE4 ja tyt\xF6t juoksivat aina yhdess\xE4 mets\xE4\xE4n
+    leikkim\xE4\xE4n \u2013 kun vain Ida-t\xE4ti ei huomannut. Voi onnellisia kesi\xE4,
+    mehil\xE4isen lentoa, kukkien sine\xE4, mets\xE4n vihre\xE4\xE4 h\xE4m\xE4r\xE4\xE4.
+    \r\n\r\nEik\xE4 Ida-t\xE4ti heille oikeasti suuttunut. Kilttej\xE4 tytt\xF6j\xE4h\xE4n
+    he olivat, runoja kirjoittelivat, varsinkin Aino ja hienoissa mekkosissaan m\xE4tt\xE4ill\xE4
+    istuivat. \r\n\r\nAino kasvoi nuoreksi neidoksi, meni naimisiin, mutta palasi
+    viel\xE4 omien lastensakin kanssa Syrj\xE4n taloon ja varmasti n\xE4ytti lapsilleen
+    h\xE4nen ja Helmin rakkaat leikkipaikat.\r\nJa niin kauniisti Aino Kailas kuvasi
+    suomalaista luontoa: \r\n\u201CKaste on langennut yli katajaisen laitumen \r\nSorsa
+    on kaislikossa vaiti ja lampaatkin lep\xE4\xE4v\xE4t. \r\nYli katajaisen kankaan
+    hiipii y\xF6. \r\nLuoja, anna luoduillesi armo ja rauha."
+  enTitle: Dew has fallen...
+  enPlace: "Syrj\xE4 House"
+  enText: "Aunt Ida used to take care of Aino during her convalescence in the Syrj\xE4
+    house. Aino had been so sickly in the city that she had to withdraw from school.
+    At Syrj\xE4, she had a friend, Helmi, the parson\u2019s daughter. They were best
+    friends and always used to run together into the forest to play when Aunt Ida
+    did not see. Such happy summers, flying bees, blue flowers, and the green, dim
+    light of the forest. \r\nAunt Ida was not really cross with them. They were nice
+    girls, after all, writing poetry \u2013 especially Aino \u2013 and sitting on
+    the moss in their pretty dresses. \r\n\r\nEven after Aino grew up and got married,
+    she used to return to the Syrj\xE4 house with her own children to show her children
+    all the places she and Helmi loved to play.\r\nAnd Aino Kallas used to write
+    about Finnish nature in such a beautiful manner: \r\n\"The dew has fallen on
+    the bare pastures. \r\nThe mallard swims silent in the reeds and the lambs rest.
+    \r\nNight crawls over the bare pastures. \r\nLord, give your creations mercy
+    and peace.\u201D\r"

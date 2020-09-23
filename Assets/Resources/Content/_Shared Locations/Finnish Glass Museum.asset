@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c09d8cd5454d694990f6bd9dc01d641, type: 3}
+  m_Name: Finnish Glass Museum
+  m_EditorClassIdentifier: 
+  locationStorySprite: {fileID: 21300000, guid: e244aeb43090c0e48b5e1d9c5b0a6236,
+    type: 3}
+  task: {fileID: 11400000, guid: d22d7410317109d46ade810b4a5ddb5f, type: 2}
+  address: "TEHTAANKATU 23, 11910 RIIHIM\xC4KI"
+  latitude: 60.732227
+  longitude: 24.736647
+  fiTitle: "Tapio Wirkkala astuu n\xE4ytt\xE4m\xF6lle"
+  fiPlace: Suomen lasimuseo
+  fiText: "Er\xE4\xE4n\xE4 aamuna lasihyttiin tuli vieras mies. H\xE4n riisui vihre\xE4n
+    samettitakkinsa ja iski sen hytin nokiseen naulaan. Paidanhihat h\xE4n k\xE4\xE4ri
+    rullalle. \r\n\u201DTulkaas t\xE4h\xE4n valoon, niin min\xE4 kerron, mit\xE4
+    mieless\xE4 noin aluksi olisi.\u201D\r\nMies levitti miesten eteen pahvilevyj\xE4.
+    Niihin oli hiilell\xE4 luonnosteltu soikeita lautasia. Toiselle ryhm\xE4lle h\xE4n
+    ojensi luonnoksen maljakosta, joka n\xE4ytti suurelta sienelt\xE4. Kantarelli
+    n\xE4kyi merkityn nimeksikin.\r\n\u201DKatsokaas sill\xE4 aikaa, kun min\xE4
+    kerron Kivel\xE4n porukalle t\xE4st\xE4 toisesta. Ja niin, heitet\xE4\xE4nk\xF6
+    enemm\xE4t tittelit pois? Min\xE4 olen Tapio.\u201D\r\nNiin oli ty\xF6ryhm\xE4\xE4n
+    liittynyt uusi j\xE4sen, suunnittelija. \r\nTapiosta tuli tehtaalla tuttu n\xE4ky.
+    H\xE4n oli rauhallinen ja kuunteli puhaltajien mielipiteit\xE4. Kiinnostunut
+    kaikesta ty\xF6st\xE4 ja jokaisesta lasinpuhaltajasta. \r\n\r\nJoitakin Tapion
+    suunnittelemia esineit\xE4 V\xE4in\xF6 oli hankkinut kotiinkin, kuten nuo kaapissa
+    olevat Tapio-lasit. V\xE4in\xF6n katse osui pikarin s\xE4\xE4ren ilmakuplaan.
+    Pisara \u2013 siin\xE4h\xE4n se on, keijun koti.\r\n\r\nV\xE4in\xF6 ravisti p\xE4\xE4t\xE4\xE4n.
+    Kaikkea h\xE4nkin, vanha mies, miettii.\r"
+  enTitle: Tapio Wirkkala takes the stage
+  enPlace: Finnish Glass Museum
+  enText: "One morning, an unknown man enters the glassblowing studio. He takes off
+    his green corduroy jacket and places it on a sooty coat hook in the studio, rolling
+    up his sleeves. \r\n\u201CCome closer, to the light, and I\u2019ll tell you what
+    I\u2019ve thought we\u2019ll do first.\u201D\r\nThe man spread sheet boards in
+    front of the men. They featured charcoal sketches of oval plates. To the other
+    group, he gave a sketch of a vase that looked like a large mushroom. It was called
+    \u2018Chanterelle\u2019 as well.\r\n\"You look at that while I tell the Kivel\xE4
+    boys about the other one. And by the way, can we forget about the titles? My
+    name is Tapio.\u201D\r\nThat is how the team got a new member: a designer. \r\nTapio
+    became a familiar sight at the factory. He kept cool and listened to the glassblowers\u2019
+    opinions. He was interested in every object and each glassblower. \r\n\r\nV\xE4in\xF6
+    had even bought some objects that Tapio had designed, for example the Tapio glasses
+    that he had in the glass case. The bubble in the foot of the goblet catches V\xE4in\xF6\u2019s
+    eye. There it is, the bubble, the home of the fairy.\r\n\r\nV\xE4in\xF6 shakes
+    his head. An old man like him, coming up with such things.\r"

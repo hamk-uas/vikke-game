@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a820a2ca58514144ab9f50b01a6196da, type: 3}
+  m_Name: Statue of Alfred Kordelin
+  m_EditorClassIdentifier: 
+  taskviewSprite: {fileID: 21300000, guid: 0641dba8ad6a8e74391fc0591ce8d487, type: 3}
+  answers:
+  - mommila
+  isARTask: 0
+  fiTitle: Alfred Kordelinin muistomerkki
+  fiText: "Alfred Kordelin oli menestyv\xE4 liikemies, joka loi omaisuutensa t\xE4ysin
+    tyhj\xE4st\xE4. Kordelin kuoli niin sanotussa Mommilan kahakassa, kun ven\xE4l\xE4iset
+    matruusit pid\xE4ttiv\xE4t syntym\xE4p\xE4ivi\xE4\xE4n juhlineen Kordelinin Hausj\xE4rvel\xE4isest\xE4
+    kartanosta. Matruusit l\xE4htiv\xE4t kuljettamaan vankeja, mutta he joutuivat
+    tulitaisteluun suojeluskuntalaisten kanssa. Sekasortoisessa tilanteessa yksi
+    matruuseista ampui Kordelinin.\r\n\r\nMik\xE4 on kyl\xE4n nimi Hausj\xE4rvell\xE4,
+    jossa Kordelinin muistomerkki sijaitsee?"
+  enTitle: Statue of Alfred Kordelin
+  enText: "Alfred Kordelin was a successful business man, who created his property
+    from a scratch. Kordelin died in so called Mommila\u2019s skirmish. The Russian
+    seamen arrested Kordelin, who was celebrating his birthday in a mansion situated
+    in Hausj\xE4rvi. The seamen and the prisoners got into a gunfight. In the chaotic
+    situation one of the seamen shoot Kordelin.\r\n\r\nWhat is the name of the village
+    in Hausj\xE4rvi, where Kordelin\u2019s memorial is situated?"

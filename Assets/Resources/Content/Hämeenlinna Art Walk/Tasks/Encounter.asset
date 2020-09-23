@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a820a2ca58514144ab9f50b01a6196da, type: 3}
+  m_Name: Encounter
+  m_EditorClassIdentifier: 
+  taskviewSprite: {fileID: 21300000, guid: 6301eeae764af5744b38293399fcea37, type: 3}
+  answers:
+  - Raatihuoneenkatu
+  - Raatihuone street
+  isARTask: 0
+  fiTitle: Kohtaaminen
+  fiText: "Kuvanveist\xE4j\xE4 Pertti Kukkonen on suunnitellut veistoksen nimelt\xE4
+    Kohtaaminen H\xE4meenlinnan keskustan k\xE4velykadulle. Patsaassa on kaksi kuparibetonista
+    suurta kive\xE4 sek\xE4 kaksi allasta, jotka t\xE4yttyv\xE4t ja laskevat vedst\xE4.
+    \n\nMik\xE4 on kadun nimi, jolla t\xE4m\xE4 patsas sijaitsee?"
+  enTitle: Encounter
+  enText: "Sculptor Pertti Kukkonen has designed a statue named\u201D Encounter\u201D.
+    This statue is situated in the H\xE4meenlinna city center. The statue includes
+    two copper concrete stones and two pools, which are filled and emptying from
+    water. \n\nWhat is the name of the street where this statue you can find?"

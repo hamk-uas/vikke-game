@@ -42,6 +42,17 @@ For iOS development:
 
 The repository contains a Jenkinsfile that can be used to automate the build process. Please refer to the [documentation](#Jenkins-Configuration) at the end of the Readme for configuring Jenkins.
 
+### Usage
+
+1. Install compatible Unity Editor
+2. Open the project
+
+To run the application on a mobile device, please follow the Unity [documentation](https://docs.unity3d.com/2019.3/Documentation/Manual/PlatformSpecific.html) for the specific platform. An Android package can be built and installed with a Windows machine, while an iOS package requires Xcode to install the package to a device.
+
+To enable the AR functionalities
+1. Generate a [MAXST license key](https://developer.maxst.com/)
+2. Apply the license key to MaxstAR Configuration asset
+
 ## Application Features
 
 ### MAXST Image Tracker :camera: 
